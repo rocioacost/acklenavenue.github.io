@@ -717,7 +717,8 @@
 		"github": "https://github.com/realpasro09",
 		"linkedin": "https://www.linkedin.com/in/renerosapastrana/",
 		"quote": "“Whoever does not live to serve, does not serve to live”"
-  }, {
+  }, 
+  {
 		"name": "Paulette",
 		"lastName": "Talavera",
 		"gravatarEmail": "paulette@acklenavenue.com",
@@ -754,7 +755,8 @@
 		"github": "https://github.com/fermezquita",
 		"linkedin": "https://www.linkedin.com/in/fernanda-mezquita/",
 		"quote": "“In a world where you can be anything, be kind.”"
-  }, {
+  }, 
+  {
 		"name": "Colin",
 		"lastName": "Callahan",
 		"gravatarEmail": "colin@acklenavenue.com",
@@ -765,6 +767,18 @@
 		"github": "https://github.com/colinxjcallahan",
 		"linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
 		"quote": "“That's what I do, I drink and I know things.” - Tyrion Lannister"
+  }, 
+  {
+		"name": "Angel",
+		"lastName": "Zelaya",
+		"gravatarEmail": "angel.z@acklenavenue.com",
+		"position": "QA",
+		"location":"San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Quality Assurance"],
+		"facebook": "https://www.facebook.com/angelzelaya1974",
+		"github": "https://github.com/AngelZel",
+		"linkedin": "https://www.linkedin.com/in/%C3%A1ngel-josue-zelaya-032b9371/",
+		"quote": "“Do, or do not, there is no try -- Yoda"
   },
 	{
 		"name": "Andrea",
