@@ -557,6 +557,17 @@
 		"twitter": "https://twitter.com/joshchapp",
 		"linkedin": "https://www.linkedin.com/in/joshua-chappell-b585034/",
 		"quote": "Improve everything, all the time; including yourself."
+	},
+	{
+		"name": "Rafael",
+		"lastName": "Sequeiros",
+		"gravatarEmail": "rafael.s@acklenavenue.com",
+		"position": "Developer",
+		"location": "Cortes, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"twitter": "https://twitter.com/rafanetow",
+		"linkedin": "https://www.linkedin.com/in/rafael-sequeiros-6668a4ba/",
+		"quote": "“Curiosity is the wick in the candle of learning.” ―William A"
 	}, 
  	{
 		"name": "Ferenck",
