@@ -279,9 +279,9 @@
 		"github": "https://github.com/camilorivera",
 		"linkedin": "https://www.linkedin.com/in/camiloriverapineda/",
 		"quote": "Devs are from Venus, Ops are from Mars - Steven Haines"
-  },
-  {
-    "name": "Dale",
+	},
+	{
+	    	"name": "Dale",
 		"lastName": "Lyon",
 		"gravatarEmail": "dale@acklenavenue.com",
 		"position": "Sequrity Tester",
@@ -495,7 +495,7 @@
 		"quote": "There is always a solution to every problem"
  },
  	{
- 	  "name": "Douglas",
+ 	  	"name": "Douglas",
  		"lastName": "Guerrero",
  		"gravatarEmail": "dguerrero@acklenavenue.com",
  		"position": "Developer",
@@ -641,7 +641,7 @@
 		"facebook": "https://www.facebook.com/lerik.kopp",
 		"github": "https://github.com/Lerik",
 		"linkedin": "https://www.linkedin.com/in/erick-jacob-ramirez-cruz-129107121/",
-    "quote": "Write your code like you are writing a story for kids."
+    		"quote": "Write your code like you are writing a story for kids."
   },
 	{
 		"name": "Dante",
@@ -750,7 +750,7 @@
 		"gravatarEmail": "fernanda.mezquita@acklenavenue.com",
 		"position": "Marketing & Social Media",
 		"location": "San Pedro Sula, Honduras",
-		"department": ["All Ackleners", "Leadership and Operations"],
+		"department": ["All Ackleners", "Leadership & Operations"],
 		"facebook": "https://www.facebook.com/mezquita.fernanda",
 		"github": "https://github.com/fermezquita",
 		"linkedin": "https://www.linkedin.com/in/fernanda-mezquita/",
@@ -762,7 +762,7 @@
 		"gravatarEmail": "colin@acklenavenue.com",
 		"position": "CEO",
 		"location":"Nashville, United States",
-		"department": ["All Ackleners", "Leadership and Operations"],
+		"department": ["All Ackleners", "Leadership & Operations"],
 		"facebook": "https://www.facebook.com/colin.callahan.33?ref=bookmarks",
 		"github": "https://github.com/colinxjcallahan",
 		"linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
@@ -791,5 +791,14 @@
 		"twitter": "https://twitter.com/andy_rbk",
 		"linkedin": "https://www.linkedin.com/in/armn27",
 		"quote": "Blessed are the forgetful, for they get the better even of their blunders.― Friedrich Nietzsche" 
-	}
+	},
+  	{
+		"name": "Nadia",
+		"lastName": "Aguilar",
+		"gravatarEmail": "nadia@acklenavenue.com",
+		"position": "Junior Designer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Designers"],
+		"quote": "Graphic design will save the world right after rock and roll does. David Carson"
+  	}
 ]
