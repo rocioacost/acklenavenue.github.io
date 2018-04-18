@@ -824,4 +824,13 @@
 		"department": ["All Ackleners", "Designers"],
 		"quote": "Graphic design will save the world right after rock and roll does. David Carson"
   	}
-]
+],
+  	{
+		"name": "Pamela",
+		"lastName": "Sommardahl",
+		"gravatarEmail": "pamela@acklenavenue.com",
+		"position": "Director of People Operations",
+		"location": "Santa Ana, Honduras",
+		"department": ["All Ackleners", "Human Resourses"],
+		"quote": " I can do all things throgh Christ who strengthens me"
+  	}
