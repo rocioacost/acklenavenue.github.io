@@ -755,5 +755,16 @@
 		"github": "https://github.com/colinxjcallahan",
 		"linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
 		"quote": "“That's what I do, I drink and I know things.” - Tyrion Lannister"
+  }, {
+		"name": "Angel",
+		"lastName": "Zelaya",
+		"gravatarEmail": "angel.z@acklenavenue.com",
+		"position": "QA",
+		"location":"San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Quality Assurance"],
+		"facebook": "https://www.facebook.com/angelzelaya1974",
+		"github": "https://github.com/AngelZel",
+		"linkedin": "https://www.linkedin.com/in/%C3%A1ngel-josue-zelaya-032b9371/",
+		"quote": "“Do, or do not, there is no try -- Yoda"
   }
 ]
