@@ -279,6 +279,17 @@
 		"github": "https://github.com/camilorivera",
 		"linkedin": "https://www.linkedin.com/in/camiloriverapineda/",
 		"quote": "Devs are from Venus, Ops are from Mars - Steven Haines"
+  },
+  {
+    "name": "Dale",
+		"lastName": "Lyon",
+		"gravatarEmail": "dale@acklenavenue.com",
+		"position": "Sequrity Tester",
+		"location": "Chattanooga, Tennessee",
+		"department": ["All Ackleners", "Security"],
+		"github": "https://github.com/DaleLyon",
+		"linkedin": "https://www.linkedin.com/in/dale-lyon-829b61128/",
+		"quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are. - MewTwo"
 	},
 	{
 		"name": "Carlos",
@@ -630,7 +641,6 @@
 		"facebook": "https://www.facebook.com/lerik.kopp",
 		"github": "https://github.com/Lerik",
 		"linkedin": "https://www.linkedin.com/in/erick-jacob-ramirez-cruz-129107121/",
-
     "quote": "Write your code like you are writing a story for kids."
   },
 	{
