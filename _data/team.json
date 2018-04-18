@@ -12,7 +12,7 @@
 		"facebook": "https://www.facebook.com/cesarwelch",
 		"twitter": "https://twitter.com/cesarwelch",
 		"github": "https://github.com/cesarwelch",
-		"linkedin": "https://www.linkedin.com/in/cesar-welchez-duran-20b45a125/",
+		"linkedin": "https://www.linkedin.com/in/cesar-welchez-20b45a125/",
 		"quote": "Acklen Avenue Rocks so Much!"
 	},
 	{
@@ -281,6 +281,17 @@
 		"quote": "Devs are from Venus, Ops are from Mars - Steven Haines"
 	},
 	{
+	    	"name": "Dale",
+		"lastName": "Lyon",
+		"gravatarEmail": "dale@acklenavenue.com",
+		"position": "Sequrity Tester",
+		"location": "Chattanooga, Tennessee",
+		"department": ["All Ackleners", "Security"],
+		"github": "https://github.com/DaleLyon",
+		"linkedin": "https://www.linkedin.com/in/dale-lyon-829b61128/",
+		"quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are. - MewTwo"
+	},
+	{
 		"name": "Carlos",
 		"lastName": "Fontecha",
 		"gravatarEmail": "cfontecha@acklenavenue.com",
@@ -375,16 +386,6 @@
 		"github":"https://github.com/Raimmaster",
 		"linkedin": "https://www.linkedin.com/in/raim-interiano/",
 		"quote": "“There is only one corner of the universe you can be certain of improving, and that's your own self.” - Aldous Huxley."
-  },
-  {
-    "name": "Carlos",
-    "lastName": "Fontecha",
-    "gravatarEmail": "cfontecha@acklenavenue.com",
-    "position": "Product Owner",
-    "location": "Tegucigalpa, Honduras",
-    "department": ["All Ackleners", "Product Owners"],
-    "linkedin": "https://www.linkedin.com/in/cfontecha/",
-    "quote": ""
   },
   {
 		"name": "José",
@@ -494,7 +495,7 @@
 		"quote": "There is always a solution to every problem"
  },
  	{
- 	  "name": "Douglas",
+ 	  	"name": "Douglas",
  		"lastName": "Guerrero",
  		"gravatarEmail": "dguerrero@acklenavenue.com",
  		"position": "Developer",
@@ -640,8 +641,7 @@
 		"facebook": "https://www.facebook.com/lerik.kopp",
 		"github": "https://github.com/Lerik",
 		"linkedin": "https://www.linkedin.com/in/erick-jacob-ramirez-cruz-129107121/",
-
-    "quote": "Write your code like you are writing a story for kids."
+    		"quote": "Write your code like you are writing a story for kids."
   },
 	{
 		"name": "Dante",
@@ -717,7 +717,22 @@
 		"github": "https://github.com/realpasro09",
 		"linkedin": "https://www.linkedin.com/in/renerosapastrana/",
 		"quote": "“Whoever does not live to serve, does not serve to live”"
-  }, {
+  }, 
+  {
+		"name": "Paulette",
+		"lastName": "Talavera",
+		"gravatarEmail": "paulette@acklenavenue.com",
+		"position": "Product Owner",
+		"location": "Tegucigalpa, Honduras",
+		"department": [
+			"All Ackleners",
+			"Product Owners"
+		],
+		"facebook": "https://www.facebook.com/paulette.talavera",
+		"github": "https://github.com/PauletteTM",
+		"quote": "It is better to know how to learn than to know. - Dr Seuss"
+	},
+  {
 		"name": "Douglas",
 		"lastName": "Ponce",
 		"gravatarEmail": "douglas@acklenavenue.com",
@@ -728,16 +743,62 @@
 		"github": "https://github.com/DouglasPonce85",
 		"linkedin": "https://www.linkedin.com/in/douglas-ponce-73b217ab/",
 		"quote": "“Christ in you, the hope of glory”"
-  }, {
+  },
+  {
+		"name": "Fernanda",
+		"lastName": "Mezquita",
+		"gravatarEmail": "fernanda.mezquita@acklenavenue.com",
+		"position": "Marketing & Social Media",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Leadership & Operations"],
+		"facebook": "https://www.facebook.com/mezquita.fernanda",
+		"github": "https://github.com/fermezquita",
+		"linkedin": "https://www.linkedin.com/in/fernanda-mezquita/",
+		"quote": "“In a world where you can be anything, be kind.”"
+  }, 
+  {
 		"name": "Colin",
 		"lastName": "Callahan",
 		"gravatarEmail": "colin@acklenavenue.com",
 		"position": "CEO",
-		"location": "Nashville, TN",
+		"location":"Nashville, United States",
 		"department": ["All Ackleners", "Leadership & Operations"],
 		"facebook": "https://www.facebook.com/colin.callahan.33?ref=bookmarks",
 		"github": "https://github.com/colinxjcallahan",
 		"linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
 		"quote": "“That's what I do, I drink and I know things.” - Tyrion Lannister"
-  }
+  }, 
+  {
+		"name": "Angel",
+		"lastName": "Zelaya",
+		"gravatarEmail": "angel.z@acklenavenue.com",
+		"position": "QA",
+		"location":"San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Quality Assurance"],
+		"facebook": "https://www.facebook.com/angelzelaya1974",
+		"github": "https://github.com/AngelZel",
+		"linkedin": "https://www.linkedin.com/in/%C3%A1ngel-josue-zelaya-032b9371/",
+		"quote": "“Do, or do not, there is no try -- Yoda"
+  },
+	{
+		"name": "Andrea",
+		"lastName": "Medina",
+		"gravatarEmail": "andrea.m@acklenavenue.com",
+		"position": "Quality Assurance",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners",	"Quality Assurance"],
+		"github": "https://github.com/armn27",
+		"twitter": "https://twitter.com/andy_rbk",
+		"linkedin": "https://www.linkedin.com/in/armn27",
+		"quote": "Blessed are the forgetful, for they get the better even of their blunders.― Friedrich Nietzsche" 
+	},
+  	{
+		"name": "Nadia",
+		"lastName": "Aguilar",
+		"gravatarEmail": "nadia@acklenavenue.com",
+		"position": "Junior Designer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Designers"],
+		"quote": "Graphic design will save the world right after rock and roll does. David Carson"
+  	}
 ]
