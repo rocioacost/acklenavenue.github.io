@@ -850,5 +850,14 @@
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"quote": "What we think, we become."
+  	},
+{
+		"name": "Sonia",
+		"lastName": "Sappenfield",
+		"gravatarEmail": "sonia.sappenfield@acklenavenue.com",
+		"position": "Engagement Manager",
+		"location": "Nashville, Tennessee",
+		"department": ["All Ackleners", "Engagement Manager"],
+		"quote": "Opportunities aren't given, they are created."
   	}
 ]
