@@ -833,4 +833,13 @@
 		"location": "Santa Ana, Honduras",
 		"department": ["All Ackleners", "Human Resourses"],
 		"quote": " I can do all things through Christ who strengthens me"
+  	},
+  	{
+		"name": "Wilmer",
+		"lastName": "Murillo",
+		"gravatarEmail": "wilmermurillo@acklenavenue.com",
+		"position": "Designer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Designers"],
+		"quote": "What we think, we become."
   	}
