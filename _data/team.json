@@ -880,5 +880,14 @@
       "github": "https://github.com/kerlynbustillo",
       "linkedin": "https://www.linkedin.com/in/kerlyn-melissa-bustillo-b25b1a78/",
       "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss"
-	  }
+	  },
+-  {
+-		"name": "Sonia",
+-		"lastName": "Sappenfield",
+-		"gravatarEmail": "sonia.sappenfield@acklenavenue.com",
+-		"position": "Engagement Manager",
+-		"location": "Nashville, Tennessee",
+-		"department": ["All Ackleners", "Engagement Manager"],
+-		"quote": "Opportunities aren't given, they are created."
+-  	}
 ]
