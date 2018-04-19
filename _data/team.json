@@ -898,5 +898,16 @@
       	"location": "San Pedro Sula, Honduras",
       	"department": ["All Ackleners", "Leadership & Operations"],
       	"quote": "you can't live the present if you don't leave behind the past"
+	},
+	{
+	  "name": "Ambar",
+	  "lastName": "Suarez",
+	  "gravatarEmail": "ambarsuarez@acklenavenue.com",
+	  "position": "QA Intern",
+	  "location": "Tegucigalpa, Honduras",
+	  "department": ["All Ackleners", "Quality Assurance"], 
+	  "facebook": "https://www.facebook.com/ambar.suarez12",
+	  "github": "https://github.com/ambarsf",
+	  "quote": "Everybody wants to rule the world."
 	}
 ]
