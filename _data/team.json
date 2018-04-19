@@ -840,7 +840,16 @@
 		"position": "Director of People Operations",
 		"location": "Santa Ana, Honduras",
 		"department": ["All Ackleners", "Human Resources"],
-		"quote": " I can do all things through Christ who strengthens me"
+		"quote": "I can do all things through Christ who strengthens me. Paul of Tarsus"
+  	},
+	{
+		"name": "Byron",
+		"lastName": "Sommardahl",
+		"gravatarEmail": "byron@acklenavenue.com",
+		"position": "CTO",
+		"location": "Santa Ana, Honduras",
+		"department": ["All Ackleners", "Leadership & Operations"],
+		"quote": "Simplicity is about subtracting the obvious and adding the meaningful. John Maeda"
   	},
   	{
 		"name": "Wilmer",
