@@ -889,5 +889,14 @@
 		"location": "Nashville, Tennessee",
 		"department": ["All Ackleners", "Engagement Managers"],
 		"quote": "Opportunities aren't given, they are created."
-  	}
+  	},
+	{
+	"name": "Yorleny",
+   	"lastName": "Barbieri",
+        "gravatarEmail": "yorleny.barbieri@acklenavenue.com",
+     	"position": " Administrative assistant",
+      	"location": "San Pedro Sula, Honduras",
+      	"department": ["All Ackleners", "Leadership & Operations"],
+      	"quote": "Acklen Avenue Rocks!"
+	}
 ]
