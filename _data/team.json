@@ -859,5 +859,13 @@
 		"location": "San pedro sula, Honduras",
 		"department": ["All Ackleners", "Developers"],
 		"quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer"
-  	}
+  	},
+	{
+		"name": "Fabio",
+		"lastName": "Castillo",
+		"gravatarEmail": "fabio@acklenavenue.com",
+		"position": "Scrum Master",
+		"location": "Comayagua Honduras",
+		"department": ["All Ackleners", "Scrum Masters"],
+		"quote": "Fight the machine!"
 ]
