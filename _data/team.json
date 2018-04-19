@@ -823,6 +823,15 @@
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"quote": "Graphic design will save the world right after rock and roll does. David Carson"
+  	},
+	{
+		"name": "Luis",
+		"lastName": "Araya",
+		"gravatarEmail": "luis.araya@acklenavenue.com",
+		"position": "DevOps Engineer",
+		"location": "Copán, Honduras",
+		"department": ["All Ackleners", "DevOps"],
+		"quote": "The biggest problem with technology is the people."
   	}
 ],
   	{
