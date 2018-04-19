@@ -851,7 +851,37 @@
 		"department": ["All Ackleners", "Designers"],
 		"quote": "What we think, we become."
   	},
-{
+  	{
+		"name": "Ricardo",
+		"lastName": "Zelaya",
+		"gravatarEmail": "ricardo.zelaya@acklenavenue.com",
+		"position": "Developer",
+		"location": "San pedro sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer"
+  	},
+	  {
+		"name": "Fabio",
+		"lastName": "Castillo",
+		"gravatarEmail": "fabio@acklenavenue.com",
+		"position": "Scrum Master",
+		"location": "Comayagua Honduras",
+		"department": ["All Ackleners", "Scrum Masters"],
+		"quote": "Fight the machine!"
+    },
+	  {
+      "name": "Kerlyn",
+      "lastName": "Bustillo",
+      "gravatarEmail": "kerlyn.bustillo@acklenavenue.com",
+      "position": "Quality Assurance",
+      "location": "Tegucigalpa, Honduras",
+      "department": ["All Ackleners", "Quality Assurance"],
+      "facebook": "https://www.facebook.com/kerlyn.bustillo",
+      "github": "https://github.com/kerlynbustillo",
+      "linkedin": "https://www.linkedin.com/in/kerlyn-melissa-bustillo-b25b1a78/",
+      "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss"
+	  },
+  {
 		"name": "Sonia",
 		"lastName": "Sappenfield",
 		"gravatarEmail": "sonia.sappenfield@acklenavenue.com",
