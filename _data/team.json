@@ -861,6 +861,15 @@
 		"quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer"
   	},
 	  {
+		"name": "Fabio",
+		"lastName": "Castillo",
+		"gravatarEmail": "fabio@acklenavenue.com",
+		"position": "Scrum Master",
+		"location": "Comayagua Honduras",
+		"department": ["All Ackleners", "Scrum Masters"],
+		"quote": "Fight the machine!"
+    },
+	  {
       "name": "Kerlyn",
       "lastName": "Bustillo",
       "gravatarEmail": "kerlyn.bustillo@acklenavenue.com",
@@ -872,5 +881,4 @@
       "linkedin": "https://www.linkedin.com/in/kerlyn-melissa-bustillo-b25b1a78/",
       "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss"
 	  }
-  
 ]
