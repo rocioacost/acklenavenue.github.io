@@ -9,7 +9,7 @@
 		"facebook": "https://www.facebook.com/colin.callahan.33?ref=bookmarks",
 		"github": "https://github.com/colinxjcallahan",
 		"linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
-		"quote": "“That's what I do, I drink and I know things.” - Tyrion Lannister"
+		"quote": "That's what i do, i drink and i know things.<br> — Tyrion Lannister"
 	},
 	{
 		"name": "Byron",
@@ -18,7 +18,7 @@
 		"position": "Co-founder",
 		"location": "Santa Ana, Honduras",
 		"department": ["All Ackleners", "Leadership & Operations"],
-		"quote": "Simplicity is about subtracting the obvious and adding the meaningful. John Maeda"
+		"quote": "Simplicity is about subtracting the obvious and adding the meaningful.<br> — John Maeda"
   	},
 	{
 		"name": "Tommy",
@@ -30,7 +30,7 @@
         "facebook": "https://www.facebook.com/tommynorman",
         "twitter": "https://twitter.com/tommynorman",
         "linkedin": "https://www.linkedin.com/in/tommynorman/",
-        "quote": "The Only Thing That Is Constant Is Change"
+        "quote": "The only thing that is constant is change"
 	},
 	{
 		"name": "Colleen",
@@ -47,22 +47,11 @@
 		"name": "Cecil",
 		"lastName": "Fuller",
 		"gravatarEmail": "cecil@acklenavenue.com",
-		"position": "Business Development",
+		"position": "Strategic Growth <br> & Development",
 		"location": "Nashville, United States",
 		"department": ["All Ackleners", "Leadership & Operations"],
 		"linkedin": "https://www.linkedin.com/in/cecilfuller/",
-		"quote": "Acklen Avenue Rocks"
-	},
-	{
-		"name": "Chris",
-		"lastName": "Gundersen",
-		"gravatarEmail": "chris.gundersen@acklenavenue.com",
-		"position": "Business Development",
-		"location": "Nashville, United States",
-		"department": ["All Ackleners", "Leadership & Operations"],
-		"linkedin": "https://www.linkedin.com/in/techometry/",
-		"github": "https://github.com/chrisgundersen",
-		"quote": "Acklen Avenue Rocks"
+		"quote": "Paralyze resistance with persistence.<br> — Woody Hayes"
 	},
 	{
 		"name": "Fernanda",
@@ -74,7 +63,7 @@
 		"facebook": "https://www.facebook.com/mezquita.fernanda",
 		"github": "https://github.com/fermezquita",
 		"linkedin": "https://www.linkedin.com/in/fernanda-mezquita/",
-		"quote": "“In a world where you can be anything, be kind.”"
+		"quote": "In a world where you can be anything, be kind."
 	},
 	{
 		"name": "Yorleny",
@@ -83,7 +72,7 @@
      	"position": " Administrative Assistant",
       	"location": "San Pedro Sula, Honduras",
       	"department": ["All Ackleners", "Leadership & Operations"],
-      	"quote": "you can't live the present if you don't leave behind the past"
+      	"quote": "You can't live the present if you don't leave behind the past"
 	},
 	{
 		"name":"Johanne",
@@ -106,7 +95,7 @@
 			"Engagement Managers"
 		],
 		"linkedin": "https://www.linkedin.com/in/ronald-doblado-195a5254/“",
-		"quote": "Acklen Avenue Rocks!"
+		"quote": "Acklen Avenue rocks!"
 	},
 	{
 		"name": "Josh",
@@ -153,7 +142,7 @@
 		],
 		"facebook": "https://www.facebook.com/paulette.talavera",
 		"github": "https://github.com/PauletteTM",
-		"quote": "It is better to know how to learn than to know. - Dr Seuss"
+		"quote": "It is better to know how to learn than to know.<br> — Dr Seuss"
 	},
 	{
 		"name": "Fabio",
@@ -195,7 +184,7 @@
 		"position": "Director of People Operations",
 		"location": "Santa Ana, Honduras",
 		"department": ["All Ackleners", "Human Resources"],
-		"quote": "I can do all things through Christ who strengthens me. Paul of Tarsus"
+		"quote": "I can do all things through Christ who strengthens me.<br> — Paul of Tarsus"
 	},
 	{
 		"name": "Christian",
@@ -319,7 +308,7 @@
 		"twitter": "https://twitter.com/ferenckv",
 		"github": "https://github.com/ferenckv",
 		"linkedin": "https://www.linkedin.com/in/ferenckv",
-		"quote": "How can we get to the stars?. - Lisa Hayes"
+		"quote": "How can we get to the stars?.<br> — Lisa Hayes"
 	},	
 	{
 		"name": "Franklin",
@@ -366,7 +355,7 @@
 		"department": ["All Ackleners", "Developers"],
 		"github": "https://github.com/lnyntng",
 		"linkedin": "https://www.linkedin.com/in/lnyntng/",
-		"quote": "If I respect myself and believe in what I'm doing, no one can touch me. -Fiona Apple"
+		"quote": "If I respect myself and believe in what I'm doing, no one can touch me.<br> — Fiona Apple"
 	},
 	{
 		"name": "Kelvin",
@@ -393,7 +382,7 @@
 		"facebook": "https://www.facebook.com/rene.rosapastrana",
 		"github": "https://github.com/realpasro09",
 		"linkedin": "https://www.linkedin.com/in/renerosapastrana/",
-		"quote": "“Whoever does not live to serve, does not serve to live”"
+		"quote": "Whoever does not live to serve, does not serve to live"
 	},  
   	{
 		"name": "Ricardo",
@@ -402,7 +391,7 @@
 		"position": "Developer",
 		"location": "San pedro sula, Honduras",
 		"department": ["All Ackleners", "Developers"],
-		"quote": "Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer"
+		"quote": "Happiness is the key to success. If you love what you are doing, you will be successful.<br> — Albert Schweitzer"
 	}, 
 	{
 		"name": "Saúl",
@@ -428,7 +417,7 @@
 		],
 		"twitter": "https://twitter.com/dante_dubon",
 		"github": "https://github.com/dantedubon",
-		"quote": "My treasure is my gallant bark,My only God is liberty; My law is might, the wind my mark, My country is the sea."
+		"quote": "My treasure is my gallant bark, my only god is liberty; my law is might, the wind my mark, my country is the sea."
 	},
 	{
 		"name": "Gazy",
@@ -473,7 +462,7 @@
 		"twitter": "https://twitter.com/VikingCamilo",
 		"github": "https://github.com/camilorivera",
 		"linkedin": "https://www.linkedin.com/in/camiloriverapineda/",
-		"quote": "Devs are from Venus, Ops are from Mars - Steven Haines"
+		"quote": "Devs are from Venus, Ops are from Mars.<br> — Steven Haines"
 	},
 	{
 		"name": "Eliseo",
@@ -498,7 +487,7 @@
 		],
 		"github":"https://github.com/Raimmaster",
 		"linkedin": "https://www.linkedin.com/in/raim-interiano/",
-		"quote": "“There is only one corner of the universe you can be certain of improving, and that's your own self.” - Aldous Huxley."
+		"quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.<br> — Aldous Huxley."
 	},
 	{
 		"name":"Angela",
@@ -524,16 +513,6 @@
 		"github": "",
 		"linkedin": "",
 		"quote": "Take me back to Jeni's Splendid Ice Cream"
-	},
-	{
-		"name":"Yamil",
-		"lastName":"Gonzales",
-		"gravatarEmail": "yamil@acklenavenue.com",
-		"position":"Design Guild Master",
-		"location":"Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Designers"],
-		"linkedin":"https://www.linkedin.com/in/yamilg",
-		"quote":"Just do it!"
 	},
 	{
 		"name": "Fernando",
@@ -568,8 +547,21 @@
 		"position": "Junior Designer",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
+		"facebook": "https://facebook.com/wilmermurillo",
+		"twitter": "https://twitter.com/wilmermurillo",
+		"linkedin": "https://linkedin.com/in/wilmermurillo/",
 		"quote": "What we think, we become."
-	},     
+	},
+	{
+		"name":"Yamil",
+		"lastName":"Gonzales",
+		"gravatarEmail": "yamil@acklenavenue.com",
+		"position":"Design Guild Master",
+		"location":"Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Designers"],
+		"linkedin":"https://www.linkedin.com/in/yamilg",
+		"quote":"Just do it!"
+	},    
 	{
 		"name": "Ambar",
 		"lastName": "Suarez",
@@ -627,7 +619,7 @@
 		"twitter": "https://twitter.com/FernandoZnga",
 		"github": "https://github.com/xFher",
 		"linkedin": "https://www.linkedin.com/in/fernandoznga/",
-		"quote": "Quality is not an act, it is a habit - Aristotle"
+		"quote": "Quality is not an act, it is a habit.<br> — Aristotle"
 	},
 	{
 		"name": "José",
@@ -640,7 +632,7 @@
 			"Quality Assurance"
 		],
 		"linkedin": "https://www.linkedin.com/in/jaceituno/",
-		"quote": "Luck is what happens when preparation meets opportunity. - Seneca"
+		"quote": "Luck is what happens when preparation meets opportunity.<br> — Seneca"
 	},
 	{
 		"name": "Kerlyn",
@@ -652,7 +644,7 @@
 		"facebook": "https://www.facebook.com/kerlyn.bustillo",
 		"github": "https://github.com/kerlynbustillo",
 		"linkedin": "https://www.linkedin.com/in/kerlyn-melissa-bustillo-b25b1a78/",
-		"quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss"
+		"quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.<br> — Dr. Seuss"
 	},
 	{
 		"name": "Ricky",
