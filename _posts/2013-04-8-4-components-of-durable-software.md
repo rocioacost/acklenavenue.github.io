@@ -3,7 +3,7 @@ layout: post
 title:  4 Components of Durable Software
 date:   2013-04-08
 author: Byron Sommardahl
-excerpt: “Downtown Parking”, an imaginary start-up, plans to build parking garages in large cities around the world. However, their leaders
+excerpt: We are frequently called in to existing development teams to help them get moving in the direction of durability.
 image: /img/posts/durable-software.jpg
 tags: software_development
 ---
