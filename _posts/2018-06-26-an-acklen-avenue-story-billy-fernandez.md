@@ -12,6 +12,10 @@ I remember the day I noticed a post notification from a group of developers on F
 Even though the winner had already been named (and hired, by the way), I set a personal goal to solve this code challenge so I could prove to myself that I could do it. I started working on it that day and powered through the challenge until I solved it. It took me more time than I expected. In the process, I realized how far ahead of me other developers had run. It motivated me to prepare myself for the future and improve my programming skills. So, I started to research and study new technologies. I read books, took online courses and even restarted the challenge one last time from scratch. But this time, I improved the code, the performance and added a user interface. I went far beyond what was required to win the challenge. I felt like I owed it to myself and my family to test my limits and show my growth. I remember feeling proud of my accomplishment and saying to myself, “If this is what they do at Acklen Avenue everyday, I would like to work in a place like that.”
 
 <img src="https://acklenavenue.github.io/img/posts/an_acklen_avenue_story_billy_fernandez_3.jpg">
+<figure>
+  <img src="https://acklenavenue.github.io/img/posts/an_acklen_avenue_story_billy_fernandez_3.jpg" alt="Trulli" style="width:100%">
+  <figcaption> My beautiful family. </figcaption>
+</figure>
 
 Months passed and I kept researching and learning new technologies. I was even inspired to infect my co-workers with new passion and curiosity and we were able to improve the software at our job. The code challenge might have been meant as a smart recruiting tool for Acklen Avenue, but its reach went beyond Facebook and beyond the borders of it’s originator. 
 
@@ -28,6 +32,10 @@ Another one of Acklen Avenue’s agile practices is known as “Test-Driven Deve
 I love solving the world’s problems with great code. But one of the most fulfilling aspects of being a part of Acklen Avenue is that we have the chance to make other people’s lives better through social projects. One such project is at a girls’ home called “Our Little Roses” in my town.  Acklen Avenue sponsors their computer lab and I along with several others from Acklen go weekly to teach. Our students are orphans between twelve and seventeen years old who desperately need computer skills to help them break out of the cycle of poverty. Our lessons to these girls range from keyboarding to graphic design to productivity apps like Word and Excel.  My personal reward was to see how much they can achieve, starting as girls who can barely use a mouse or keyboard to young women who could use a computer for research and school work. It has been AWESOME.
 
 <img src="https://acklenavenue.github.io/img/posts/an_acklen_avenue_story_billy_fernandez_2.jpg">
+<figure>
+  <img src="https://acklenavenue.github.io/img/posts/an_acklen_avenue_story_billy_fernandez_2.jpg" alt="Trulli" style="width:100%">
+  <figcaption> At Little Roses during one of our clases. </figcaption>
+</figure>
 
 There are other perks of being an “Acklener” of course. For example, my commute to work has gone from 2 hours to 2 minutes (I work remotely from home). I use that extra time to spend with my family and to achieve my personal goals. Since I’m not tied to one particular city or zone, my family will soon fulfill a dream of moving to another city to be closer to our extended family. At the time of writing this article, construction is already underway and my wonderful job at Acklen Avenue has made it possible. 
 
