@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  New Core Values
+title:  Core Values
 date:   2018-3-26
 description: In Acklen Avenue our core values define us. They describe who we are and why we do what we do.
 author: Fernanda Mezquita 
 excerpt: Core values define us. They describe who we are and why we do what we do.
-image: https://acklenavenue.com/img/posts/core-values-2018.png
-thumbnail: https://acklenavenue.com/img/posts/core-values-2018.png
+image: https://acklenavenue.com/img/posts/core_values_acklen.JPG
+thumbnail: https://acklenavenue.com/img/posts/core_values_acklen.JPG
 type: article
 keywords: core values, Acklen Avenue, agile
 tags: news
