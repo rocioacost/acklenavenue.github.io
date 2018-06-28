@@ -4,7 +4,7 @@ title:  An Acklen Avenue Story
 date:   2018-06-26
 author: Billy Fernandez
 excerpt: I remember the day I noticed a post notification from a group of developers on Facebook.
-image: /img/posts/an_acklen_avenue_story_billy_fernandez.png
+image: /img/posts/an_acklen_avenue_story_billy_fernandez.jpg
 tags: news
 ---
 I remember the day I noticed a post notification from a group of developers on Facebook. It was this guy named Byron Sommardahl inviting us to solve a code challenge and offering a price to the first one to finish it. It was like a game, a test of my strengths, a race against the clock. But it was already late and it had been a long day. I decided I would give it a shot the next morning. Before turning in for the night, I checked Facebook one more time, and, to my surprise, someone had already finished the code challenge. Only two hours had passed. I couldn’t believe it. I thought I would be competitive by finishing it in one or two days. That night I realized I was not playing in the same ballfield as the developers at Acklen Avenue, which motivated me to dig deeper
