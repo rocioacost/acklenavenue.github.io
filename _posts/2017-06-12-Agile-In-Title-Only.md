@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Are you a AITO (Agile in Title Only) Company?
+title:  6 Questions That Tell You Are an AITO (Agile in Title Only) Company.
 date:   2017-06-12
 author: Byron Sommardahl
 excerpt: Many businesses claim to be agile. Few actually practice what they preach.
