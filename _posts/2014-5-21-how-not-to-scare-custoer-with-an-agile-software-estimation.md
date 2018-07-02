@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Agile Software Estimation &#58; Stop Scaring Clients Away!
+title:  How NOT to Scare Customers With an Agile Software Estimation
 date:   2014-05-21
 author: Colin Callahan
 excerpt: A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants
