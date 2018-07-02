@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Keep Bugs From Eating Your Budget
+title:  4 Ways to Stop Bugs from Eating Your Software Budget
 date:   2014-06-04
 author: Byron Sommardahl
 excerpt: People who complain about paying $149 for a shrink wrapped copy of Quickbooks Pro have obviously never been in charge of a
