@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Quality is Not an Option
+title:  3 Lessons Learned from Delivering Quality Software
 date:   2014-06-12
 author: Byron Sommardahl
 excerpt: This article is about some lessons that my team has learned about developing custom software and making clients happy. We'll get
