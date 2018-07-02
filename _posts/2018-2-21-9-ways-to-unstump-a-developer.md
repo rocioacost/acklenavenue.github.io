@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Unstump a Developer
+title:  9 Ways to Unstump a Developer
 date:   2018-02-21
 author: Byron Sommardahl
 excerpt: I work with some of the most talented software developers in the world, and I rarely see them stumped.
