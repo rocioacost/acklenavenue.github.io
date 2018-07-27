@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  Acklen Avenue Represents at the SPS BarCamp
-date:   2014-12-08
-author: Richard Siwady
+title: Acklen Avenue Represents at the SPS BarCamp
+date: 2014-12-08
+description: Last November 9th, San Pedro Sula (Honduras) hosted it’s annual Barcamp, this is the second time the city hosted the event and this time things got really exciting...
+author: Richard Siwady 
 excerpt: Last November 9th, San Pedro Sula (Honduras) hosted it’s annual Barcamp, this is the second time the city hosted the event and this time things got really exciting...
-image: /img/posts/bar-camp-sps.jpg
+image: https://acklenavenue.com/img/posts/bar-camp-sps.jpg
+thumbnail: https://acklenavenue.com/img/posts/bar-camp-sps.jpg
+type: article
+keywords: entrepreneurship, Web Development, technology, Acceptance Test Driven Development, cryptocurrencies, BarCamp, tech
 tags: news
 ---
 

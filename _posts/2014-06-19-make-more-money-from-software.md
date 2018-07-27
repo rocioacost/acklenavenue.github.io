@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  5 Ways to Kill Your ROI
-date:   2014-06-19
-author: Byron Sommardahl
-excerpt: Your company is getting ready to make a major investment in custom software that might take you to the next level. How exciting
+title: 5 Ways to Kill Your ROI
+date: 2014-06-19
+description: Your company is getting ready to make a major investment in custom software that might take you to the next level.
+author: Byron Sommardahl 
+excerpt: Your company is getting ready to make a major investment in custom software that might take you to the next level.
+image: https://acklenavenue.com/img/posts/roi.jpg
+thumbnail: https://acklenavenue.com/img/posts/roi.jpg
 imageCredit: image from https://c2.staticflickr.com/4/3001/5857968442_2909c971f2_z.jpg (public domain)
-image: /img/posts/roi.jpg
+type: article
+keywords: Communication, ROI, Agile, TDD, ROI killers
 tags: software_development
 ---
 

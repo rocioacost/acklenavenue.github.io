@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  How NOT to Scare Customers With an Agile Software Estimation
-date:   2014-05-21
-author: Colin Callahan
+title: How NOT to Scare Customers With an Agile Software Estimation
+date: 2014-05-21
+description: A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants
+author: Colin Callahan 
 excerpt: A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants
-image: /img/posts/agile-estimation.jpg
+image: https://acklenavenue.com/img/posts/agile-estimation.jpg
+thumbnail: https://acklenavenue.com/img/posts/agile-estimation.jpg
+type: article
+keywords: agile, Nashville, Agile Software Estimation, Chattanooga, User Stories 
 tags: agile
 ---
 

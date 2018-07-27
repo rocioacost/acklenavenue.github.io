@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  Agile Guru Tommy Norman Joins Acklen Avenue Team
-date:   2017-04-18
-author: Byron Sommardahl
+title: Agile Guru Tommy Norman Joins Acklen Avenue Team
+date: 2017-04-18
+description: Nashville area tech expert, agile master and all around awesome guy joins our growing team.
+author: Byron Sommardahl 
 excerpt: Nashville area tech expert, agile master and all around awesome guy joins our growing team.
-image: /img/tommy-blog.jpg
+image: https://acklenavenue.com/img/tommy-blog.jpg
+thumbnail: https://acklenavenue.com/img/tommy-blog.jpg
+type: article
+keywords: Tommy Norman, Nashville, Agile, Lean, Agile Master, Acklen Avenue, Certified Enterprise Coach
 tags: news
 ---
 

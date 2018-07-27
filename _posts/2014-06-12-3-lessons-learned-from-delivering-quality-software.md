@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  3 Lessons Learned from Delivering Quality Software
-date:   2014-06-12
-author: Byron Sommardahl
-excerpt: This article is about some lessons that my team has learned about developing custom software and making clients happy. We'll get
+title: 3 Lessons Learned from Delivering Quality Software
+date: 2014-06-12
+description: Customer satisfaction is dependent on the quality of the product. Any custom software development company depends on happy clients to survive.
+author: Byron Sommardahl 
+excerpt: This article is about some lessons that my team has learned about developing custom software and making clients happy. 
+image: https://acklenavenue.com/img/posts/custom-software-not-an-option.jpg
+thumbnail: https://acklenavenue.com/img/posts/custom-software-not-an-option.jpg
 imageCredit: http://pixabay.com/p-15774/?no_redirect (public domain)
-image: /img/posts/custom-software-not-an-option.jpg
+type: article
+keywords: custom software, Customer satisfaction, quality, QA testers, Clean Code, Automated testing, Bugs, software developer
 tags: software_development
 ---
 

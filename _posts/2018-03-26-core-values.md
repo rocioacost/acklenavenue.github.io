@@ -2,13 +2,13 @@
 layout: post
 title:  Core Values
 date:   2018-3-26
-description: In Acklen Avenue our core values define us. They describe who we are and why we do what we do.
+description: Core values define us. They describe who we are and why we do what we do. They are more than just words. They influence our decisions and lead us to where we want to go.
 author: Fernanda Mezquita 
 excerpt: Core values define us. They describe who we are and why we do what we do.
 image: https://acklenavenue.com/img/posts/core_values_acklen.jpg
 thumbnail: https://acklenavenue.com/img/posts/core_values_acklen.jpg
 type: article
-keywords: core values, Acklen Avenue, agile
+keywords: core values, Acklen Avenue, agile, Integrity, Mastery, Quality, Integrity, Love, Agility
 tags: news
 ---
 

@@ -2,9 +2,13 @@
 layout: post
 title: Towards a more Open Government in the Americas
 date: 2016-05-19
-author: Yamil Gonzales
+description: Twenty-three young professionals from 14 countries of the hemisphere met in Osprey Point, Washington, this month to join a global network of change agents.
+author: Yamil Gonzales 
 excerpt: Twenty-three young professionals from 14 countries of the hemisphere met in Osprey Point, Washington, this month to join a global network of change agents...
-image: /img/posts/open-government.jpg
+image: https://acklenavenue.com/img/posts/open-government.jpg
+thumbnail: https://acklenavenue.com/img/posts/open-government.jpg
+type: article
+keywords: Washington, Durable Software, Acklen Avenue, Agile, start-up, leaders, Open Government, software development, developers
 tags: news
 ---
 

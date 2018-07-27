@@ -1,12 +1,17 @@
----
+--- 
 layout: post
-title:  3 questions to ask when starting a development project
-date:   2017-06-21
-author: Byron Sommardahl
+title: 3 questions to ask when starting a development project
+date: 2017-06-21
+description: You need help getting your idea to your users. Does it matter how the job gets done?
+author: Byron Sommardahl 
 excerpt: You need help getting your idea to your users. Does it matter how the job gets done?
-image: /img/posts/3-questions-to-ask.jpg
+image: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
+thumbnail: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
+type: article
+keywords: Agile development, Acklen Avenue, Development, Custom software, Nashville, Lean 
 tags: software_development
 ---
+
 
 Does any part of this story sound familiar? You’ve got an earth-shattering idea. One that will disrupt an entire industry.
 

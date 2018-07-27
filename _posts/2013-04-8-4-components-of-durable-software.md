@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  4 Components of Durable Software
-date:   2013-04-08
-author: Byron Sommardahl
+title: 4 Components of Durable Software
+date: 2013-04-08
+description: We are frequently called in to existing development teams to help them get moving in the direction of durability.
+author: Byron Sommardahl 
 excerpt: We are frequently called in to existing development teams to help them get moving in the direction of durability.
-image: /img/posts/durable-software.jpg
-tags: software_development
+image: https://acklenavenue.com/img/posts/durable-software.jpg
+thumbnail: https://acklenavenue.com/img/posts/durable-software.jpg
+type: article
+keywords: Durable Software, Acklen Avenue, Agile, start-up, company, company leaders
+tags: news
 ---
 
 "Downtown Parking", an imaginary start-up, plans to build parking garages in large cities around the world. However, their leaders are a little short sighted and are hurrying through the construction process. Without truly understanding the ramifications, they are encouraging their construction workers to take shortcuts in order to finish faster. Meanwhile, the company leaders are keeping a close watch on the books. They are ensuring that their accounting staff are following best practices and never have errors.

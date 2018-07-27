@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  The Golden Rule of Software Development
-date:   2014-01-19 10:52:48
-author: Byron Sommardahl
+title: The Golden Rule of Software Development
+date: 2014-01-19 10:52:48
+description: I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler “
+author: Byron Sommardahl 
 excerpt: I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler “
-image: /img/posts/steve-jobs.jpg
+image: https://acklenavenue.com/img/posts/steve-jobs.jpg
+thumbnail: https://acklenavenue.com/img/posts/steve-jobs.jpg
+type: article
+keywords: Software Development, Acklen Avenue, Agile, Golden Rule, developers, programmers, Architecture, SOLID  
 tags: software_development
 ---
 

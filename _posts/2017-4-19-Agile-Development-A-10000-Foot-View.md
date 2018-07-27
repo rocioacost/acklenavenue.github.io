@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  Agile Development a 10,000 Foot View
-date:   2017-04-19
-author: Byron Sommardahl
+title: Agile Development a 10,000 Foot View
+date: 2017-04-19
+description: Every startup or tech company talks about being or going agile. Do they know what agile is? Do you?
+author: Byron Sommardahl 
 excerpt: Every startup or tech company talks about being or going agile. Do they know what agile is? Do you?
-image: /img/posts/workflow.jpg
-tags: agile
+image: https://acklenavenue.com/img/posts/workflow.jpg
+thumbnail: https://acklenavenue.com/img/posts/workflow.jpg
+type: article
+keywords: Agile, Agile practices, Uber, Mark Zuckerberg, Agile Development, custom software, development
+tags: news
 ---
 
 _This is a first in a blog series devoted to Agile Development.

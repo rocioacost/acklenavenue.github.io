@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  6 Questions That Tell You Are an AITO (Agile in Title Only) Company.
-date:   2017-06-12
-author: Byron Sommardahl
+title: 6 Questions That Tell You Are an AITO (Agile in Title Only) Company.
+date: 2017-06-12
+description: You run a tech organization and you’re “agile”. Your team has daily standups. You’ve got scrum boards everywhere and can talk about epics, sprints, burndown charts, retrospectives, and planning poker until the cows come home.
+author: Byron Sommardahl 
 excerpt: Many businesses claim to be agile. Few actually practice what they preach.
-image: /img/posts/agile-in-title-only.png
+image: https://acklenavenue.com/img/posts/agile-in-title-only.png
+thumbnail: https://acklenavenue.com/img/posts/agile-in-title-only.png
+type: article
+keywords: Acklen Avenue, Agile, start-up, company, company leaders, development, Sprint planning, Burndown charts, Scrum/Kanban boards, Product backlog, Daily meeting, retrospectives
 tags: agile
 ---
 
