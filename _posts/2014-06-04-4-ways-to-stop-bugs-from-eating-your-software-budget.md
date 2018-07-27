@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  4 Ways to Stop Bugs from Eating Your Software Budget
-date:   2014-06-04
-author: Byron Sommardahl
-excerpt: People who complain about paying $149 for a shrink wrapped copy of Quickbooks Pro have obviously never been in charge of a
-image: /img/posts/will-program-for-food.jpg
+title: 4 Ways to Stop Bugs from Eating Your Software Budget
+date: 2014-06-04
+description: Developing custom software is expensive and risky. In fact, 60% of all software projects end in failure. But why so expensive? Well, for one thing, custom software doesn't build itself.
+author: Byron Sommardahl 
+excerpt: Developing custom software is expensive and risky. In fact, 60% of all software projects end in failure. But why so expensive? Well, for one thing, custom software doesn't build itself.
+image: https://acklenavenue.com/img/posts/will-program-for-food.jpg
+thumbnail: https://acklenavenue.com/img/posts/will-program-for-food.jpg
+type: article
+keywords: custom software development, agile, TDD, Pair Programming, Clean Code, QA Testers, Bugs, development 
 tags: tips_,_tricks_&_secrets
 ---
 

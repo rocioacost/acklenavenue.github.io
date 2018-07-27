@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  3 Ways to Win at Quality
-date:   2014-07-07
-author: Byron Sommardahl
+title: 3 Ways to Win at Quality
+date: 2014-07-07
+description: Software absolutely must do what you require it to do, or you wasted your money building it. I started with this point because it's almost a no-brainer. No software would ever be considered "high quality" or even "quality" unless it does what you need it to do.
+author: Byron Sommardahl 
 excerpt: I just bought some brakes for my car the other day. When I was at the auto parts store, the guy asked me which brakes I wanted. You've been there, I'm sure...
+image: https://acklenavenue.com/img/posts/globes.jpg
+thumbnail: https://acklenavenue.com/img/posts/globes.jpg
 imageCredit: http://creativecommons.org/weblog/entry/18364, http://commons.wikimedia.org/wiki/File:Henry_ford_1919.jpg, http://commons.wikimedia.org/wiki/File:%22YOUR_BATTLESHIP_AND_HER_REQUIREMENTS%22_-_NARA_-_516243.jpg, https://www.flickr.com/photos/jurvetson/156830367/, https://www.flickr.com/photos/autohistorian/4410527136/ (creative commons)
-image: /img/posts/globes.jpg
+type: article
+keywords: QA, custom software development, software development project, Acklen Avenue, Nashville, high quality software
 tags: tips_,_tricks_&_secrets
 ---
 

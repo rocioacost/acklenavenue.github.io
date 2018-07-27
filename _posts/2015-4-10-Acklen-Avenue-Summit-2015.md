@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  Acklen Avenue Summit 2015
-date:   2015-4-10
-author: Richard Siwady, Byron Sommardahl
+title: Acklen Avenue Summit 2015
+date: 2015-4-10
+description: Next week Acklen Avenue is hosting it’s annual Summit. We’ve hosted several summits in the past 2 years in locations like beautiful Lake Yojoa and peaceful Santa Ana.
+author: Richard Siwady, Byron Sommardahl 
 excerpt: Next week Acklen Avenue is hosting it’s annual Summit. We’ve hosted several summits in the past 2 years in locations like beautiful Lake Yojoa and peaceful Santa Ana...
-image: /img/posts/summit-2015.jpg
+image: https://acklenavenue.com/img/posts/summit-2015.jpg
+thumbnail: https://acklenavenue.com/img/posts/summit-2015.jpg
+type: article
+keywords: Acklen Avenue, annual Summit, Nashville, tech summit, hackathon, TypeScript
 tags: news
 ---
 

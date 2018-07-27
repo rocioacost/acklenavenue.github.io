@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  A Real-Life Rom Com Meets Agile Development Excellence
-date:   2018-2-14
+title: A Real-Life Rom Com Meets Agile Development Excellence
+date: 2018-02-14
+description: The story behind Acklen Avenue has nothing to do with business strategy. It is a story born out of love.
 author: Fernanda Mezquita 
 excerpt: The story behind Acklen Avenue has nothing to do with business strategy. It is a story born out of love.
-image: /img/posts/sommardahl-family.jpg
+image: https://acklenavenue.com/img/posts/sommardahl-family.jpg
+thumbnail: https://acklenavenue.com/img/posts/sommardahl-family.jpg
+type: article
+keywords: Acklen Avenue, Agile, business, developer, leaders, Honduras, Nashville
 tags: news
 ---
 

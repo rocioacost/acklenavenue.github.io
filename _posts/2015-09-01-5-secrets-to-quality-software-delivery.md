@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  5 Secrets to Quality Software Delivery
-date:   2015-09-01
+title: 5 Secrets to Quality Software Delivery
+date: 2015-09-01
+description: Quality Software works as expected today and can be easily modified 6 months later. How can a team consistently produce software with a high level of quality?
 author: Byron Sommardahl
 excerpt: Quality Software works as expected today and can be easily modified 6 months later. How can a team consistently produce software with a high level of quality?
-image: /img/posts/quality-software.jpg
+image: https://acklenavenue.com/img/posts/quality-software.jpg
+thumbnail: https://acklenavenue.com/img/posts/quality-software.jpg
+type: article
+keywords: client expectations, architecture, Quality Software, Scrum, Agile, Clean Code, Acklen Avenue, Nashville    
 tags: tips_,_tricks_&_secrets
 ---
 
