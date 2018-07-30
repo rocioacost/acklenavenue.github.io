@@ -5,8 +5,8 @@ date: 2014-06-26
 description: Custom software is pretty expensive! Unnoticed system bugs, misunderstood requirements, and lack of developer focus can prolong a project and inflate costs...
 author: Byron Sommardahl 
 excerpt: Custom software is pretty expensive! Unnoticed system bugs, misunderstood requirements, and lack of developer focus can prolong a project and inflate costs...
-image: https://acklenavenue.com/img/posts/save-money-atdd.jpg
-thumbnail: https://acklenavenue.com/img/posts/save-money-atdd.jpg
+image: https://acklenavenue.com/img/posts/save-money-atdd.png
+thumbnail: https://acklenavenue.com/img/posts/save-money-atdd.png
 type: article
 keywords: Custom software, Acceptance Test-Driven Development, Test-Driven Development, Software Developer
 tags: software_development
