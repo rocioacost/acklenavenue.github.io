@@ -2,12 +2,12 @@
 layout: post
 title: 10 Ways to Kill Pair Programming
 date: 2016-09-01
-description: If you have a hard time working with other humans or find that other humans have a hard time working with you, you may want to continue reading.
+description: If you have a hard time working with other humans or find that other humans have a hard time working with you.
 author: Byron Sommardahl 
-excerpt: If you have a hard time working with other humans or find that other humans have a hard time working with you, you may want to continue reading...
-image: https://acklenavenue.com/img/posts/10-ways-to-kill-pair-programming.jpeg
-thumbnail: https://acklenavenue.com/img/posts/10-ways-to-kill-pair-programming.jpeg
-imageCredit: By Kabren (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+excerpt: If you have a hard time working with other humans or find that other humans have a hard time working with you.
+image: https://acklenavenue.com/img/posts/pair-programming.png
+thumbnail: https://acklenavenue.com/img/posts/pair-programming.png
+imageCredit: Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: Pair Programming, Agile, Software Development, Custom, Nashville, development   
 tags: software_development
