@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What defines Acklen Avenue?
+title:  What Defines Acklen Avenue?
 date:   2018-3-26
 description: Five words that influence our decisions and lead us to where we want to go.
 author: Fernanda Mezquita 
