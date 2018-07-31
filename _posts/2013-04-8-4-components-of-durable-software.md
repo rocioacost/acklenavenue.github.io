@@ -49,4 +49,4 @@ Acklen Avenue has seen the parking garage problem many times. We are frequently 
 
 Before starting your next green field project, consider all the costs. Remember that the cost of software doesn't stop at delivery. If your business depends on your software for profitability, you need software that will be able to change with your business and that won't make your future developers throw up their hands. You need durable software.
 
-Photo by NeONBRAND on Unsplash
+<i> Thumbnail photo by [NeONBRAND](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/). </i>
