@@ -7,6 +7,7 @@ author: Byron Sommardahl
 excerpt: Six suggestions to revisit the Golden Rule of Software Development.
 image: https://acklenavenue.com/img/posts/golden-rule-software-development.png
 thumbnail: https://acklenavenue.com/img/posts/golden-rule-software-development.png
+ImageCredit: Thumbnail Photo by [Gustas Brazaitis](https://unsplash.com/@amrvle) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: Software Development, Acklen Avenue, Agile, Golden Rule, developers, programmers, Architecture, SOLID  
 tags: software_development
@@ -42,4 +43,4 @@ Will you follow the REAL “Golden Rule” in your day-to-day programming, takin
 
 On the other hand, if you want to keep putting crappy, unintelligible code out there, be my guest. I’m actually making a pretty good living by cleaning up your messes. I just feel bad for your clients who have to pay for your blunders. Your call.
 
-<i> Thumbnail Photo by [Gustas Brazaitis](https://unsplash.com/@amrvle) on [Unsplash](https://unsplash.com/). </i>
+
