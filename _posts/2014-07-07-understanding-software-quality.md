@@ -24,6 +24,7 @@ This is a blog about custom software development, not about brakes. But at the e
 
 ## 3 Sides to Software Quality
 
+
 ### Completes Requirements
 
 Software absolutely must do what you require it to do, or you wasted your money building it. I started with this point because it's almost a no-brainer. No software would ever be considered "high quality" or even "quality" unless it does what you need it to do. However, more often than the software industry would like to admit, requirements are missed and misunderstood every day. It's very important that you, as the dreamer and expert of your desires, are very clear in what you want and how things should work. Be sure to talk to your development team about the best format in which you can provide the software requirements. For me, for instance, I prefer user stores and acceptance criteria. Your team might prefer something else. But the point is transferring your knowledge to them so that they can make your dreams come true. There's simply no way to justify spending hard earned money on software that doesn't meet business requirements. Make sure this aspect of software quality it met!
