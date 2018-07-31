@@ -2,12 +2,12 @@
 layout: post
 title: 3 Lessons Learned from Delivering Quality Software
 date: 2014-06-12
-description: Customer satisfaction is dependent on the quality of the product. Any custom software development company depends on happy clients to survive.
+description: Lessons learned from developing quality custom software and making clients happy. 
 author: Byron Sommardahl 
-excerpt: This article is about some lessons that my team has learned about developing custom software and making clients happy. 
-image: https://acklenavenue.com/img/posts/custom-software-not-an-option.jpg
-thumbnail: https://acklenavenue.com/img/posts/custom-software-not-an-option.jpg
-imageCredit: http://pixabay.com/p-15774/?no_redirect (public domain)
+excerpt: Lessons learned from developing quality custom software and making clients happy. 
+image: https://acklenavenue.com/img/posts/lessons-from-quality.png
+thumbnail: https://acklenavenue.com/img/posts/lessons-from-quality.png
+imageCredit: Photo by [Ryan Graybill](https://unsplash.com/@graybill_) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: custom software, Customer satisfaction, quality, QA testers, Clean Code, Automated testing, Bugs, software developer
 tags: software_development
@@ -17,8 +17,8 @@ This article is about some lessons that my team has learned about developing cus
 
 I have seen QA done really poorly in the past. Power trippy QA managers, ignorant QA testers, attention to the wrong details, and an overall adversarial feel dominate my memories of QA while I was still working in a cubicle. So, when I started forming a team of developers a few years ago, there were several things I wanted to do better. Of course, mistakes have been made. I made the mistake of believing that we could save our clients money by asking them to do all the QA. I made a big mistake by saving all the feature testing until the end of the sprint, just before the demo. I even leaned too hard on automated testing, letting it give me a false sense of security. From years of successes and failures, I have learned a few valuable lessons. I hope my experiences can help you succeed in your next project!
 
-## Lessons learned
-
+## Lessons Learned
+<br> 
 ### 1. Customers should not do QA
 Custom software is expensive. Our customers pay a lot for the products they entrust us to build. The truth is, we CAN build great software and do it REALLY well. Great architecture, clean code, maintainable, best practices, best technology, best everything... But if our customer sees even one bug, his confidence begins to erode. Bugs are a reality of software development. And customers will eventually see some bugs because it's humanly impossible to eradicate the all. But having a customer do QA is like hooking a firehouse up to someone's mouth and turning it on full blast. If one bug erodes a little trust, then seeing ALL the bugs is devastating. Customers, by no means, should be made to do their own QA.
 
