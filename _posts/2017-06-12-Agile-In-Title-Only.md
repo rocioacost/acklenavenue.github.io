@@ -7,6 +7,7 @@ author: Byron Sommardahl
 excerpt: You aren’t agile. You’ve got yourself an AITO (Agile In Title Only) company and you’ve got a problem.
 image: https://acklenavenue.com/img/posts/agile-title.png
 thumbnail: https://acklenavenue.com/img/posts/agile-title.png
+ImageCredit: Photo by [Braydon Anderson](https://unsplash.com/@braydona) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: Acklen Avenue, Agile, start-up, company, company leaders, development, Sprint planning, Burndown charts, Scrum/Kanban boards, Product backlog, Daily meeting, retrospectives
 tags: agile
