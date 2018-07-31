@@ -2,9 +2,9 @@
 layout: post
 title: 5 Ways to Kill Your ROI
 date: 2014-06-19
-description: By doing this to your ROI, your big custom software investment won't stand a chance. 
+description: By doing this with your big custom software investment, your ROI won't stand a chance. 
 author: Byron Sommardahl 
-excerpt: By doing this to your ROI, your big custom software investment won't stand a chance.
+excerpt: By doing this with your big custom software investment, your ROI won't stand a chance. 
 image: https://acklenavenue.com/img/posts/roi.jpg
 thumbnail: https://acklenavenue.com/img/posts/roi.jpg
 imageCredit: image from https://c2.staticflickr.com/4/3001/5857968442_2909c971f2_z.jpg (public domain)
