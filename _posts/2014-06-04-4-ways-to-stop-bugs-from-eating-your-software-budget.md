@@ -7,6 +7,7 @@ author: Byron Sommardahl
 excerpt: Bugs account for 80% of nationwide software costs.
 image: https://acklenavenue.com/img/posts/bugs-eating-software.png
 thumbnail: https://acklenavenue.com/img/posts/bugs-eating-software.png
+ImageCredit: Thumbnail Photo by [Parvana Praveen](https://unsplash.com/@parvana_praveen) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: custom software development, agile, TDD, Pair Programming, Clean Code, QA Testers, Bugs, development 
 tags: tips_,_tricks_&_secrets
@@ -42,4 +43,3 @@ If you’d like to learn more about how Acklen Avenue can help you reduce bugs i
 
 - Initial State Info Graphic - [https://initialstate.com/info](https://initialstate.com/info)
 - Software Defect Reduction Top 10 List, Barry Boehn & Victor R. Basili - [http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/82.78.pdf](http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/82.78.pdf)
-- Thumbnail Photo by [Parvana Praveen](https://unsplash.com/@parvana_praveen) on [Unsplash](https://unsplash.com/).
