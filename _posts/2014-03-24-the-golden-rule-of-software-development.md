@@ -2,11 +2,11 @@
 layout: post
 title: The Golden Rule of Software Development
 date: 2014-01-19 10:52:48
-description: I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler “
+description: Six suggestions to revisit the Golden Rule of Software Development. 
 author: Byron Sommardahl 
-excerpt: I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler “
-image: https://acklenavenue.com/img/posts/steve-jobs.jpg
-thumbnail: https://acklenavenue.com/img/posts/steve-jobs.jpg
+excerpt: Six suggestions to revisit the Golden Rule of Software Development.
+image: https://acklenavenue.com/img/posts/golden-rule-software-development.png
+thumbnail: https://acklenavenue.com/img/posts/golden-rule-software-development.png
 type: article
 keywords: Software Development, Acklen Avenue, Agile, Golden Rule, developers, programmers, Architecture, SOLID  
 tags: software_development
@@ -41,3 +41,5 @@ Are you ready to repent and turn from your evils ways? Here are some suggestions
 Will you follow the REAL “Golden Rule” in your day-to-day programming, taking the necessary steps to leave future developers with code that can be maintained and extended? For your clients’ sake, for your fellow developers’ sake, for your own soul’s sake, I sincerely hope so.
 
 On the other hand, if you want to keep putting crappy, unintelligible code out there, be my guest. I’m actually making a pretty good living by cleaning up your messes. I just feel bad for your clients who have to pay for your blunders. Your call.
+
+<i> Thumbnail Photo by [Gustas Brazaitis](https://unsplash.com/@amrvle) on [Unsplash](https://unsplash.com/). </i>
