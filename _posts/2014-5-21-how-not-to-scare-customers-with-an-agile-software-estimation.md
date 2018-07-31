@@ -2,11 +2,12 @@
 layout: post
 title: How NOT to Scare Customers With an Agile Software Estimation
 date: 2014-05-21
-description: A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants
+description: Two scenarios that will guide you through when doing an agile software estimation.  
 author: Colin Callahan 
-excerpt: A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants
-image: https://acklenavenue.com/img/posts/agile-estimation.jpg
-thumbnail: https://acklenavenue.com/img/posts/agile-estimation.jpg
+excerpt: Two scenarios that will guide you through when doing an agile software estimation. 
+image: https://acklenavenue.com/img/posts/agile-estimation.png
+thumbnail: https://acklenavenue.com/img/posts/agile-estimation.png
+ImageCredit: Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: agile, Nashville, Agile Software Estimation, Chattanooga, User Stories 
 tags: agile
