@@ -2,11 +2,11 @@
 layout: post
 title: 4 Components of Durable Software
 date: 2013-04-08
-description: We are frequently called in to existing development teams to help them get moving in the direction of durability.
+description: Durable software is like a well-built, high-quality parking garage. It is built with care, not hurried.
 author: Byron Sommardahl 
-excerpt: We are frequently called in to existing development teams to help them get moving in the direction of durability.
-image: https://acklenavenue.com/img/posts/durable-software.jpg
-thumbnail: https://acklenavenue.com/img/posts/durable-software.jpg
+excerpt: Durable software is like a well-built, high-quality parking garage. It is built with care, not hurried.
+image: https://acklenavenue.com/img/posts/durable-software.png
+thumbnail: https://acklenavenue.com/img/posts/durable-software.png
 type: article
 keywords: Durable Software, Acklen Avenue, Agile, start-up, company, company leaders
 tags: news
@@ -38,7 +38,6 @@ Durable software embraces change for the long haul. It doesn't need to be rewrit
 
 Acklen Avenue has seen the parking garage problem many times. We are frequently called in to existing development teams to help them get moving in the direction of durability. After research and years of experience, we have found that there are four major components of durable software:
 
-<img src="http://awkwardcoder.com/wp-content/uploads/2013/04/castle-300x200.jpg" style="float: left; margin-right: 20px;"/>
 <i class="fa fa-check-square-o"></i>  **Readability**: Write code that someone can understand a year later.
 
 <i class="fa fa-check-square-o"></i>  **Architecture**: Follow a documented architecture like [Domain-Driven Design](http://en.wikipedia.org/wiki/Domain-driven_design) from start to finish.
@@ -49,3 +48,5 @@ Acklen Avenue has seen the parking garage problem many times. We are frequently 
 
 
 Before starting your next green field project, consider all the costs. Remember that the cost of software doesn't stop at delivery. If your business depends on your software for profitability, you need software that will be able to change with your business and that won't make your future developers throw up their hands. You need durable software.
+
+Photo by NeONBRAND on Unsplash
