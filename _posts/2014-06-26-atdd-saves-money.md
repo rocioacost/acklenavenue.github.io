@@ -2,9 +2,9 @@
 layout: post
 title: Save Money With ATDD
 date: 2014-06-26
-description: Custom software is pretty expensive! Unnoticed system bugs, misunderstood requirements, and lack of developer focus can prolong a project and inflate costs...
+description: 4 ways we have proved ATDD saves money.
 author: Byron Sommardahl 
-excerpt: Custom software is pretty expensive! Unnoticed system bugs, misunderstood requirements, and lack of developer focus can prolong a project and inflate costs...
+excerpt: 4 ways we have proved ATDD saves money.
 image: https://acklenavenue.com/img/posts/save-money-atdd.png
 thumbnail: https://acklenavenue.com/img/posts/save-money-atdd.png
 type: article
