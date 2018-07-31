@@ -7,6 +7,7 @@ author: Byron Sommardahl
 excerpt: Durable software is like a well-built, high-quality parking garage. It is built with care, not hurried.
 image: https://acklenavenue.com/img/posts/durable-software.png
 thumbnail: https://acklenavenue.com/img/posts/durable-software.png
+imageCredit: Thumbnail photo by [NeONBRAND](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: Durable Software, Acklen Avenue, Agile, start-up, company, company leaders
 tags: news
@@ -49,4 +50,4 @@ Acklen Avenue has seen the parking garage problem many times. We are frequently 
 
 Before starting your next green field project, consider all the costs. Remember that the cost of software doesn't stop at delivery. If your business depends on your software for profitability, you need software that will be able to change with your business and that won't make your future developers throw up their hands. You need durable software.
 
-<i> Thumbnail photo by [NeONBRAND](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/). </i>
+
