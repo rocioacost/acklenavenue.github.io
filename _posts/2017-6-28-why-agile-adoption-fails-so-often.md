@@ -2,9 +2,9 @@
 layout: post
 title: Why Agile Adoption Fails So Often
 date: 2017-06-28
-description: Why do so many companies fail to fully adopt agile? Because they have a misunderstanding of what agile really is.
+description: Misunderstanding what agile really is.
 author: Matthew Phillip 
-excerpt: Why do so many companies fail to fully adopt agile? Because they have a misunderstanding of what agile really is.
+excerpt:  Misunderstanding what agile really is.
 image: https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg
 thumbnail: https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg
 type: article
