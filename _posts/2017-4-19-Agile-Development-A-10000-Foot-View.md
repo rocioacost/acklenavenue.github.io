@@ -2,9 +2,9 @@
 layout: post
 title: Agile Development a 10,000 Foot View
 date: 2017-04-19
-description: Every startup or tech company talks about being or going agile. Do they know what agile is? Do you?
+description: Talking about doing agile development without really knowing what agile REALLy is. 
 author: Byron Sommardahl 
-excerpt: Every startup or tech company talks about being or going agile. Do they know what agile is? Do you?
+excerpt: Talking about doing agile development without really knowing what agile REALLy is. 
 image: https://acklenavenue.com/img/posts/workflow.jpg
 thumbnail: https://acklenavenue.com/img/posts/workflow.jpg
 type: article
@@ -26,8 +26,6 @@ Agile practices get its users from idea to revenue as fast as possible, while pr
 These small slices are built, tested, and put into users’ hands so that one can learn from them what works and what doesn’t. To appropriate a wise quotation on design specifically, “No design ever withstood its first encounter with real users.”
 
 For example: Remember when Facebook’s (sorry, THE Facebook) functionality was that, as this screenshot shows, you can “search for people at your school, find out who are in your classes, look up your friends’ friends, and see a visualization of your social network”? Because by the way, it was only available to college students?
-
-![Old facebook homepage](http://acklenavenue.com/assets/img/posts/%20Old%20school%20FB%20image%20for%20agile%20dev%20post.png "Old Facebook homepage")
 
 While Mark Zuckerberg obviously is a visionary who went on to change the world, he focused on a relatively specific feature set and let the market and user feedback inform the roadmap.
 
