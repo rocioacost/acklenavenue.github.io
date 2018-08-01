@@ -5,8 +5,8 @@ date: 2015-09-01
 description: How to consistently produce high quality software.
 author: Byron Sommardahl
 excerpt: How to consistently produce high quality software.
-image: https://acklenavenue.com/img/posts/quality-secrets.png
-thumbnail: https://acklenavenue.com/img/posts/quality-secrets.png
+image: https://acklenavenue.com/img/posts/quality-software-secrets.png
+thumbnail: https://acklenavenue.com/img/posts/quality-software-secrets.png
 ImageCredits: Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)
 type: article
 keywords: client expectations, architecture, Quality Software, Scrum, Agile, Clean Code, Acklen Avenue, Nashville    
