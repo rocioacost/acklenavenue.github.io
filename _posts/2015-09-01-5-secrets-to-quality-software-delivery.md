@@ -2,10 +2,10 @@
 layout: post
 title: 5 Secrets to Quality Software Delivery
 date: 2015-09-01
-description: How a team consistently produces software with a high level of quality.
+description: How to consistently produce high quality software.
 author: Byron Sommardahl
-excerpt: How a team consistently produces software with a high level of quality.
-image: https://acklenavenue.com/img/posts/quality-software-secrets.png
+excerpt: How to consistently produce high quality software.
+image: https://acklenavenue.com/img/posts/quality-secrets.png
 thumbnail: https://acklenavenue.com/img/posts/quality-secrets.png
 ImageCredits: Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)
 type: article
