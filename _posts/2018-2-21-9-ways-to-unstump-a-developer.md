@@ -2,11 +2,12 @@
 layout: post
 title: 9 Ways to Unstump a Developer
 date: 2018-02-21
-description: When developers get stumped, they may need help getting unstumped. Also, project leaders need to be aware of the problem so that they can plan around the problem.
+description: Give your stumped developer a helping hand. 
 author: Byron Sommardahl 
-excerpt: I work with some of the most talented software developers in the world, and I rarely see them stumped...
-image: https://acklenavenue.com/img/posts/unstump-a-developer.jpg
-thumbnail: https://acklenavenue.com/img/posts/unstump-a-developer.jpg
+excerpt: Give your stumped developer a helping hand. 
+image: https://acklenavenue.com/img/posts/stumped-dev.png
+thumbnail: https://acklenavenue.com/img/posts/stumped-dev.png
+ImageCredits:Photo by Jack Daniel Ocampo Palacios on Unsplash
 type: article
 keywords: developers, Software development, pair programming, start-up, Slack, Scrum Master
 tags: tips_,_tricks_&_secrets
