@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: 3 questions to ask when starting a development project
+title: 3 questions to ask when starting a development project.
 date: 2017-06-21
-description: You need help getting your idea to your users. Does it matter how the job gets done?
+description: Time to bring your game changing idea to life.
 author: Byron Sommardahl 
-excerpt: You need help getting your idea to your users. Does it matter how the job gets done?
+excerpt: Time to bring your game changing idea to life.
 image: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
 thumbnail: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
 type: article
