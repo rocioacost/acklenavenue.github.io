@@ -7,7 +7,7 @@ author: Byron Sommardahl
 excerpt: Give your stumped developer a helping hand. 
 image: https://acklenavenue.com/img/posts/stumped-dev.png
 thumbnail: https://acklenavenue.com/img/posts/stumped-dev.png
-ImageCredits:Photo by Jack Daniel Ocampo Palacios on Unsplash
+ImageCredits: Photo by Jack Daniel Ocampo Palacios on Unsplash
 type: article
 keywords: developers, Software development, pair programming, start-up, Slack, Scrum Master
 tags: tips_,_tricks_&_secrets
