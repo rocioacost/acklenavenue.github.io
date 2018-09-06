@@ -47,7 +47,7 @@
         "department": ["All Ackleners", "Leadership & Operations"],
         "twitter": "@whatupcolleen",
         "linkedin": "https://www.linkedin.com/in/colleenreidelbach/",
-        "quote": "What would you do if you knew you couldn't fail?" 
+        "quote": "What would you do if you knew you couldn't fail?"
 	},
 	{
 		"name": "Cecil",
@@ -315,7 +315,7 @@
 		"github": "https://github.com/ferenckv",
 		"linkedin": "https://www.linkedin.com/in/ferenckv",
 		"quote": "How can we get to the stars?.<br> — Lisa Hayes"
-	},	
+	},
 	{
 		"name": "Franklin",
 		"lastName": "Rodriguez",
@@ -389,7 +389,7 @@
 		"github": "https://github.com/realpasro09",
 		"linkedin": "https://www.linkedin.com/in/renerosapastrana/",
 		"quote": "Whoever does not live to serve, does not serve to live"
-	},  
+	},
   	{
 		"name": "Ricardo",
 		"lastName": "Zelaya",
@@ -398,7 +398,7 @@
 		"location": "San pedro sula, Honduras",
 		"department": ["All Ackleners", "Developers"],
 		"quote": "Happiness is the key to success. If you love what you are doing, you will be successful.<br> — Albert Schweitzer"
-	}, 
+	},
 	{
 		"name": "Saúl",
 		"lastName": "Mayorquín",
@@ -567,14 +567,14 @@
 		"department": ["All Ackleners", "Designers"],
 		"linkedin":"https://www.linkedin.com/in/yamilg",
 		"quote":"Just do it!"
-	},    
+	},
 	{
 		"name": "Ambar",
 		"lastName": "Suarez",
 		"gravatarEmail": "ambarsuarez@acklenavenue.com",
 		"position": "QA Intern",
 		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Quality Assurance"], 
+		"department": ["All Ackleners", "Quality Assurance"],
 		"facebook": "https://www.facebook.com/ambar.suarez12",
 		"github": "https://github.com/ambarsf",
 		"quote": "Everybody wants to rule the world."
@@ -594,7 +594,7 @@
 		"github": "https://github.com/cesarwelch",
 		"linkedin": "https://www.linkedin.com/in/cesar-welchez-20b45a125/",
 		"quote": "Acklen Avenue Rocks so Much!"
-	}, 
+	},
 	{
 		"name": "Elder",
 		"lastName": "Cerrato",
@@ -692,5 +692,18 @@
 		"department": ["All Ackleners", "Quality Assurance"],
 		"linkedin": "www.linkedin.com/in/walter-nolasco-4a3b9234",
 		"quote": "Judge us on the quality of our products, and not the quantity of our paperwork."
+	},
+	{
+		"name": "Diego",
+		"lastName": "Turcios",
+		"gravatarEmail": "diego.turcios@acklenavenue.com",
+		"position": "DevOps",
+		"location": "San Pedro Sula, Cortés Honduras",
+		"department": ["All Ackleners", "DevOps"],
+		"facebook": "https://www.facebook.com/DiegoTc",
+		"github": "https://github.com/DiegoTc",
+		"linkedin": "https://www.linkedin.com/in/diego-turcios-lara-b9a9448/",
+		"twitter": "https://twitter.com/diegotc",
+		"quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you"
 	}
 ]
