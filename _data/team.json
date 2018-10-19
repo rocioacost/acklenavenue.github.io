@@ -137,6 +137,19 @@
 		"quote": "There is always a solution to every problem"
 	},
 	{
+		"name": "Carlos",
+		"lastname": "Solorzano",
+		"gravatarEmail": "carlos.solorzano@acklenavenue.com",
+		"position": "Senior Developer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"facebook": "https://www.facebook.com/illgamer",
+		"twitter": "https://twitter.com/illgamer",
+		"github": "https://github.com/csolorzanof",
+		"linkedin": "https://www.linkedin.com/in/csolorzanof/",
+		"quote": "Insanity is doing the same thing over and over again and expecting a different result"
+	},
+	{
 		"name": "Paulette",
 		"lastName": "Talavera",
 		"gravatarEmail": "paulette@acklenavenue.com",
