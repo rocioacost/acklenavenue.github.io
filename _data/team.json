@@ -30,7 +30,7 @@
 		"name": "Tommy",
         "lastName": "Norman",
         "gravatarEmail": "tommy@acklenavenue.com",
-        "position": "Director of Agile Operations",
+        "position": "VP of Agile Operations",
         "location": "Nashville, United States",
         "department": ["All Ackleners", "Leadership & Operations"],
         "facebook": "https://www.facebook.com/tommynorman",
@@ -48,16 +48,6 @@
         "twitter": "@whatupcolleen",
         "linkedin": "https://www.linkedin.com/in/colleenreidelbach/",
         "quote": "What would you do if you knew you couldn't fail?"
-	},
-	{
-		"name": "Cecil",
-		"lastName": "Fuller",
-		"gravatarEmail": "cecil@acklenavenue.com",
-		"position": "Strategic Growth <br> & Development",
-		"location": "Nashville, United States",
-		"department": ["All Ackleners", "Leadership & Operations"],
-		"linkedin": "https://www.linkedin.com/in/cecilfuller/",
-		"quote": "Paralyze resistance with persistence.<br> — Woody Hayes"
 	},
 	{
 		"name": "Fernanda",
@@ -353,17 +343,6 @@
     	"quote": "Write your code like you are writing a story for kids."
 	},
 	{
-		"name": "Katy",
-		"lastName": "Lion",
-		"gravatarEmail": "katy.lion@acklenavenue.com",
-		"position": "Developer",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"github": "https://github.com/lnyntng",
-		"linkedin": "https://www.linkedin.com/in/lnyntng/",
-		"quote": "If I respect myself and believe in what I'm doing, no one can touch me.<br> — Fiona Apple"
-	},
-	{
 		"name": "Kelvin",
 		"lastName": "Chinchilla",
 		"gravatarEmail": "kelvin.c@acklenavenue.com",
@@ -378,19 +357,7 @@
 		"linkedin": "https://www.linkedin.com/in/kelvin-chinchilla-a9a441131/",
 		"quote": "I like to code with pancakes"
 	},
-	{
-		"name": "Rene",
-		"lastName": "Rosa",
-		"gravatarEmail": "rene@acklenavenue.com",
-		"position": "Senior Developer",
-		"location": "San Pedro Sula, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"facebook": "https://www.facebook.com/rene.rosapastrana",
-		"github": "https://github.com/realpasro09",
-		"linkedin": "https://www.linkedin.com/in/renerosapastrana/",
-		"quote": "Whoever does not live to serve, does not serve to live"
-	},
-  	{
+  {
 		"name": "Ricardo",
 		"lastName": "Zelaya",
 		"gravatarEmail": "ricardo.zelaya@acklenavenue.com",
@@ -424,35 +391,6 @@
 		"twitter": "https://twitter.com/dante_dubon",
 		"github": "https://github.com/dantedubon",
 		"quote": "My treasure is my gallant bark, my only god is liberty; my law is might, the wind my mark, my country is the sea."
-	},
-	{
-		"name": "Gazy",
-		"lastName": "Mahomar",
-		"gravatarEmail": "gazy@acklenavenue.com",
-		"position": "Software Architect",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Architects"
-		],
-		"github": "https://github.com/gmahomarf",
-		"quote": "I forgot my line."
-	},
-	{
-		"name": "Viktor",
-		"lastName": "Zavala",
-		"gravatarEmail": "viktor@acklenavenue.com",
-		"position": "Software Architect",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Architects"
-		],
-		"facebook": "https://www.facebook.com/viktor.zavala",
-		"twitter": "https://twitter.com/zsnake123",
-		"github": "https://github.com/zsnake",
-		"linkedin": "https://www.linkedin.com/in/vkzavala",
-		"quote": "There is no such thing as a lousy job; only lousy men who don't care to do it."
 	},
 	{
 		"name": "Camilo",
@@ -499,7 +437,7 @@
 		"name":"Angela",
 		"lastName":"Velasquez",
 		"gravatarEmail": "angela.v@acklenavenue.com",
-		"position":"Junior Designer",
+		"position":"Senior Designer",
 		"location":"Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"twitter": "https://twitter.com/AngelaVelasquez",
@@ -539,7 +477,7 @@
 		"name": "Wendy",
 		"lastName": "Vargas",
 		"gravatarEmail": "wendy.vargas@acklenavenue.com",
-		"position": "Junior Designer",
+		"position": "Senior Designer",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"github": "https://github.com/wenvees",
@@ -550,7 +488,7 @@
 		"name": "Wilmer",
 		"lastName": "Murillo",
 		"gravatarEmail": "wilmermurillo@acklenavenue.com",
-		"position": "Junior Designer",
+		"position": "Senior Designer",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"facebook": "https://facebook.com/wilmermurillo",
