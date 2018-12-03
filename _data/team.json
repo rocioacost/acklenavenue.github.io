@@ -591,21 +591,6 @@
 		"quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.<br> — Dr. Seuss"
 	},
 	{
-		"name": "Ricky",
-		"lastName": "Casco",
-		"gravatarEmail": "ricardo@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Quality Assurance"
-		],
-		"facebook": "https://www.facebook.com/ricky.casco.3",
-		"github": "https://github.com/ricasco1989",
-		"linkedin": "https://www.linkedin.com/in/ricardo-casco-434a1990/",
-		"quote": "Quality is never an accident; It is always the result of intelligent effort."
-	},
-	{
 		"name": "Sharon",
 		"lastName": "Montenegro",
 		"gravatarEmail": "sharon@acklenavenue.com",
@@ -620,16 +605,6 @@
 		"github": "https://github.com/Sagui",
 		"linkedin": "https://www.linkedin.com/in/sharon-montenegro-30973883/",
 		"quote": "Ex nihilo nihil fit"
-	},
-	{
-		"name": "Walter",
-		"lastName": "Nolasco",
-		"gravatarEmail": "walter@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Quality Assurance"],
-		"linkedin": "www.linkedin.com/in/walter-nolasco-4a3b9234",
-		"quote": "Judge us on the quality of our products, and not the quantity of our paperwork."
 	},
 	{
 		"name": "Diego",
