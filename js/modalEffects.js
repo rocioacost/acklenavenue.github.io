@@ -36,6 +36,12 @@ var ModalEffects = (function() {
 				if (overlay) {
 					overlay.removeEventListener( 'click', removeModalHandler );
 					overlay.addEventListener( 'click', removeModalHandler );
+					ga('send', {
+						hitType: 'event',
+						eventCategory: 'Contact',
+						eventAction: 'viewed',
+						eventLabel: 'form'
+					  });
 				}
 
 				if( classie.has( el, 'md-setperspective' ) ) {
