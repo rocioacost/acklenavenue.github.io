@@ -117,6 +117,12 @@ $(document).ready(function() {
                 }
             }).then(function(data) {
                 resetFormFields();
+                ga('send', {
+                    hitType: 'event',
+                    eventCategory: 'Contact',
+                    eventAction: 'submit',
+                    eventLabel: 'form'
+                  });
             });
             return false;
         });
