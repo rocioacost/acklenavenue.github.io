@@ -307,6 +307,12 @@ nav
 .nav-bullets li:last-child a:hover
   background: rgba(255,255,255,0.5)
   color: $white
+input[type="submit"]
+  cursor: pointer
+  
+input[type="submit"]:disabled 
+  background: $black-30
+  cursor: not-allowed
 
 @media (min-width: $screen-xm-min) and (max-width: $screen-sm-min)
   header

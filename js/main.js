@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
     $(function() {
         $('.tabs li').on('click', function() {
             var $panel = $(this).closest('.tab-panels');
@@ -96,6 +95,11 @@ $(document).ready(function() {
             $("#subscribe-email").val("");
         }
 
+        recapchaCallback = function () {
+            var registerBtn = document.querySelector('#button-form');
+            registerBtn.removeAttribute('disabled');
+        }
+
         // mail service
         $("#contact-form").submit(function(e) {
             e.preventDefault();
@@ -112,17 +116,17 @@ $(document).ready(function() {
                 data: JSON.stringify(mailModel),
                 contentType: "application/json; charset=utf-8",
                 success: function(msg) {
+                    ga('send', {
+                        hitType: 'event',
+                        eventCategory: 'Contact',
+                        eventAction: 'submit',
+                        eventLabel: 'form'
+                      });
                     $(overlay).delay(1200).fadeOut(600);
                     $(confirmationID).show().delay(2000).fadeOut(300);
                 }
             }).then(function(data) {
                 resetFormFields();
-                ga('send', {
-                    hitType: 'event',
-                    eventCategory: 'Contact',
-                    eventAction: 'submit',
-                    eventLabel: 'form'
-                  });
             });
             return false;
         });
@@ -158,5 +162,6 @@ $(document).ready(function() {
           $(".member-card .member-card__img-container .member-card__img").each(function () {
             $(this).attr("src", "https://www.gravatar.com/avatar/" + md5($(this).attr("alt")) + "?s=400&d=mm");
           });
+
     });
 });
