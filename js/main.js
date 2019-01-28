@@ -112,7 +112,7 @@ $(document).ready(function() {
             };
         $.ajax({
                 type: "POST",
-                url: "http://emailer-3.apphb.com/Mail",
+                url: "https://emailer-3.apphb.com/Mail",
                 data: JSON.stringify(mailModel),
                 contentType: "application/json; charset=utf-8",
                 success: function(msg) {
