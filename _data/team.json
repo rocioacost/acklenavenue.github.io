@@ -62,15 +62,6 @@
 		"quote": "In a world where you can be anything, be kind."
 	},
 	{
-		"name": "Yorleny",
-		"lastName": "Barbieri",
-        "gravatarEmail": "yorleny.barbieri@acklenavenue.com",
-     	"position": " Administrative Assistant",
-      	"location": "San Pedro Sula, Honduras",
-      	"department": ["All Ackleners", "Leadership & Operations"],
-      	"quote": "You can't live the present if you don't leave behind the past"
-	},
-	{
 		"name":"Johanne",
 		"lastName":"Greenwood",
 		"gravatarEmail": "johanne@acklenavenue.com",
@@ -383,7 +374,7 @@
 		"name": "Saúl",
 		"lastName": "Mayorquín",
 		"gravatarEmail": "saul@acklenavenue.com",
-		"position": "Senior Developer",
+		"position": "Software Architect",
 		"location": "Comayagua, Honduras",
 		"department": ["All Ackleners", "Developers"],
 		"facebook": "https://www.facebook.com/saulmadi",
@@ -490,7 +481,7 @@
 		"name": "Wendy",
 		"lastName": "Vargas",
 		"gravatarEmail": "wendy.vargas@acklenavenue.com",
-		"position": "Senior Designer",
+		"position": "Design Guild Master",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"github": "https://github.com/wenvees",
@@ -513,7 +504,7 @@
 		"name":"Yamil",
 		"lastName":"Gonzales",
 		"gravatarEmail": "yamil@acklenavenue.com",
-		"position":"Design Guild Master",
+		"position":"Development Guild Master",
 		"location":"Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"linkedin":"https://www.linkedin.com/in/yamilg",
