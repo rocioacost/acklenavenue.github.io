@@ -657,5 +657,16 @@
 		"github": "https://github.com/tdacareth",
 		"linkedin": "https://www.linkedin.com/in/teddy-dacareth-81139387/",
 		"quote": "Do or do not. There is no try.<br> — Yoda"
+	},
+	{
+		"name": "Hector",
+		"lastName": "Rosales",
+		"gravatarEmail": "hector.rosales@acklenavenue.com",
+		"position": "DevOps",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "DevOps"],
+		"github": "https://github.com/hndoss",
+		"linkedin": "https://www.linkedin.com/in/hndoss",
+		"quote": "There's always a way.<br>"
 	}
 ]
