@@ -646,5 +646,16 @@
 		"github": "https://github.com/AleKiller21",
 		"linkedin": "https://www.linkedin.com/in/alejandro-ferrera-b35167145/",
 		"quote": "When a man is faced with his own death, he finds the impossible less of a barrier.<br> — Prince of Persia"
+	},
+	{
+		"name": "Teddy",
+		"lastName": "Dacareth",
+		"gravatarEmail": "teddydacareth@acklenavenue.com",
+		"position": "Quality Assurance",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Quality Assurance"],
+		"github": "https://github.com/tdacareth",
+		"linkedin": "https://www.linkedin.com/in/teddy-dacareth-81139387/",
+		"quote": "Do or do not. There is no try.<br> — Yoda"
 	}
 ]
