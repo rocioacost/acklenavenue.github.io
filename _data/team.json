@@ -657,5 +657,16 @@
 		"github": "https://github.com/tdacareth",
 		"linkedin": "https://www.linkedin.com/in/teddy-dacareth-81139387/",
 		"quote": "Do or do not. There is no try.<br> — Yoda"
+	},
+	{
+		"name": "Andrés",
+		"lastName": "Rodríguez",
+		"gravatarEmail": "andres.rodriguez@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/andresrgz",
+		"linkedin": "www.linkedin.com/in/a-rodriguez2",
+		"quote": "Sweat the small stuff. Without letting anyone see you sweat.<br> — Chris Hadfield"
 	}
 ]
