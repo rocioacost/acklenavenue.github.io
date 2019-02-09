@@ -658,8 +658,20 @@
 		"linkedin": "https://www.linkedin.com/in/teddy-dacareth-81139387/",
 		"quote": "Do or do not. There is no try.<br> — Yoda"
 	},
+  
 	{
-
+		"name": "Hector",
+		"lastName": "Rosales",
+		"gravatarEmail": "hector.rosales@acklenavenue.com",
+		"position": "DevOps",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "DevOps"],
+		"github": "https://github.com/hndoss",
+		"linkedin": "https://www.linkedin.com/in/hndoss",
+		"quote": "There's always a way.<br>"
+	},
+  
+  {
 		"name": "Andrés",
 		"lastName": "Rodríguez",
 		"gravatarEmail": "andres.rodriguez@acklenavenue.com",
@@ -682,4 +694,5 @@
 		"linkedin": "https://www.linkedin.com/in/andres-flores-309679144/",
 		"quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator"
   }
+
 ]
