@@ -514,7 +514,7 @@
 		"name": "Ambar",
 		"lastName": "Suarez",
 		"gravatarEmail": "ambarsuarez@acklenavenue.com",
-		"position": "QA Intern",
+		"position": "Quality Assurance",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Quality Assurance"],
 		"facebook": "https://www.facebook.com/ambar.suarez12",
@@ -658,6 +658,7 @@
 		"linkedin": "https://www.linkedin.com/in/teddy-dacareth-81139387/",
 		"quote": "Do or do not. There is no try.<br> — Yoda"
 	},
+  
 	{
 		"name": "Hector",
 		"lastName": "Rosales",
@@ -668,5 +669,30 @@
 		"github": "https://github.com/hndoss",
 		"linkedin": "https://www.linkedin.com/in/hndoss",
 		"quote": "There's always a way.<br>"
-	}
+	},
+  
+  {
+		"name": "Andrés",
+		"lastName": "Rodríguez",
+		"gravatarEmail": "andres.rodriguez@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/andresrgz",
+		"linkedin": "www.linkedin.com/in/a-rodriguez2",
+		"quote": "Sweat the small stuff. Without letting anyone see you sweat.<br> — Chris Hadfield"
+	},
+  
+  {
+    	"name": "Andres",
+		"lastName": "Flores",
+		"gravatarEmail": "andres.flores@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/afloresmorales",
+		"linkedin": "https://www.linkedin.com/in/andres-flores-309679144/",
+		"quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator"
+  }
+
 ]
