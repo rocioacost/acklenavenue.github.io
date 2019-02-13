@@ -397,22 +397,6 @@
 		"quote": "My treasure is my gallant bark, my only god is liberty; my law is might, the wind my mark, my country is the sea."
 	},
 	{
-		"name": "Camilo",
-		"lastName": "Rivera",
-		"gravatarEmail": "crivera@acklenavenue.com",
-		"position": "DevOps Guild Master",
-		"location": "San Pedro Sula, Honduras",
-		"department": [
-			"All Ackleners",
-			"DevOps"
-		],
-		"facebook": "https://www.facebook.com/camilo.ripi",
-		"twitter": "https://twitter.com/VikingCamilo",
-		"github": "https://github.com/camilorivera",
-		"linkedin": "https://www.linkedin.com/in/camiloriverapineda/",
-		"quote": "Devs are from Venus, Ops are from Mars.<br> — Steven Haines"
-	},
-	{
 		"name": "Eliseo",
 		"lastName": "García",
 		"gravatarEmail": "eliseo@acklenavenue.com",
