@@ -138,7 +138,7 @@
 	},
 	{
 		"name": "Carlos",
-		"lastname": "Solorzano",
+		"lastName": "Solorzano",
 		"gravatarEmail": "carlos.solorzano@acklenavenue.com",
 		"position": "Senior Developer",
 		"location": "Tegucigalpa, Honduras",
