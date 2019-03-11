@@ -677,6 +677,17 @@
 		"github": "https://github.com/afloresmorales",
 		"linkedin": "https://www.linkedin.com/in/andres-flores-309679144/",
 		"quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator"
-  }
+  },  
+	{
+		"name": "Jimmy",
+		"lastName": "Ramos",
+		"gravatarEmail": "jimmyramos@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/jimmybanegas93",
+		"linkedin": "https://www.linkedin.com/in/jimmybanegas93",
+		"quote": "I have not failed. I've just found 10,000 ways that won't work.<br> - Thomas Alva Edison"  
+	}
 
 ]
