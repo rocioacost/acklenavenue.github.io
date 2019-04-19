@@ -1,40 +1,24 @@
+var path = window.location.pathname;
+var pathelement = path.split('/').pop();
 
-if(window.location.pathname === '/lionware/silverbird') {
-    document.querySelectorAll('.aqua-gem').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.forklift').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.wallstreet').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.runway').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.silverbird').forEach( el => el.classList.remove('hidden') );
-};
+const cards = Array.from(document.querySelectorAll('.card')).filter( el => !el.classList.contains(pathelement) );
+cards.forEach(el => el.remove());
 
-if(window.location.pathname === '/lionware/aquagem') {
-    document.querySelectorAll('.forklift').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.silverbird').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.wallstreet').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.runway').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.aqua-gem').forEach( el => el.classList.remove('hidden') );
-};
 
-if(window.location.pathname === '/lionware/forklift') {
-    document.querySelectorAll('.aqua-gem').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.silverbird').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.wallstreet').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.runway').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.forklift').forEach( el => el.classList.remove('hidden') );
-};
+ScrollReveal().reveal('.card');
 
-if(window.location.pathname === '/lionware/wallstreet') {
-    document.querySelectorAll('.aqua-gem').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.silverbird').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.forklift').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.runway').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.wallstreet').forEach( el => el.classList.remove('hidden') );
-};
 
-if(window.location.pathname === '/lionware/runway') {
-    document.querySelectorAll('.aqua-gem').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.silverbird').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.forklift').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.wallstreet').forEach( el => el.classList.add('hidden') );
-    document.querySelectorAll('.runway').forEach( el => el.classList.remove('hidden') );
-};
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
