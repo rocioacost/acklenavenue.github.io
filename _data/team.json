@@ -688,6 +688,17 @@
 		"github": "https://github.com/jimmybanegas93",
 		"linkedin": "https://www.linkedin.com/in/jimmybanegas93",
 		"quote": "I have not failed. I've just found 10,000 ways that won't work.<br> - Thomas Alva Edison"  
+	},
+	{
+		"name": "Rony",
+		"lastName": "Vidaur",
+		"gravatarEmail": "rony.vidaur@acklenavenue.com",
+		"position": "Developer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/RonyVidaur",
+		"twitter": "https://twitter.com/rnvdrs",
+		"quote": "The past cannot be changed. The future is yet in your power."  
 	}
 
 ]
