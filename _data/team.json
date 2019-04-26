@@ -105,23 +105,10 @@
 		"quote": "Opportunities aren't given, they are created."
 	},
 	{
-		"name": "Alfredo",
-		"lastName": "Diaz del Valle",
-		"gravatarEmail": "alfredo@acklenavenue.com",
-		"position": "Product Owner",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Product Owners"],
-		"facebook": "https://www.facebook.com/alfredo.diazdelvalle",
-		"twitter": "https://twitter.com/adiazdelvalle",
-		"github": "https://github.com/AlfredoDDV",
-		"linkedin": "https://www.linkedin.com/in/dennis-cheong-376b23141/",
-		"quote": "There is always a solution to every problem"
-	},
-	{
 		"name": "Carlos",
 		"lastName": "Solorzano",
 		"gravatarEmail": "carlos.solorzano@acklenavenue.com",
-		"position": "Senior Developer",
+		"position": "Tribal Tech Lead",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Developers"],
 		"facebook": "https://www.facebook.com/illgamer",
@@ -170,7 +157,7 @@
 		"name": "Saul",
 		"lastName": "Euceda",
 		"gravatarEmail": "saul.euceda@acklenavenue.com",
-		"position": "Scrum Master",
+		"position": "Product Owner",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Scrum Masters"],
 		"twitter": "https://twitter.com/saul_euceda",
@@ -188,7 +175,7 @@
 	},
 	{
 		"name": "Christian",
-		"lastName": "Garcia",
+		"lastName": "García",
 		"gravatarEmail": "cristian.g@acklenavenue.com",
 		"position": "Recruiter",
 		"location": "Tegucigalpa, Honduras",
@@ -216,7 +203,7 @@
 	},
 	{
 		"name": "Bily",
-		"lastName": "Fernandez",
+		"lastName": "Fernández",
 		"gravatarEmail": "billy@acklenavenue.com",
 		"position": "Senior Developer",
 		"location": "Villanueva, Cortes, Honduras",
@@ -229,7 +216,7 @@
 	},
 	{
 		"name": "Cristian",
-		"lastName": "Echeverria",
+		"lastName": "Echeverría",
 		"gravatarEmail": "cristian@acklenavenue.com",
 		"position": "Developer",
 		"location": "San Pedro Sula, Honduras",
@@ -244,7 +231,7 @@
 		"quote": "Build your future, one step at the time!"
 	},
 	{
-		"name": "Cesar",
+		"name": "César",
 		"lastName": "Bonilla",
 		"gravatarEmail": "cesar.bonilla@acklenavenue.com",
 		"position": "Developer",
@@ -301,7 +288,7 @@
 		"name": "Ferenck",
 		"lastName": "Vargas",
 		"gravatarEmail": "ferenck@acklenavenue.com",
-		"position": "Senior Developer",
+		"position": "Tribal Tech Lead",
 		"location": "San Pedro Sula, Honduras",
 		"department": ["All Ackleners", "Developers"],
 		"facebook": "https://www.facebook.com/ferenckv",
@@ -312,7 +299,7 @@
 	},
 	{
 		"name": "Franklin",
-		"lastName": "Rodriguez",
+		"lastName": "Rodríguez",
 		"gravatarEmail": "frank@acklenavenue.com",
 		"position": "Developer",
 		"location": "Tegucigalpa, Honduras",
@@ -324,9 +311,9 @@
 	},
 	{
 		"name": "Isaac",
-		"lastName": "Martinez",
+		"lastName": "Martínez",
 		"gravatarEmail": "imtz90b@gmail.com",
-		"position": "Developer",
+		"position": "Tribal Tech Lead",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Developers"],
 		"twitter": "https://twitter.com/balamcode",
@@ -361,41 +348,6 @@
 		"linkedin": "https://www.linkedin.com/in/kelvin-chinchilla-a9a441131/",
 		"quote": "I like to code with pancakes"
 	},
-  {
-		"name": "Ricardo",
-		"lastName": "Zelaya",
-		"gravatarEmail": "ricardo.zelaya@acklenavenue.com",
-		"position": "Developer",
-		"location": "San pedro sula, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"quote": "Happiness is the key to success. If you love what you are doing, you will be successful.<br> — Albert Schweitzer"
-	},
-	{
-		"name": "Saúl",
-		"lastName": "Mayorquín",
-		"gravatarEmail": "saul@acklenavenue.com",
-		"position": "Software Architect",
-		"location": "Comayagua, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"facebook": "https://www.facebook.com/saulmadi",
-		"github": "https://github.com/saulmadi",
-		"linkedin": "https://www.linkedin.com/in/saulmadi",
-		"quote": "You carry freedom in the brillance of a promise: love"
-	},
-	{
-		"name": "Dante",
-		"lastName": "Dubón",
-		"gravatarEmail": "dante@acklenavenue.com",
-		"position": "Software Architect",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Architects"
-		],
-		"twitter": "https://twitter.com/dante_dubon",
-		"github": "https://github.com/dantedubon",
-		"quote": "My treasure is my gallant bark, my only god is liberty; my law is might, the wind my mark, my country is the sea."
-	},
 	{
 		"name": "Eliseo",
 		"lastName": "García",
@@ -423,7 +375,7 @@
 	},
 	{
 		"name":"Angela",
-		"lastName":"Velasquez",
+		"lastName":"Velásquez",
 		"gravatarEmail": "angela.v@acklenavenue.com",
 		"position":"Senior Designer",
 		"location":"Tegucigalpa, Honduras",
@@ -496,7 +448,7 @@
 	},
 	{
 		"name": "Ambar",
-		"lastName": "Suarez",
+		"lastName": "Suárez",
 		"gravatarEmail": "ambarsuarez@acklenavenue.com",
 		"position": "Quality Assurance",
 		"location": "Tegucigalpa, Honduras",
@@ -506,7 +458,7 @@
 		"quote": "Everybody wants to rule the world."
 	},
 	{
-		"name": "Cesar",
+		"name": "César",
 		"lastName": "Welchez",
 		"gravatarEmail": "cesarwelchez@acklenavenue.com",
 		"position": "Quality Assurance",
@@ -539,7 +491,7 @@
 	},
 	{
 		"name": "Fernando",
-		"lastName": "Zuniga",
+		"lastName": "Zúniga",
 		"gravatarEmail": "fernando.zuniga@acklenavenue.com",
 		"position": "Quality Assurance",
 		"location": "Tegucigalpa, Honduras",
@@ -644,7 +596,7 @@
 	},
   
 	{
-		"name": "Hector",
+		"name": "Héctor",
 		"lastName": "Rosales",
 		"gravatarEmail": "hector.rosales@acklenavenue.com",
 		"position": "DevOps",
@@ -668,7 +620,7 @@
 	},
   
   {
-    	"name": "Andres",
+    	"name": "Andrés",
 		"lastName": "Flores",
 		"gravatarEmail": "andres.flores@acklenavenue.com",
 		"position": "Developer",
