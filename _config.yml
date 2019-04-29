@@ -25,4 +25,8 @@ development:
 
 exclude: ['badges']
 
-
+# Collections settings
+collections:
+  job_openings:
+    output: true
+    permalink: jobs/:title
