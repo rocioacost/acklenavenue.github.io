@@ -1,45 +1,47 @@
-[
-	{
-		"name": "All Ackleners"
-	},
-	{
-		"name": "Leadership & Operations",
-		"avatar": "../img/leadership-operations.svg"
-	},
-	{
-		"name": "Engagement Managers",
-		"avatar": "../img/engagement-manager.svg"
-	},
-	{
-		"name": "Product Owners",
-		"avatar": "../img/product-owner.svg"
-	},
-	{
-		"name": "Scrum Masters",
-		"avatar": "../img/scrum-master.svg"
-	},
-	{
-		"name": "Human Resources",
-		"avatar": "../img/human-resources.svg"
-	},
-	{
-		"name": "Developers",
-		"avatar": "../img/dev.svg"
-	},
-	{
-		"name": "Architects",
-		"avatar": "../img/architect.svg"
-	},
-	{
-		"name": "DevOps",
-		"avatar": "../img/devops.svg"
-	},
-	{
-		"name": "Designers",
-		"avatar": "../img/designer.svg"
-	},
-	{
-		"name": "Quality Assurance",
-		"avatar": "../img/quality-assurance.svg"
-	}
-]
+{
+  "data": [
+    {
+      "name": "All Ackleners"
+    },
+    {
+      "name": "Leadership & Operations",
+      "avatar": "../img/leadership-operations.svg"
+    },
+    {
+      "name": "Engagement Managers",
+      "avatar": "../img/engagement-manager.svg"
+    },
+    {
+      "name": "Product Owners",
+      "avatar": "../img/product-owner.svg"
+    },
+    {
+      "name": "Scrum Masters",
+      "avatar": "../img/scrum-master.svg"
+    },
+    {
+      "name": "Human Resources",
+      "avatar": "../img/human-resources.svg"
+    },
+    {
+      "name": "Developers",
+      "avatar": "../img/dev.svg"
+    },
+    {
+      "name": "Architects",
+      "avatar": "../img/architect.svg"
+    },
+    {
+      "name": "DevOps",
+      "avatar": "../img/devops.svg"
+    },
+    {
+      "name": "Designers",
+      "avatar": "../img/designer.svg"
+    },
+    {
+      "name": "Quality Assurance",
+      "avatar": "../img/quality-assurance.svg"
+    }
+  ]
+}
