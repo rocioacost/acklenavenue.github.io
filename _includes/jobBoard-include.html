@@ -1,6 +1,8 @@
+{% assign job_openings = site.job_openings | where:"hidden", false %}
+
 <section id="jobs">
     <h2>Openings</h2>
-    {% if site.job_openings == empty %}
+    {% if job_openings == empty %}
         <div class="noPost">
             <p>
                 There are no job offers available at this moment, but you can send us your contact information
@@ -10,7 +12,7 @@
             </p>
         </div>
         {%else%}
-        {% for job_opening in site.job_openings %}
+        {% for job_opening in job_openings %}
             <div class="jobPost">
                 <div class="jobPost__content flex-75">
                     <a href="{{ job_opening.url | prepend: base_url }}">

@@ -64,6 +64,7 @@ collections:
         name: 'requirements'
         widget: 'list'
         field: {label: 'Requirement', name: 'requirement', widget: 'string'}
+      - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false }
 
   - name: 'data'
     label: 'Data'
