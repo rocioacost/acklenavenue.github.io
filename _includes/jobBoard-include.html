@@ -1,46 +1,38 @@
+{% assign job_openings = site.job_openings | where:"hidden", false %}
+
 <section id="jobs">
     <h2>Openings</h2>
-    <!-- <div class="noPost">
-        <p>There are no job offers available at this moment, but you can send us your contact information <a href={{ "/#.html" | prepend: base_url }}>here</a></p>
-    </div>     -->
-    <div class="jobPost">
-        <div class="jobPost__content flex-75">
-            <a href={{ "/jobs/developer-role.html" | prepend: base_url }}>
-                <h3>Full Stack Developer</h3>
-            </a>
-            <div class="jobPost__description">
-                <div class="flex-25 jobPost__description__column">
-                    <span><img class="jobPost__description__icon" src="../img/remote-job.svg" alt=""></span>
-                    <span>Remote</span>
-                </div>
-                <div class="flex-25 jobPost__description__column">
-                    <span><img class="jobPost__description__icon" src="../img/full-time-job.svg" alt=""></span>
-                    <span>Full Time</span>
-                </div>
-            </div>
-        </div>
-        <div class="jobPost__content flex-25 jobPost__description__column">
-                <a class="hvr-icon-forward" href={{ "/jobs/developer-role.html" | prepend: base_url }}>Learn More</a>
-        </div>
-    </div>
-    <div class="jobPost">
-            <div class="jobPost__content flex-75">
-                <a href={{ "/#.html" | prepend: base_url }}>
-                    <h3>QA engineer</h3>
+    {% if job_openings == empty %}
+        <div class="noPost">
+            <p>
+                There are no job offers available at this moment, but you can send us your contact information
+                <a href="mailto:&#105;&#110;&#102;&#111;&#064;&#097;&#099;&#107;&#108;&#101;&#110;&#097;&#118;&#101;&#110;&#117;&#101;&#046;&#099;&#111;&#109;;">
+                    &#105;&#110;&#102;&#111;&#064;&#097;&#099;&#107;&#108;&#101;&#110;&#097;&#118;&#101;&#110;&#117;&#101;&#046;&#099;&#111;&#109;
                 </a>
-                <div class="jobPost__description">
-                    <div class="flex-25 jobPost__description__column">
-                        <span><img class="jobPost__description__icon" src="../img/remote-job.svg" alt=""></span>
-                        <span>Remote</span>
-                    </div>
-                    <div class="flex-25 jobPost__description__column">
-                        <span><img class="jobPost__description__icon" src="../img/half-time-job.svg" alt=""></span>
-                        <span>Half Time</span>
+            </p>
+        </div>
+        {%else%}
+        {% for job_opening in job_openings %}
+            <div class="jobPost">
+                <div class="jobPost__content flex-75">
+                    <a href="{{ job_opening.url | prepend: base_url }}">
+                        <h3>{{ job_opening.title }}</h3>
+                    </a>
+                    <div class="jobPost__description">
+                        <div class="flex-25 jobPost__description__column">
+                            <span><img alt="" class="jobPost__description__icon" src="../img/remote-job.svg"/></span>
+                            <span>{{ job_opening.location }}</span>
+                        </div>
+                        <div class="flex-25 jobPost__description__column">
+                            <span><img alt="" class="jobPost__description__icon" src="../img/{% if job_opening.time == 'Full Time' %}full{% else %}half{% endif %}-time-job.svg"/></span>
+                            <span>{{ job_opening.time }}</span>
+                        </div>
                     </div>
                 </div>
+                <div class="jobPost__content flex-25 jobPost__description__column">
+                    <a class="hvr-icon-forward" href="{{ job_opening.url | prepend: base_url }}">Learn More</a>
+                </div>
             </div>
-            <div class="jobPost__content flex-25 jobPost__description__column">
-                    <a class="hvr-icon-forward" href={{ "/#.html" | prepend: base_url }}>Learn More</a>
-            </div>
-        </div>
+        {% endfor %}
+    {% endif %}
 </section>
