@@ -768,6 +768,19 @@
       "gravatarEmail": "dennis.molina@acklenavenue.com",
       "quote": "Think twice, code once.",
       "linkedin": "https://www.linkedin.com/in/dennismolinadev/"
+    },
+    {
+      "name": "Carlos",
+      "lastName": "Vaquedano",
+      "gravatarEmail": "carlos.vaquedano@acklenavenue.com",
+      "position": "Developer",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "linkedin": "https://www.linkedin.com/in/carlos-vaquedano-633603a1/",
+      "quote": "Together we can do more!"
     }
   ]
 }
