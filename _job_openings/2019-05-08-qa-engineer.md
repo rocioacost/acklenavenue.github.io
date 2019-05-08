@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: QA Engineer
-location: Remote
+location: Remote - Honduras
 time: Full Time
 description: >
   We are looking for a Quality Assurance (QA) engineer who will manage
