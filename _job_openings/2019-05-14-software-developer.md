@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: 'Software Developer [Full Time]'
+title: 'Software Developer '
 location: Remote - Honduras
 time: Full Time
 description: >-
