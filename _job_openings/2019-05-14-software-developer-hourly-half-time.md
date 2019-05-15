@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: 'Software Developer [Hourly / Half-Time]'
+title: 'Software Developer '
 location: Remote - Honduras
 time: Half-Time
 description: >-
