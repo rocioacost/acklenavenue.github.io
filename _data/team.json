@@ -781,6 +781,20 @@
       "location": "San Pedro Sula, Honduras",
       "linkedin": "https://www.linkedin.com/in/carlos-vaquedano-633603a1/",
       "quote": "Together we can do more!"
+    },
+    {
+      "name": "Jonathan",
+      "lastName": "Salazar",
+      "github": "https://github.com/JSalazr",
+      "gravatarEmail": "jonathan@acklenavenue.com",
+      "position": "Developer",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/",
+      "quote": "Happiness depends upon ourselves.<br> — Aristotle"
     }
   ]
 }
