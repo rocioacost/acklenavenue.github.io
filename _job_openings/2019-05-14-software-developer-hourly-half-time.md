@@ -2,7 +2,7 @@
 layout: job-opening
 title: 'Software Developer '
 location: Remote - Honduras
-time: Half-Time
+time: Half-Time / Hourly
 description: >-
   We are looking for a Software Developer who will assist us with design,
   development, and implementation of software solutions. Your duties will
