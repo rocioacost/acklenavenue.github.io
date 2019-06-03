@@ -802,7 +802,7 @@
   "gravatarEmail": "anibal.ciliezar@acklenavenue.com",
   "position": "QA Analyst",
   "location": "Tegucigalpa, HN",
-  "department": ["All Ackleners", "Quality Assurances"], //List of Departments inside Acklen Avenue, you MUST have to specify ONE from the list: Leadership and Operations, Developers, Quality Assurances, Designers, DevOps, Product Owners, Scrum Masters, Engagement Managers, Human Resources, Architects.
+  "department": ["All Ackleners", "Quality Assurances"],
   "github": "https://github.com/anibalciliezar-acklenavenue",
   "linkedin": "https://www.linkedin.com/in/anibal-ciliezar-63689555/",
   "quote": "Quality means doing it right when no one is looking!"
