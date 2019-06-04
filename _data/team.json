@@ -190,7 +190,7 @@
       "name": "Saul",
       "department": [
         "All Ackleners",
-        "Scrum Masters"
+        "Product Owners"
       ],
       "twitter": "https://twitter.com/saul_euceda",
       "location": "Tegucigalpa, Honduras",
@@ -237,19 +237,6 @@
       "gravatarEmail": "jose.arturocordova@acklenavenue.com",
       "quote": "We Become What We Think About",
       "linkedin": "https://www.linkedin.com/in/arthur-cordova-b198bb103/"
-    },
-    {
-      "name": "Bily",
-      "lastName": "Fernández",
-      "gravatarEmail": "billy@acklenavenue.com",
-      "position": "Senior Developer",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "Villanueva, Cortes, Honduras",
-      "linkedin": "https://www.linkedin.com/in/bily-fern%C3%A1ndez-52355656/",
-      "quote": "Let's make it happen!"
     },
     {
       "lastName": "Echeverría",
@@ -435,7 +422,7 @@
       "lastName": "Velásquez",
       "github": "https://github.com/AngelaMeow/",
       "position": "Senior Designer",
-      "name": "Angela",
+      "name": "Ángela",
       "department": [
         "All Ackleners",
         "Designers"
@@ -513,7 +500,7 @@
       "position": "Development Guild Master",
       "department": [
         "All Ackleners",
-        "Designers"
+        "Developers"
       ],
       "location": "Tegucigalpa, Honduras",
       "linkedin": "https://www.linkedin.com/in/yamilg",
@@ -537,11 +524,11 @@
       "lastName": "Welchez",
       "github": "https://github.com/cesarwelch",
       "facebook": "https://www.facebook.com/cesarwelch",
-      "position": "Quality Assurance",
+      "position": "Developer",
       "name": "César",
       "department": [
         "All Ackleners",
-        "Quality Assurance"
+        "Developers"
       ],
       "twitter": "https://twitter.com/cesarwelch",
       "location": "Tegucigalpa, Honduras",
