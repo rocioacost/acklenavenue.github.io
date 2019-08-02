@@ -4,7 +4,7 @@ layout: acklen-subfolder
 
 <header class="page-header">
     {% include menu.html %}
-    <h1>{{ page.title }}</h1>
+    <h1>{{ page.title | replace: "| Acklen Avenue", "" }}</h1>
 </header>
 <div id="job-description">
     <section class="text-block">
@@ -25,7 +25,7 @@ layout: acklen-subfolder
     </section>
     <section class="text-block">
         <h2>Description</h2>
-        <p class="text-block--two-columns">
+        <p class="text-block">
             {{ page.description }}
         </p>
     </section>
