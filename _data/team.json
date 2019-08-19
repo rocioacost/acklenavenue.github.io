@@ -212,22 +212,6 @@
       "linkedin": "https://www.linkedin.com/in/arthur-cordova-b198bb103/"
     },
     {
-      "lastName": "Zelaya",
-      "github": "https://github.com/danielzy95",
-      "facebook": "https://www.facebook.com/daniel.zelayayacaman",
-      "position": "Developer",
-      "name": "Daniel",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "twitter": "https://twitter.com/wupa9",
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "daniel.zelaya@acklenavenue.com",
-      "quote": "Never settle. Aim for perfection.",
-      "linkedin": "https://www.linkedin.com/in/daniel-zelaya-11b350151/"
-    },
-    {
       "lastName": "Siwady",
       "github": "https://github.com/siwady",
       "position": "Developer",
@@ -274,21 +258,6 @@
       "linkedin": "https://www.linkedin.com/in/ferenckv"
     },
     {
-      "lastName": "Rodríguez",
-      "github": "https://github.com/frankrod",
-      "facebook": "https://www.facebook.com/frank.rodriguez.79",
-      "position": "Developer",
-      "name": "Franklin",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "frank@acklenavenue.com",
-      "quote": "Do what you can, with what you have, where you are.",
-      "linkedin": "https://www.linkedin.com/in/franklin-rodriguez-nu%C3%B1ez-37311061/"
-    },
-    {
       "lastName": "Martínez",
       "github": "https://github.com/isaacmtz90",
       "position": "Tribal Tech Lead",
@@ -317,21 +286,6 @@
       "gravatarEmail": "jacob@acklenavenue.com",
       "quote": "Write your code like you are writing a story for kids.",
       "linkedin": "https://www.linkedin.com/in/erick-jacob-ramirez-cruz-129107121/"
-    },
-    {
-      "lastName": "Chinchilla",
-      "github": "https://github.com/KelviNosse",
-      "position": "Developer",
-      "name": "Kelvin",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "twitter": "https://twitter.com/KelviNosse",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "kelvin.c@acklenavenue.com",
-      "quote": "I like to code with pancakes",
-      "linkedin": "https://www.linkedin.com/in/kelvin-chinchilla-a9a441131/"
     },
     {
       "lastName": "García",
