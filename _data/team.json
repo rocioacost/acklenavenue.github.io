@@ -255,20 +255,6 @@
       "linkedin": "https://www.linkedin.com/in/cristian-echeverria-ba650159/"
     },
     {
-      "lastName": "Bonilla",
-      "facebook": "https://www.facebook.com/cefeboru",
-      "position": "Developer",
-      "name": "César",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "cesar.bonilla@acklenavenue.com",
-      "quote": "Let the beauty of what you love be what you do",
-      "linkedin": "https://www.linkedin.com/in/cefeboru/"
-    },
-    {
       "lastName": "Zelaya",
       "github": "https://github.com/danielzy95",
       "facebook": "https://www.facebook.com/daniel.zelayayacaman",
@@ -770,18 +756,18 @@
       "quote": "Together we can do more!"
     },
     {
-      "name": "Jonathan",
       "lastName": "Salazar",
       "github": "https://github.com/JSalazr",
-      "gravatarEmail": "jonathan@acklenavenue.com",
       "position": "Developer",
+      "name": "Jonathan",
       "department": [
         "All Ackleners",
         "Developers"
       ],
       "location": "San Pedro Sula, Honduras",
-      "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/",
-      "quote": "Happiness depends upon ourselves.<br> — Aristotle"
+      "gravatarEmail": "jonathan@acklenavenue.com",
+      "quote": "Happiness depends upon ourselves.<br> — Aristotle",
+      "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/"
     }
   ]
 }
