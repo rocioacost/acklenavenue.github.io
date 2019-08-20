@@ -704,7 +704,21 @@
       "github": "https://github.com/dcasasola", 
       "linkedin": "https://www.linkedin.com/in/diana-casasola-10887014a/", 
       "quote": "Happy mind, Happy life!" 
-    } 
+    },
+    {
+      "lastName": "Cardona",
+      "github": "https://github.com/rcart",
+      "position": "Developer",
+      "name": "Ronny",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "Villanueva, Honduras",
+      "gravatarEmail": "ronny.cardona@acklenavenue.com",
+      "quote": "We become what we think about.",
+      "linkedin": "https://www.linkedin.com/in/rjcardona"
+    }
   ]
 }
 
