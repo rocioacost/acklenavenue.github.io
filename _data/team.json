@@ -611,6 +611,19 @@
       "linkedin": "https://www.linkedin.com/in/dennismolinadev/"
     },
     {
+      "name": "Oscar",
+      "lastName": "Carranza",
+      "github": "https://github.com/OscarCarranza",
+      "gravatarEmail": "oscar.carranza@acklenavenue.com",
+      "position": "Scrum Master",
+      "department": [
+        "All Ackleners",
+        "Scrum Masters"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "Excellence is not a skill, it´s an attitude."
+    },
+    {
       "name": "Carlos",
       "lastName": "Vaquedano",
       "gravatarEmail": "carlos.vaquedano@acklenavenue.com",
