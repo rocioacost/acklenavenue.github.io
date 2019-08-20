@@ -665,6 +665,20 @@
       "github": "https://github.com/cfvelasquez095",
       "linkedin": "https://www.linkedin.com/in/cfvelasquez/",
       "quote": "Once we accept our limits, we go beyond them.<br> — Albert Einstein"
+    },
+    {
+      "name": "Inti",
+      "lastName": "Velásquez",
+      "gravatarEmail": "Inti.velasquez@acklenavenue.com",
+      "position": "Developer",
+      "location": "Tegucigalpa, Honduras",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "github": "https://github.com/intiv",
+      "linkedin": "https://www.linkedin.com/in/intivelasquez/",
+      "quote": "The cosmos is within us, we are made of star-stuff.<br> — Carl Sagan"
     }
   ]
 }
