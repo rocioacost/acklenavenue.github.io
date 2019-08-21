@@ -729,6 +729,20 @@
       "gravatarEmail": "ronny.cardona@acklenavenue.com",
       "quote": "We become what we think about.",
       "linkedin": "https://www.linkedin.com/in/rjcardona"
+    },
+    {
+      "lastName": "Zelaya",
+      "github": "https://github.com/rcart",
+      "position": "Developer",
+      "name": "Ricardo",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "SPS, Honduras",
+      "gravatarEmail": "ricardo.zelaya@acklenavenue.com",
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer",
+      "linkedin": "https://www.linkedin.com/in/ricardo-zelaya-628a5124-"
     }
   ]
 }
