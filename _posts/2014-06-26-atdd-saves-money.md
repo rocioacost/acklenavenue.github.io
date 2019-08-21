@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Save Money With ATDD
+title: Save money with “Acceptance Test-Driven Development”
 date: 2014-06-26
-description: 4 ways we have proved ATDD saves money.
+description: Acceptance Test-Driven Development (ATDD) is a methodology that encourages collaboration among the user, developer, and tester to ensure that acceptance tests exist before writing any code. This tight feedback loop is huge and saves money.
 author: Byron Sommardahl 
-excerpt: 4 ways we have proved ATDD saves money.
+excerpt: Acceptance Test-Driven Development (ATDD) is a methodology that encourages collaboration among the user, developer, and tester to ensure that acceptance tests exist before writing any code. This tight feedback loop is huge and saves money.
 image: https://acklenavenue.com/img/posts/save-money-atdd.png
 thumbnail: https://acklenavenue.com/img/posts/save-money-atdd.png
 type: article
