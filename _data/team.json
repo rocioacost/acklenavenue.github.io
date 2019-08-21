@@ -686,7 +686,7 @@
       "gravatarEmail": "renerivera@acklenavenue.com",
       "position": "Developer",
       "location": "San Pedro Sula, Honduras",
-       "department": [
+      "department": [
         "All Ackleners",
         "Developers"
       ],
@@ -694,6 +694,17 @@
       "github": "https://github.com/RDRR7",
       "quote": "Real living is living for others.<br> - Bruce Lee"
     },
+    {
+      "name": "Anibal",
+      "lastName": "Ciliezar",
+      "gravatarEmail": "anibal.ciliezar@acklenavenue.com",
+      "position": "QA Analyst",
+      "location": "Tegucigalpa, HN",
+      "department": ["All Ackleners", "Quality Assurances"],
+      "github": "https://github.com/anibalciliezar-acklenavenue",
+      "linkedin": "https://www.linkedin.com/in/anibal-ciliezar-63689555/",
+      "quote": "Quality means doing it right when no one is looking!"
+    }, 
     { 
       "name": "Diana",  
       "lastName": "Casasola", 
