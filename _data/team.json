@@ -742,6 +742,19 @@
       "gravatarEmail": "ricardo.zelaya@acklenavenue.com",
       "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer",
       "linkedin": "https://www.linkedin.com/in/ricardo-zelaya-628a5124-"
+    },
+    {
+      "lastName": "Boquin",
+      "position": "Product Owner",
+      "name": "Guillermo",
+      "department": [
+        "All Ackleners",
+        "Product Owners"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "guillermo.boquin@acklenavenue.com",
+      "quote": "Simplicity is the soul of efficiency.",
+      "linkedin": "https://www.linkedin.com/in/guillermo-boquin-59a6aa71/"
     }
   ]
 }
