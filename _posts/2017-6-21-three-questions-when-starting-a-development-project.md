@@ -1,28 +1,34 @@
---- 
+---
 layout: post
-title: 3 questions to ask when starting a development project
-date: 2017-06-21
-description: Choosing a software developer company can be difficult. Here are 3 important questions that you should be asking before starting your software development project.
-author: Byron Sommardahl 
-excerpt: Choosing a software developer company can be difficult. Here are 3 important questions that you should be asking before starting your software development project.
-image: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
-thumbnail: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
+title: 3 questions to ask when starting a software development project
+date: 2017-06-21T00:00:00.000Z
+description: >-
+  Choosing a software developer company can be difficult. Here are 3 important
+  questions that you should be asking before starting your software development
+  project.
+author: Byron Sommardahl
+excerpt: >-
+  Choosing a software developer company can be difficult. Here are 3 important
+  questions that you should be asking before starting your software development
+  project.
+image: 'https://acklenavenue.com/img/posts/3-questions-to-ask.jpg'
+thumbnail: 'https://acklenavenue.com/img/posts/3-questions-to-ask.jpg'
 type: article
-keywords: Agile development, Acklen Avenue, Development, Custom software, Nashville, Lean 
+keywords: >-
+  Agile development, Acklen Avenue, Development, Custom software, Nashville,
+  Lean
 tags: software_development
 ---
-
-
 Does any part of this story sound familiar? You’ve got an earth-shattering idea. One that will disrupt an entire industry.
 
 But you need some help making this idea become a reality.
 
-You know you need to hire a development team, and you want to get your idea to market as fast as possible. As long as
+You know you need to hire a software development team, and you want to get your idea to market as fast as possible. As long as
 they get the job done, does the development method matter?
 
 Below are three questions to ask yourself before selecting your development team.
 
-## What kind of idea do I have and what do I know about it? ##
+## What kind of idea do I have and what do I know about it?
 
 Is your idea a fairly complex one, that is slowly taking shape in your head? Maybe the features and functionality aren’t 100%
 defined and there is still a fair amount of uncertainty about it.
@@ -41,14 +47,14 @@ An idea that is less complex and more defined could benefit from a [waterfall ap
 Because everything is agreed upon at the start of the project, you and your development team can plan, design, build,
 and release your idea with ease.
 
-## Am I concerned about being beaten to market? ##
+## Am I concerned about being beaten to market?
 
 Speed to market is at the core of the agile development mindset. In fact, three of the twelve principles of the [manifesto for
 agile development](http://agilemanifesto.org/principles.html) address this:
 
-  + Working software is the primary measure of progress
-  + Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
-  + Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter
+* Working software is the primary measure of progress
+* Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
+* Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter
   timescale
 
 To put this another way, “Agile development is a way to get your idea to market in as little time as possible, without
@@ -56,7 +62,7 @@ sacrificing quality and without killing your people.”
 
 If speed to market is important, an agile development team is your solution.
 
-## What kind of dev solution will get me the most for my money? ##
+## What kind of dev solution will get me the most for my money?
 
 There is no guarantee that a certain type of team or development method will save you money on your project.
 
@@ -77,7 +83,8 @@ based on what you and your users want.
 
 The above process, done well, will save you money.
 
-## Conclusion ##
+## Conclusion
+
 In case you couldn’t tell, we’re fans of agile development, we use it ourselves. And while it isn’t applicable to every
 project, most software projects we come across can absolutely benefit from an agile development approach.
 
