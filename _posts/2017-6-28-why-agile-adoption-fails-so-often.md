@@ -1,14 +1,20 @@
 ---
 layout: post
 title: Why Agile Adoption Fails So Often
-date: 2017-06-28
-description: Why does agile adoption fail so often? Why is there so much pushback? Because there is a fundamental misunderstanding of what “agile” actually is.
-author: Matthew Phillip 
-excerpt:  Why does agile adoption fail so often? Why is there so much pushback? Because there is a fundamental misunderstanding of what “agile” actually is.
-image: https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg
-thumbnail: https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg
+date: 2017-06-28T00:00:00.000Z
+description: >-
+  Is agile software development a failing concept? Why does agile adoption fails
+  so often? There is a fundamental misunderstanding of what agile actually is. 
+author: Matthew Phillip
+excerpt: >-
+  Is agile software development a failing concept? Why does agile adoption fails
+  so often? There is a fundamental misunderstanding of what agile actually is. 
+image: 'https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg'
+thumbnail: 'https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg'
 type: article
-keywords: Agile, Acklen Avenue, company, Start-up, Custom software, development, agile software, Scrum Master, product manager
+keywords: >-
+  Agile, Acklen Avenue, company, Start-up, Custom software, development, agile
+  software, Scrum Master, product manager
 tags: agile
 ---
 
