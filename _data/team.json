@@ -755,7 +755,20 @@
       "gravatarEmail": "guillermo.boquin@acklenavenue.com",
       "quote": "Simplicity is the soul of efficiency.",
       "linkedin": "https://www.linkedin.com/in/guillermo-boquin-59a6aa71/"
-    }
+    },
+    {
+      "lastName": "Goodwin",
+      "position": "Business Analyst",
+      "name": "Kevin",
+      "department": [
+        "All Ackleners",
+        "Product Owners"
+      ],
+      "location": "Roatan, Honduras",
+      "gravatarEmail": "kevin.g@acklenavenue.com",
+      "quote": "The Spirit of Excellence is greater than the curse of perfectionism.",
+      "linkedin": "https://www.linkedin.com/in/kevinscottgoodwin4378/"
+     },
   ]
 }
 
