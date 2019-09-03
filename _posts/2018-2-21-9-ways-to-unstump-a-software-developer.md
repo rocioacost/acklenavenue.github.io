@@ -1,24 +1,30 @@
 ---
 layout: post
 title: 9 Ways to Unstump a Software Developer
-date: 2018-02-21
-description: When Is a Developer Actually Stumped? Software development is predictable at times, and many times it is definitely not. Knowing when and how to get on track is a fundamental key to success. 
-author: Byron Sommardahl 
-excerpt: When Is a Developer Actually Stumped? Software development is predictable at times, and many times it is definitely not. Knowing when and how to get on track is a fundamental key to success. 
-image: https://acklenavenue.com/img/posts/stumped-dev.png
-thumbnail: https://acklenavenue.com/img/posts/stumped-dev.png
-ImageCredits: Photo by Jack Daniel Ocampo Palacios on Unsplash
+date: 2018-02-21T00:00:00.000Z
+description: >-
+  When Is a Developer Actually Stumped? Software development is predictable at
+  times, and many times it is definitely not. Knowing when and how to get on
+  track is a fundamental key to success.
+author: Byron Sommardahl
+excerpt: >-
+  When Is a Developer Actually Stumped? Software development is predictable at
+  times, and many times it is definitely not. Knowing when and how to get on
+  track is a fundamental key to success.
+image: 'https://acklenavenue.com/img/posts/stumped-dev.png'
+thumbnail: 'https://acklenavenue.com/img/posts/stumped-dev.png'
 type: article
-keywords: developers, Software development, pair programming, start-up, Slack, Scrum Master
-tags: tips_,_tricks_&_secrets
+keywords: >-
+  developers, Software development, pair programming, start-up, Slack, Scrum
+  Master
+tags: 'tips_,_tricks_&_secrets'
 ---
-
 <img src="https://cdn-images-1.medium.com/max/1600/1*nvyFmTv6onLK5JZYPulTmg.jpeg">
 It takes a special breed of problem to stump the developers on my team. I work with some of the hardest working and most talented software developers in the world, and I rarely see them truly stumped. The amazing thing is, even when they are stumped, they never throw up their hands and give up. But if you’re on the other side of the coin, biting your nails as you see sprint or project goals slip, you could easily miss the dev team’s quiet heroics. I believe we all want to celebrate tenacity, persistence, courage, and selflessness in the face of a problem. But, if a developer is truly stumped, they might truly need a hand getting unstumped.
 
 ## When Is a Developer Actually Stumped?
 
-Software development is predictable at times, and many times it is definitely not. Problems of any shape and size may arise without apparent warning and delay features or entire projects. Developers do the best they can to prevent delays, firing every arrow they have to solve problems. Sometimes, a feature takes longer than expected, but comes to resolution after the 41st arrow when the problem finally falls down dead (or gets fixed). Other times, no matter how many arrows the developer uses, the problem persists. Though all resources have been spent, often developers have a hard time admitting defeat and will continue working through the problem. To a developer is feels a lot like chasing one’s tail or repeatedly going over the same code, looking for something he missed. That’s when you know developers are stumped.
+Software development is predictable at times, and many times it is definitely not. Problems of any shape and size may arise without apparent warning and delay features or entire projects. Developers do the best they can to prevent delays, firing every arrow they have to solve problems. Sometimes, a feature takes longer than expected, but comes to resolution after the 41st arrow when the probleFm finally falls down dead (or gets fixed). Other times, no matter how many arrows the developer uses, the problem persists. Though all resources have been spent, often they have a hard time admitting defeat and will continue working through the problem. To a developer is feels a lot like chasing one’s tail or repeatedly going over the same code, looking for something he missed. That’s when you know developers are stumped.
 
 When developers get stumped, they may need help getting unstumped. Also, project leaders need to be aware of the problem so that they can plan around the problem. The following humble list is my attempt at providing a bit of structure around the process of getting a developer unstumped.
 
@@ -28,10 +34,9 @@ Two heads are better than one, especially if one head has been banging against a
 
 At Acklen Avenue, the first thing a Scrum Master will ask when a developer when it seems like they might be stumped on an issue is, “Have you been pairing? Can I help you find a pairing partner?”
 
-## Use Your Circle of Developers
+## Use Your Circle of Software Developers
 
-Some developers work alone and seem to like it. Still, countless other developers know how truly blessed they are to work alongside a larger team of skilled software craftsmen. If you are stumped on a sticky issue, and you are surrounded by other talented developers, why not tap into their problem-solving energy. Think back to pairing… if two heads are better than one, how much better are twenty or fifty? The first time you try this, you’ll be absolutely amazed at the insight you encounter as your fellow developers pose questions and poke around at your issue. You may have the problem solved in a matter of minutes and you’ll be free to LOL at yourself for bruising your forehead on the wall for the last hour.
-
+Some software developers work alone and seem to like it. Still, countless others know how truly blessed they are to work alongside a larger team of skilled software craftsmen. If you are stumped on a sticky issue, and you are surrounded by other talented developers, why not tap into their problem-solving energy. Think back to pairing… if two heads are better than one, how much better are twenty or fifty? The first time you try this, you’ll be absolutely amazed at the insight you encounter as your fellow developers pose questions and poke around at your issue. You may have the problem solved in a matter of minutes and you’ll be free to LOL at yourself for bruising your forehead on the wall for the last hour.
 
 At Acklen Avenue, developers who have been stumped for an hour or more should head on over to the water cooler (or a channel on Slack) to start socializing the problem to see what questions and insights come up.
 
@@ -39,9 +44,7 @@ At Acklen Avenue, developers who have been stumped for an hour or more should he
 
 Nothing is harder to explain to stakeholders than a feature that was estimated at 3 hours and turned into 10 days. It is even harder when there still is no resolution in sight. Developers are extremely hard workers and are sometimes know to sacrifice their own emotional wellbeing to power through a problem, even if it means running in the same circle 1000 times looking for patterns and microscopic anomalies. Now that I’ve complimented my fellow developers sufficiently, I have to admit that they are also horrible at knowing when to come up for air and say, “I’m stumped!” This step in my process is admittedly a bit futile, but we should try all the same. If you’re a developer and you think you might be stumped, alert the project leaders so they can strategize and realign your team’s goals. If you are around a developer who seems to be banging his or her head against the wall (or you happen to hear them weeping quietly in the bathroom), tap them gently on the shoulder and ask them, “hey, are you stumped?” The first step to recovery is admitting the problem. And in this case, getting that information to the project leaders is the first step to saving your project from imminent peril!
 
-
 At Acklen Avenue, developers must alert the Scrum Master if they have been stumped for more than an hour and a half. An hour and a half might seem like a lot of time, but it can feel like nothing to a developer who is lost in thought in a world of zeros and ones. This step is, as I mentioned, very hard to take, but we need to try!
-
 
 ## Post Problem Publicly
 
@@ -54,7 +57,6 @@ At Acklen Avenue, developers who have been stumped for 2 hours or more must take
 When posting your issue publicly hasn’t led you to a solution or you need to solve the issue more quickly, it might be time to call in heavy guns from outside. Rest assured, there is help out there. The trick is finding the right people and knowing how to compensate them for their help.
 
 When it is necessary to compensate someone for helping you solve a problem, and you’re working with an scrum team, talk to your Scrum Master. He/she should be able to handle getting people paid whether it’s via Paypal, credit card, check or bitcoin. It’s probably a good idea to clear potential compensation amounts with the Scrum Master before you agree to anything.
-
 
 At Acklen Avenue, after a developer has been stumped for 4 hours or more, it is essential to reach out to the vast pool of experts at our disposal and seek a helping hand.
 
