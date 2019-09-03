@@ -1,14 +1,22 @@
 ---
 layout: post
-title:  What defines us - Acklen Avenue,software development company
-date:   2018-3-26
-description: Five words that influence our decisions and lead us to where we want to go.
-author: Fernanda Mezquita 
-excerpt: Five words that influence our decisions and lead us to where we want to go.
-image: https://acklenavenue.com/img/posts/core_values_acklen.jpg
-thumbnail: https://acklenavenue.com/img/posts/core_values_acklen.jpg
+title: 'What defines us - Acklen Avenue, a software development company'
+date: 2018-3-26
+description: >-
+  We are a software development agency based in Nashville, Tenneesse. At Acklen
+  we share five values that are more than just words, they are the foundation of
+  everything we do. 
+author: Fernanda Mezquita
+excerpt: >-
+  We are a software development agency based in Nashville, Tenneesse. At Acklen
+  we share five values that are more than just words, they are the foundation of
+  everything we do. 
+image: 'https://acklenavenue.com/img/posts/core_values_acklen.jpg'
+thumbnail: 'https://acklenavenue.com/img/posts/core_values_acklen.jpg'
 type: article
-keywords: core values, Acklen Avenue, agile, Integrity, Mastery, Quality, Integrity, Love, Agility
+keywords: >-
+  core values, Acklen Avenue, agile, Integrity, Mastery, Quality, Integrity,
+  Love, Agility
 tags: news
 ---
 
