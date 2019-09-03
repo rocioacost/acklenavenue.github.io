@@ -1,17 +1,26 @@
 ---
 layout: post
-title: How I started to work with Acklen Avenue by Billy Fernandez
-date: 2018-06-26
-description: I remember the day I noticed a post notification from a group of developers on Facebook.
-author: Billy Fernandez 
-excerpt: I remember the day I noticed a post notification from a group of developers on Facebook.
-image: https://acklenavenue.com/img/posts/an_acklen_avenue_story_billy_fernandez.jpg
-thumbnail: https://acklenavenue.com/img/posts/an_acklen_avenue_story_billy_fernandez.jpg
+title: >-
+  How I started to work as a Software Developer with Acklen Avenue by Billy
+  Fernandez
+date: 2018-06-26T00:00:00.000Z
+description: >-
+  A few years ago, I noticed Facebook Post, Acklen Avenue was looking for a
+  software developer in Honduras. I was feeling good about my chances but I was
+  nervous. 
+author: Billy Fernandez
+excerpt: >-
+  A few years ago, I noticed Facebook Post, Acklen Avenue was looking for a
+  software developer in Honduras. I was feeling good about my chances but I was
+  nervous. 
+image: 'https://acklenavenue.com/img/posts/an_acklen_avenue_story_billy_fernandez.jpg'
+thumbnail: 'https://acklenavenue.com/img/posts/an_acklen_avenue_story_billy_fernandez.jpg'
 type: article
-keywords: Acklen Avenue, developers, Facebook, code challenge, full-stack, Test-Driven Development, Agile, Lean, clean code
+keywords: >-
+  Acklen Avenue, developers, Facebook, code challenge, full-stack, Test-Driven
+  Development, Agile, Lean, clean code
 tags: news
 ---
-
 I remember the day I noticed a post notification from a group of developers on Facebook. It was this guy named Byron Sommardahl inviting us to solve a code challenge and offering a price to the first one to finish it. It was like a game, a test of my strengths, a race against the clock. But it was already late and it had been a long day. I decided I would give it a shot the next morning. Before turning in for the night, I checked Facebook one more time, and, to my surprise, someone had already finished the code challenge. Only two hours had passed. I couldn’t believe it. I thought I would be competitive by finishing it in one or two days. That night I realized I was not playing in the same ballfield as the developers at Acklen Avenue, which motivated me to dig deeper
 
 Even though the winner had already been named (and hired, by the way), I set a personal goal to solve this code challenge so I could prove to myself that I could do it. I started working on it that day and powered through the challenge until I solved it. It took me more time than I expected. In the process, I realized how far ahead of me other developers had run. It motivated me to prepare myself for the future and improve my programming skills. So, I started to research and study new technologies. I read books, took online courses and even restarted the challenge one last time from scratch. But this time, I improved the code, the performance and added a user interface. I went far beyond what was required to win the challenge. I felt like I owed it to myself and my family to test my limits and show my growth. (You can see my submission for the code challenge [here](http://aa.cursosdecomputacion.net/) ). I remember feeling proud of my accomplishment and saying to myself, “If this is what they do at Acklen Avenue everyday, I would like to work in a place like that.”
@@ -21,9 +30,9 @@ Even though the winner had already been named (and hired, by the way), I set a p
   <figcaption> My beautiful family. </figcaption>
 </figure>
 
-Months passed and I kept researching and learning new technologies. I was even inspired to infect my co-workers with new passion and curiosity and we were able to improve the software at our job. The code challenge might have been meant as a smart recruiting tool for Acklen Avenue, but its reach went beyond Facebook and beyond the borders of it’s originator. 
+Months passed and I kept researching and learning new technologies react development and javascript app development. I was even inspired to infect my co-workers with new passion and curiosity and we were able to improve the software at our job. The code challenge might have been meant as a smart recruiting tool for Acklen Avenue, but its reach went beyond Facebook and beyond the borders of it’s originator. 
 
-Then, one day I noticed another post in Facebook. Acklen Avenue was looking for a developer. I could feel my blood pressure and heart rate rise as I responded. Have I learned enough? Am I ready to be counted amongst the best developers in Honduras? Somehow I felt sure the answers were, “yes!” I sent my resume… and they accepted me!
+Then, one day I noticed another post in Facebook. Acklen Avenue was looking for a software developer. I could feel my blood pressure and heart rate rise as I responded. Have I learned enough? Am I ready to be counted amongst the best developers in Honduras? Somehow I felt sure the answers were, “yes!” I sent my resume… and they accepted me!
 
 From my first day at Acklen Avenue, I began to notice the variety of cool projects. Acklen’s teams were working on life-or-death medical apps all the way to light-up wristbands for boy band concerts. I felt like I been accepted into the major leagues of software development.
 
@@ -42,4 +51,4 @@ I love solving the world’s problems with great code. But one of the most fulfi
 
 There are other perks of being an “Acklener” of course. For example, my commute to work has gone from 2 hours to 2 minutes (I work remotely from home). I use that extra time to spend with my family and to achieve my personal goals. Since I’m not tied to one particular city or zone, my family will soon fulfill a dream of moving to another city to be closer to our extended family. At the time of writing this article, construction is already underway and my wonderful job at Acklen Avenue has made it possible. 
 
-Acklen Avenue is a unique place to work. It has changed the way I think about many things and has expanded my expectations of what a job SHOULD be. I’m proud to be a part of this team for so many reasons. Whether it’s a new technology to explore or a tough business problem to solve,  each day comes with a new challenge. Whether we are deploying mission critical systems to production or showcasing our newest feature to one of our deserving clients, each day brings a new adventure. With every challenge come a fresh opportunity to shine! That’s what it’s like to be an “Acklener”. 
+Acklen Avenue is a unique place to work. It has changed the way I think about many things and has expanded my expectations of what a job SHOULD be. I’m proud to be a part of this team for so many reasons. Whether it’s a new technology to explore or a tough business problem to solve,  each day comes with a new challenge. Whether we are deploying mission critical systems to production or showcasing our newest feature to one of our deserving clients, each day brings a new adventure. With every challenge come a fresh opportunity to shine! That’s what it’s like to be an “Acklener”.
