@@ -5,12 +5,12 @@ title: >-
   Fernandez
 date: 2018-06-26T00:00:00.000Z
 description: >-
-  A few years ago, I noticed Facebook Post, Acklen Avenue was looking for a
+  A few years ago, I noticed a Facebook Post, Acklen Avenue was looking for a
   software developer in Honduras. I was feeling good about my chances but I was
   nervous. 
 author: Billy Fernandez
 excerpt: >-
-  A few years ago, I noticed Facebook Post, Acklen Avenue was looking for a
+  A few years ago, I noticed a Facebook Post, Acklen Avenue was looking for a
   software developer in Honduras. I was feeling good about my chances but I was
   nervous. 
 image: 'https://acklenavenue.com/img/posts/an_acklen_avenue_story_billy_fernandez.jpg'
