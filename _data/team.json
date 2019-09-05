@@ -197,6 +197,18 @@
       "quote": "Live what you haven't!"
     },
     {
+      "name": "Nancy",
+      "lastName": "Lopez",
+      "gravatarEmail": "nancylopez@acklenavenue.com",
+      "position": "Business Behavior Analyst",
+      "department": [
+        "All Ackleners",
+        "Human Resources"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "You don't write your life with words, you write it with actions.<br> — Patrick Ness"
+    },
+    {
       "lastName": "Cordova",
       "github": "https://github.com/ArthurC07",
       "facebook": "https://www.facebook.com/arthur.cordova.54“",
