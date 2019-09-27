@@ -18,6 +18,7 @@ keywords: >-
   core values, Acklen Avenue, agile, Integrity, Mastery, Quality, Integrity,
   Love, Agility
 tags: news
+hidden: false
 ---
 
 A few years ago, we went through an arduous process of defining who we are and why we do what we do. To some this might appear unnecessary, but when our truest goal is to build relationships from where custom software is then built, we needed to come clean on what defines us and what influences our decisions and leads us to where we want to go. By doing so, we would be able to draw in not only the best talent we could find, but also, those who believe what we believe and to create the unimaginable.

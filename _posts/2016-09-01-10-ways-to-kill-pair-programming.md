@@ -11,6 +11,7 @@ imageCredit: Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarsten
 type: article
 keywords: Pair Programming, Agile, Software Development, Custom, Nashville, development   
 tags: software_development
+hidden: false
 ---
 
 If you have a hard time working with other humans or find that other humans have a hard time working with you, you may want to continue reading. If you value your own opinion over any other regardless of validity, then listen up. If you are a better coder than anyone on your team and you want to keep it that way, then lean in closer. There is a software development technique that is gaining popularity amongst the “agile crazies” that threatens your quiet, peaceful, lonely existence. They call this technique, “Pair Programming.”

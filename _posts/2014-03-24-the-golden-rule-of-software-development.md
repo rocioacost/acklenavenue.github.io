@@ -11,6 +11,7 @@ ImageCredit: Thumbnail Photo by [Gustas Brazaitis](https://unsplash.com/@amrvle)
 type: article
 keywords: Software Development, Acklen Avenue, Agile, Golden Rule, developers, programmers, Architecture, SOLID  
 tags: software_development
+hidden: false
 ---
 
 I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler: “Do to others as you would have them do to you.” That’s Jesus talking in Matthew 7:12, by the way. Now, I’m not going to preach, so don’t navigate away too quickly… Well, I’m not going to preach about the Bible anyhow. I guess I am going to preach a little about how I think software developers should change their evil ways.

@@ -14,6 +14,7 @@ thumbnail: 'https://acklenavenue.com/img/posts/sommardahl-family.jpg'
 type: article
 keywords: 'Acklen Avenue, Agile, business, developer, leaders, Honduras, Nashville'
 tags: news
+hidden: false
 ---
 It was never in the business plan for Acklen Avenue, a software development company,  cofounders Colin Callahan and Byron Sommardahl to work with developers outside the United States. They knew they wanted to build excellent software that makes the world a better place, and in those early days, they were the coding manpower that made it happen. So how did Acklen go from two devs in Nashville, Tennessee to being a bi-national company of nearly 80 full-time employees, and the largest employer of developers in Honduras? 
 

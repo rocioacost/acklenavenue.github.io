@@ -18,6 +18,7 @@ keywords: >-
   Agile development, Acklen Avenue, Development, Custom software, Nashville,
   Lean
 tags: software_development
+hidden: false
 ---
 Does any part of this story sound familiar? You’ve got an earth-shattering idea. One that will disrupt an entire industry.
 

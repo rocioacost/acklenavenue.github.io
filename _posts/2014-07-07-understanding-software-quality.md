@@ -11,6 +11,7 @@ imageCredit: http://creativecommons.org/weblog/entry/18364, http://commons.wikim
 type: article
 keywords: QA, custom software development, software development project, Acklen Avenue, Nashville, high quality software
 tags: tips_,_tricks_&_secrets
+hidden: false
 ---
 > *“Quality means doing it right when no one is looking.” — Henry Ford*
 

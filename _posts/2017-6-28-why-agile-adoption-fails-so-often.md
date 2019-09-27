@@ -16,6 +16,7 @@ keywords: >-
   Agile, Acklen Avenue, company, Start-up, Custom software, development, agile
   software, Scrum Master, product manager
 tags: agile
+hidden: false
 ---
 
 > Agile is not **what** you do. Agility is **how** you do it - Dave Thomas

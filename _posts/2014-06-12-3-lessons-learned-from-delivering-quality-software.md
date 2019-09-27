@@ -11,6 +11,7 @@ imageCredit: Photo by [Ryan Graybill](https://unsplash.com/@graybill_) on [Unspl
 type: article
 keywords: custom software, Customer satisfaction, quality, QA testers, Clean Code, Automated testing, Bugs, software developer
 tags: software_development
+hidden: false
 ---
 
 This article is about some lessons that my team has learned about developing custom software and making clients happy. We'll get to the lessons learned in a second, but I wanted to first emphasize the biggest and most important lesson of all. **Customer satisfaction is dependent on the quality of the product.** Any custom software development company depends on happy clients to survive. And if time has taught me anything, it's that clients deserve and expect quality. So, it is super important to do what it takes to ensure quality. The keys to quality is great developers (check) and great QA engineers (uh oh)!

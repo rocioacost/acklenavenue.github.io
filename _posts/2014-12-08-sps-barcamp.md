@@ -10,6 +10,7 @@ thumbnail: https://acklenavenue.com/img/posts/bar-camp-sps.jpg
 type: article
 keywords: entrepreneurship, Web Development, technology, Acceptance Test Driven Development, cryptocurrencies, BarCamp, tech
 tags: news
+hidden: false
 ---
 
 Last November 9th, San Pedro Sula (Honduras) hosted it’s annual Barcamp, this is the second time the city hosted the event and this time things got really exciting. But first things first, let’s talk a little about the city. San Pedro Sula is located in the northwest corner of Honduras, it is the second largest, population wise, city in the country. In the last couple of years the city has experienced a lot of changes in the technology area and its tech community is getting really active. Just in the last year, San Pedro Sula has hosted more than 5 big tech events including Startup Weekend, global hackathons, tech talks, and of course Barcamps.

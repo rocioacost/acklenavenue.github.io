@@ -1,5 +1,6 @@
 
 <aside class="article-sidebar">
+  {% assign posts = site.posts | where:"hidden", false %}
 	{% assign related = page.tags | join: " " %}
 	{% assign tagText = ''  %}
 	{% assign words = related | split: '_' %}
@@ -10,7 +11,7 @@
 	<h2>More in <span class="capitalize">{{ tagText }}:</span></h2>
     {% assign t = page.tags %}
 	{% assign numPosts = 0 %}
-	{% for post in site.posts %}
+	{% for post in posts %}
 		{% if numPosts < 3 and post.tags == t and post.excerpt != page.excerpt%}
 			{% assign numPosts = numPosts | plus: 1 %}
 			{% include blogCardArticle.html  %}

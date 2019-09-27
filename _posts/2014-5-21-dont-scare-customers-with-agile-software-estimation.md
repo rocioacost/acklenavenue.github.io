@@ -11,6 +11,7 @@ ImageCredit: Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unspl
 type: article
 keywords: agile, Nashville, Agile Software Estimation, Chattanooga, User Stories 
 tags: agile
+hidden: false
 ---
 
 A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants to have a beer with you. He wants to know how soon you could get there from Nashville to see if he should wait for you or not.

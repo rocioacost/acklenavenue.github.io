@@ -11,6 +11,7 @@ imageCredit: image from https://c2.staticflickr.com/4/3001/5857968442_2909c971f2
 type: article
 keywords: Communication, ROI, Agile, TDD, ROI killers
 tags: software_development
+hidden: false
 ---
 
 Your company is getting ready to make a major investment in custom software that might take you to the next level. How exciting and nerve-racking at the same time! You stand to benefit in huge ways by this software. As long as you've done your homework and have a good team, you'll probably accomplish what you set out to do. However, if you don't avoid some typical "time sucks", **you're killing your ROI!!**

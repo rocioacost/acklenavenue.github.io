@@ -11,6 +11,7 @@ ImageCredit: Thumbnail Photo by [Parvana Praveen](https://unsplash.com/@parvana_
 type: article
 keywords: custom software development, agile, TDD, Pair Programming, Clean Code, QA Testers, Bugs, development 
 tags: tips_,_tricks_&_secrets
+hidden: false
 ---
 
 People who complain about paying $149 for a shrink wrapped copy of Quickbooks Pro have obviously never been in charge of a custom software development project. Developing custom software is expensive and risky. In fact, 60% of all software projects end in failure. But why so expensive? Well, for one thing, custom software doesn't build itself. Software developers are some of the highest paid folks in the workforce. For another thing, those highly-paid software developers don't just create software. They create bugs.

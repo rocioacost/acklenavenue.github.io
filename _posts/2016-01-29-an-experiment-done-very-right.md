@@ -10,6 +10,7 @@ thumbnail: https://acklenavenue.com/img/posts/coding-developer.jpg
 type: article
 keywords: software, Certified Scrum Master, SOLID principles, Test-Driven Development, Acklen Avenue, Agile
 tags: news
+hidden: false
 ---
 
 _This blog is about one of our first Honduran hires, Camilo Aguilar. He has since moved from Acklen Avenue to continue saving the world from another company. However, he strongly helped set the tone for our Honduran team to grow by leaps and bounds. Currently, Acklen Avenue employs 67 full-time Honduran developers, designers, QA-ers, architects and product owners!_
