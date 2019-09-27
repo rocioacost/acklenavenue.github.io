@@ -18,6 +18,7 @@ keywords: >-
   developers, Software development, pair programming, start-up, Slack, Scrum
   Master
 tags: 'tips_,_tricks_&_secrets'
+hidden: false
 ---
 <img src="https://cdn-images-1.medium.com/max/1600/1*nvyFmTv6onLK5JZYPulTmg.jpeg">
 It takes a special breed of problem to stump the developers on my team. I work with some of the hardest working and most talented software developers in the world, and I rarely see them truly stumped. The amazing thing is, even when they are stumped, they never throw up their hands and give up. But if you’re on the other side of the coin, biting your nails as you see sprint or project goals slip, you could easily miss the dev team’s quiet heroics. I believe we all want to celebrate tenacity, persistence, courage, and selflessness in the face of a problem. But, if a developer is truly stumped, they might truly need a hand getting unstumped.

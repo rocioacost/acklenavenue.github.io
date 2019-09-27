@@ -10,6 +10,7 @@ thumbnail: https://acklenavenue.com/img/posts/workflow.jpg
 type: article
 keywords: Agile, Agile practices, Uber, Mark Zuckerberg, Agile Development, custom software, development
 tags: news
+hidden: false
 ---
 
 _This is a first in a blog series devoted to Agile Development.

@@ -11,6 +11,7 @@ ImageCredit: Photo by [Braydon Anderson](https://unsplash.com/@braydona) on [Uns
 type: article
 keywords: Acklen Avenue, Agile, start-up, company, company leaders, development, Sprint planning, Burndown charts, Scrum/Kanban boards, Product backlog, Daily meeting, retrospectives
 tags: agile
+hidden: false
 ---
 
 _This is the second post in our Agile Development blog series._
