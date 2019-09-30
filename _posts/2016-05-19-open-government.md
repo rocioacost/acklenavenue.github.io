@@ -10,6 +10,7 @@ thumbnail: https://acklenavenue.com/img/posts/open-government.jpg
 type: article
 keywords: Washington, Durable Software, Acklen Avenue, Agile, start-up, leaders, Open Government, software development, developers
 tags: news
+hidden: false
 ---
 
 # Towards a more Open Government in the Americas

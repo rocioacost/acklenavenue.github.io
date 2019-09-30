@@ -780,7 +780,7 @@
       "gravatarEmail": "kevin.g@acklenavenue.com",
       "quote": "The Spirit of Excellence is greater than the curse of perfectionism.",
       "linkedin": "https://www.linkedin.com/in/kevinscottgoodwin4378/"
-     },
+    },
     {
       "lastName": "Zelaya",
       "position": "Developer",
@@ -794,7 +794,20 @@
       "quote": "First, solve the problem. Then write the code.",
       "linkedin": "https://www.linkedin.com/in/RenanAlbertoZelaya",
       "github": "https://github.com/renanz", 
-     },
+    },
+    {
+      "lastName": "Webb",
+      "position": "Director of Client Engagement",
+      "name": "Ronald",
+      "department": [
+        "All Ackleners",
+        "Engagement Managers"
+      ],
+      "location": "Nashville, United States",
+      "gravatarEmail": "ronald.webb@acklenavenue.com",
+      "quote": "He has favored our undertakings.",
+      "linkedin": "https://www.linkedin.com/in/ronaldbwebbjr/"
+     }
   ]
 }
 

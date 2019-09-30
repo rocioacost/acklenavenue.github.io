@@ -10,6 +10,7 @@ thumbnail: https://acklenavenue.com/img/tommy-blog.jpg
 type: article
 keywords: Tommy Norman, Nashville, Agile, Lean, Agile Master, Acklen Avenue, Certified Enterprise Coach
 tags: news
+hidden: false
 ---
 
 It's a beautiful day at Acklen Avenue. We are incredibly excited to announce that Tommy Norman, Mr. Agile Nashville himself, is officially joining the Acklen Avenue team... And not just to shred on the guitar at the Nashville Geek Jam. As Director of Agile Operations, he will serve as the team-wide coach on continuous improvement, a central principle for Acklen Avenue.

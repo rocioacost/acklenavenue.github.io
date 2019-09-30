@@ -10,6 +10,7 @@ thumbnail: https://acklenavenue.com/img/posts/to-do-list.jpg
 type: article
 keywords: Acklen Avenue, Google Calendar, Trello, custom software development, to-do list
 tags: tips_,_tricks_&_secrets
+hidden: false
 ---
 
 # Scared of Your ToDo List?

@@ -1,10 +1,11 @@
 
 {% include blogCategories.html %}
 {% include baseUrl.html %}
+{% assign posts = site.posts | where:"hidden", false %}
 
 <section id="blog-feed">
 	<div class="blog-feed__container" id="all-container">
-	{% for post in site.posts | sort: 'date' | reverse %}
+	{% for post in posts | sort: 'date' | reverse %}
 		{% include blogCardArticle.html %}
 	{% endfor %}
 	</div>
@@ -19,7 +20,7 @@
 		{% include blogPostsCounter.html %}
 
         <div class="blog-feed__container hidden" id="{{ t }}-container">
-            {% for post in site.posts %}
+            {% for post in posts %}
                 {% if post.tags contains t %}
                     {% include blogCardArticle.html %}
                 {% endif %}
