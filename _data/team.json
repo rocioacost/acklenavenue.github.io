@@ -270,36 +270,6 @@
       "linkedin": "https://www.linkedin.com/in/ferenckv"
     },
     {
-      "lastName": "Martínez",
-      "github": "https://github.com/isaacmtz90",
-      "position": "Tribal Tech Lead",
-      "name": "Isaac",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "twitter": "https://twitter.com/balamcode",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "imtz90b@gmail.com",
-      "quote": "Code is just a means to an end",
-      "linkedin": "https://www.linkedin.com/in/isaacmtz90"
-    },
-    {
-      "lastName": "Ramírez",
-      "github": "https://github.com/Lerik",
-      "facebook": "https://www.facebook.com/lerik.kopp",
-      "position": "Developer",
-      "name": "Jacob",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "Houston, Texas, US",
-      "gravatarEmail": "jacob@acklenavenue.com",
-      "quote": "Write your code like you are writing a story for kids.",
-      "linkedin": "https://www.linkedin.com/in/erick-jacob-ramirez-cruz-129107121/"
-    },
-    {
       "lastName": "García",
       "github": "https://github.com/eliyasmeth",
       "facebook": "https://www.facebook.com/eyasmeth",
@@ -312,20 +282,6 @@
       "location": "Choloma, Cortés Honduras",
       "gravatarEmail": "eliseo@acklenavenue.com",
       "quote": "Acklen Avenue Rocks!"
-    },
-    {
-      "lastName": "Interiano",
-      "github": "https://github.com/Raimmaster",
-      "position": "DevOps",
-      "name": "Ricardo",
-      "department": [
-        "All Ackleners",
-        "DevOps"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "ricardo.interiano@acklenavenue.com",
-      "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.<br> — Aldous Huxley.",
-      "linkedin": "https://www.linkedin.com/in/raim-interiano/"
     },
     {
       "lastName": "Velásquez",
@@ -625,7 +581,6 @@
     {
       "name": "Oscar",
       "lastName": "Carranza",
-      "github": "https://github.com/OscarCarranza",
       "gravatarEmail": "oscar.carranza@acklenavenue.com",
       "position": "Scrum Master",
       "department": [
@@ -633,6 +588,7 @@
         "Scrum Masters"
       ],
       "location": "Tegucigalpa, Honduras",
+      "github": "https://github.com/OscarCarranza",
       "quote": "Excellence is not a skill, it´s an attitude."
     },
     {
@@ -663,70 +619,76 @@
       "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/"
     },
     {
-      "name": "Carlos",
       "lastName": "Velásquez",
-      "gravatarEmail": "carlos.velasquez@acklenavenue.com",
+      "github": "https://github.com/cfvelasquez095",
+      "facebook": "https://www.facebook.com/cfvelasquez",
       "position": "Quality Assurance",
-      "location": "San Pedro Sula, Honduras",
+      "name": "Carlos",
       "department": [
         "All Ackleners",
         "Quality Assurance"
       ],
-      "facebook": "https://www.facebook.com/cfvelasquez",
       "twitter": "https://twitter.com/cfvelasquez95",
-      "github": "https://github.com/cfvelasquez095",
-      "linkedin": "https://www.linkedin.com/in/cfvelasquez/",
-      "quote": "Once we accept our limits, we go beyond them.<br> — Albert Einstein"
-    },
-    {
-      "name": "Inti",
-      "lastName": "Velásquez",
-      "gravatarEmail": "inti.velasquez@acklenavenue.com",
-      "position": "Developer",
-      "location": "Tegucigalpa, Honduras",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "github": "https://github.com/intiv",
-      "linkedin": "https://www.linkedin.com/in/intivelasquez/",
-      "quote": "The cosmos is within us, we are made of star-stuff.<br> — Carl Sagan"
-    },
-    {
-      "name": "René",
-      "lastName": "Rendón",
-      "gravatarEmail": "renerivera@acklenavenue.com",
-      "position": "Developer",
       "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "carlos.velasquez@acklenavenue.com",
+      "quote": "Once we accept our limits, we go beyond them.<br> — Albert Einstein",
+      "linkedin": "https://www.linkedin.com/in/cfvelasquez/"
+    },
+    {
+      "lastName": "Velásquez",
+      "github": "https://github.com/intiv",
+      "position": "Developer",
+      "name": "Inti",
       "department": [
         "All Ackleners",
         "Developers"
       ],
-      "facebook": "https://www.facebook.com/rene.d.rendon",
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "inti.velasquez@acklenavenue.com",
+      "quote": "The cosmos is within us, we are made of star-stuff.<br> — Carl Sagan",
+      "linkedin": "https://www.linkedin.com/in/intivelasquez/"
+    },
+    {
+      "lastName": "Rendón",
       "github": "https://github.com/RDRR7",
+      "facebook": "https://www.facebook.com/rene.d.rendon",
+      "position": "Developer",
+      "name": "René",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "renerivera@acklenavenue.com",
       "quote": "Real living is living for others.<br> - Bruce Lee"
     },
     {
-      "name": "Anibal",
       "lastName": "Ciliezar",
-      "gravatarEmail": "anibal.ciliezar@acklenavenue.com",
-      "position": "QA Analyst",
-      "location": "Tegucigalpa, HN",
-      "department": ["All Ackleners", "Quality Assurances"],
       "github": "https://github.com/anibalciliezar-acklenavenue",
-      "linkedin": "https://www.linkedin.com/in/anibal-ciliezar-63689555/",
-      "quote": "Quality means doing it right when no one is looking!"
-    }, 
-    { 
-      "name": "Diana",  
-      "lastName": "Casasola", 
-      "gravatarEmail": "diana.casasola@acklenavenue.com",  
-      "position": "Quality Assurance", 
-      "location": "Tegucigalpa, Honduras", 
-      "department": ["All Ackleners", "Quality Assurances"], 
-      "github": "https://github.com/dcasasola", 
-      "linkedin": "https://www.linkedin.com/in/diana-casasola-10887014a/", 
-      "quote": "Happy mind, Happy life!" 
+      "position": "QA Analyst",
+      "name": "Anibal",
+      "department": [
+        "All Ackleners",
+        "Quality Assurances"
+      ],
+      "location": "Tegucigalpa, HN",
+      "gravatarEmail": "anibal.ciliezar@acklenavenue.com",
+      "quote": "Quality means doing it right when no one is looking!",
+      "linkedin": "https://www.linkedin.com/in/anibal-ciliezar-63689555/"
+    },
+    {
+      "lastName": "Casasola",
+      "github": "https://github.com/dcasasola",
+      "position": "Quality Assurance",
+      "name": "Diana",
+      "department": [
+        "All Ackleners",
+        "Quality Assurances"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "diana.casasola@acklenavenue.com",
+      "quote": "Happy mind, Happy life!",
+      "linkedin": "https://www.linkedin.com/in/diana-casasola-10887014a/"
     },
     {
       "lastName": "Cardona",
@@ -743,43 +705,43 @@
       "linkedin": "https://www.linkedin.com/in/rjcardona"
     },
     {
-      "lastName": "Zelaya",
-      "position": "Developer",
       "name": "Ricardo",
+      "lastName": "Zelaya",
+      "gravatarEmail": "ricardo.zelaya@acklenavenue.com",
+      "position": "Developer",
       "department": [
         "All Ackleners",
         "Developers"
       ],
       "location": "SPS, Honduras",
-      "gravatarEmail": "ricardo.zelaya@acklenavenue.com",
-      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer",
-      "linkedin": "https://www.linkedin.com/in/ricardo-zelaya-628a5124-"
+      "linkedin": "https://www.linkedin.com/in/ricardo-zelaya-628a5124-",
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer"
     },
     {
-      "lastName": "Boquin",
-      "position": "Business Analyst",
       "name": "Guillermo",
+      "lastName": "Boquin",
+      "gravatarEmail": "guillermo.boquin@acklenavenue.com",
+      "position": "Business Analyst",
       "department": [
         "All Ackleners",
         "Product Owners"
       ],
       "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "guillermo.boquin@acklenavenue.com",
-      "quote": "Simplicity is the soul of efficiency.",
-      "linkedin": "https://www.linkedin.com/in/guillermo-boquin-59a6aa71/"
+      "linkedin": "https://www.linkedin.com/in/guillermo-boquin-59a6aa71/",
+      "quote": "Simplicity is the soul of efficiency."
     },
     {
-      "lastName": "Goodwin",
-      "position": "Business Analyst",
       "name": "Kevin",
+      "lastName": "Goodwin",
+      "gravatarEmail": "kevin.g@acklenavenue.com",
+      "position": "Business Analyst",
       "department": [
         "All Ackleners",
         "Product Owners"
       ],
       "location": "Roatan, Honduras",
-      "gravatarEmail": "kevin.g@acklenavenue.com",
-      "quote": "The Spirit of Excellence is greater than the curse of perfectionism.",
-      "linkedin": "https://www.linkedin.com/in/kevinscottgoodwin4378/"
+      "linkedin": "https://www.linkedin.com/in/kevinscottgoodwin4378/",
+      "quote": "The Spirit of Excellence is greater than the curse of perfectionism."
     },
     {
       "lastName": "Zelaya",
@@ -796,18 +758,17 @@
       "github": "https://github.com/renanz", 
     },
     {
-      "lastName": "Webb",
-      "position": "Director of Client Engagement",
       "name": "Ronald",
+      "lastName": "Webb",
+      "gravatarEmail": "ronald.webb@acklenavenue.com",
+      "position": "Director of Client Engagement",
       "department": [
         "All Ackleners",
         "Engagement Managers"
       ],
       "location": "Nashville, United States",
-      "gravatarEmail": "ronald.webb@acklenavenue.com",
-      "quote": "He has favored our undertakings.",
-      "linkedin": "https://www.linkedin.com/in/ronaldbwebbjr/"
-     }
+      "linkedin": "https://www.linkedin.com/in/ronaldbwebbjr/",
+      "quote": "He has favored our undertakings."
+    }
   ]
 }
-
