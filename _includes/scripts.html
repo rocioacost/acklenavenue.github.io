@@ -86,7 +86,6 @@
 <!--say hello link-->
 <script type="text/javascript">
     (function () {
-        document.getElementById("say-hello").onclick=function(){ Intercom('show'); }
-        document.getElementById("start-conversation").onclick=function(){ Intercom('show'); }
+        $(".open-intercom").click(function(){ Intercom('show'); });       
     })();
 </script>  
