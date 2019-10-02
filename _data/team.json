@@ -25,7 +25,8 @@
       "name": "Byron",
       "department": [
         "All Ackleners",
-        "Leadership & Operations"
+        "Leadership & Operations",
+        "Architects"
       ],
       "twitter": "https://twitter.com/sommardahl",
       "location": "Santa Ana, Honduras",
@@ -124,7 +125,7 @@
       "name": "Carlos",
       "department": [
         "All Ackleners",
-        "Developers"
+        "Architects"
       ],
       "twitter": "https://twitter.com/illgamer",
       "location": "Tegucigalpa, Honduras",
@@ -261,7 +262,7 @@
       "name": "Ferenck",
       "department": [
         "All Ackleners",
-        "Developers"
+        "Architect"
       ],
       "twitter": "https://twitter.com/ferenckv",
       "location": "San Pedro Sula, Honduras",
