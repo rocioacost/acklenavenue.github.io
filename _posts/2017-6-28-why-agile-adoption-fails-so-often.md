@@ -83,7 +83,7 @@ development is all about](https://www.visualstudio.com/learn/agile-culture/).
 Want a truly agile development team to help bring your awesome idea to life?
 
 <div style="text-align:center; padding:50px 30px;">
-  <a href="http://acklenavenue.com/" class="btn btn--apple hvr-ripple-out" >Contact Us</a>
+  <a href="http://acklenavenue.com/" class="btn btn--apple hvr-ripple-out md-trigger" >Contact Us</a>
 </div>
 
 
