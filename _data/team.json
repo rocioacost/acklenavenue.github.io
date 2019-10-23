@@ -106,18 +106,6 @@
       "linkedin": "https://www.linkedin.com/in/joshua-chappell-b585034/"
     },
     {
-      "name": "Sonia",
-      "lastName": "Sappenfield",
-      "gravatarEmail": "sonia.sappenfield@acklenavenue.com",
-      "position": "Engagement Manager",
-      "department": [
-        "All Ackleners",
-        "Engagement Managers"
-      ],
-      "location": "Nashville, Tennessee",
-      "quote": "Opportunities aren't given, they are created."
-    },
-    {
       "lastName": "Solorzano",
       "github": "https://github.com/csolorzanof",
       "facebook": "https://www.facebook.com/illgamer",
@@ -666,7 +654,7 @@
     {
       "lastName": "Ciliezar",
       "github": "https://github.com/anibalciliezar-acklenavenue",
-      "position": "QA Analyst",
+      "position": "Quality Assurance",
       "name": "Anibal",
       "department": [
         "All Ackleners",
