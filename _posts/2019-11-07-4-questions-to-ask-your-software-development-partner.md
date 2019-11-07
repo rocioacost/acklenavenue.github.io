@@ -9,13 +9,14 @@ author: Colleen Reidelbach
 excerpt: >-
   Application development projects are often expensive and high risk, finding a
   partner that you’re aligned with is incredibly important.
-image: /img/posts/questions-for-your-software-development-partner.jpg
-thumbnail: /img/posts/questions-for-your-software-development-partner.jpg
+image: https://acklenavenue.com/img/posts/questions-for-your-software-development-partner.jpg
+thumbnail: https://acklenavenue.com/img/posts/questions-for-your-software-development-partner.jpg
 type: article
-keywords: software development
-tags: Software
+keywords: Pair Programming, Agile, Software Development, Custom, Nashville, development  
+tags: software_development
 hidden: false
 ---
+
 Because application development projects are often expensive and high risk, finding a partner that you’re aligned with is incredibly important. One of the benefits of having worked as an agile software development partner for a good length of time is that we at Acklen Avenue have developed some expertise around assessing “fit” with our clients. 
 
 So here are a few questions we would recommend discussing with a potential partner as you search for the right one. There isn’t an objectively right or wrong answer, but the responses you’ll get will help you learn how aligned you are. 
