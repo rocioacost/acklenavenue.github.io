@@ -31,3 +31,6 @@ collections:
   job_openings:
     output: true
     permalink: jobs/:title
+  posts:
+    output: true
+    permalink: blog/:title
