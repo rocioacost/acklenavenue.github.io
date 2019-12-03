@@ -106,22 +106,6 @@
       "linkedin": "https://www.linkedin.com/in/joshua-chappell-b585034/"
     },
     {
-      "lastName": "Solorzano",
-      "github": "https://github.com/csolorzanof",
-      "facebook": "https://www.facebook.com/illgamer",
-      "position": "Tribal Tech Lead",
-      "name": "Carlos",
-      "department": [
-        "All Ackleners",
-        "Architects"
-      ],
-      "twitter": "https://twitter.com/illgamer",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "carlos.solorzano@acklenavenue.com",
-      "quote": "Insanity is doing the same thing over and over again and expecting a different result",
-      "linkedin": "https://www.linkedin.com/in/csolorzanof/"
-    },
-    {
       "lastName": "Talavera",
       "github": "https://github.com/PauletteTM",
       "facebook": "https://www.facebook.com/paulette.talavera",
@@ -186,18 +170,6 @@
       "quote": "Live what you haven't!"
     },
     {
-      "name": "Nancy",
-      "lastName": "Lopez",
-      "gravatarEmail": "nancylopez@acklenavenue.com",
-      "position": "Business Behavior Analyst",
-      "department": [
-        "All Ackleners",
-        "Human Resources"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "quote": "You don't write your life with words, you write it with actions.<br> — Patrick Ness"
-    },
-    {
       "lastName": "Cordova",
       "github": "https://github.com/ArthurC07",
       "facebook": "https://www.facebook.com/arthur.cordova.54“",
@@ -241,22 +213,6 @@
       "gravatarEmail": "erick@acklenavenue.com",
       "quote": "Just better than I was yesterday.",
       "linkedin": "https://www.linkedin.com/in/erick-daniel-caballero-babun-a731978a/"
-    },
-    {
-      "lastName": "Vargas",
-      "github": "https://github.com/ferenckv",
-      "facebook": "https://www.facebook.com/ferenckv",
-      "position": "Tribal Tech Lead",
-      "name": "Ferenck",
-      "department": [
-        "All Ackleners",
-        "Architects"
-      ],
-      "twitter": "https://twitter.com/ferenckv",
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "ferenck@acklenavenue.com",
-      "quote": "How can we get to the stars?.<br> — Lisa Hayes",
-      "linkedin": "https://www.linkedin.com/in/ferenckv"
     },
     {
       "lastName": "García",
