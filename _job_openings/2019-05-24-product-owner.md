@@ -7,9 +7,9 @@ description: >
   We are looking for a Product Manager who will work with our cross-functional 
   teams to help them design, build and roll-out products that deliver the 
   company’s vision and strategy. 
-  
-  Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
 
+  Acklen Avenue is a leading custom software development in Nashville,
+  Tennessee. 
 responsibilities:
   - Participates in discovery sessions to gain an understanding of client needs.
   - >-
@@ -56,6 +56,6 @@ requirements:
   - 2 - 4 years of experience as a product owner.
   - General business experience.
   - Above average communication skills.
-hidden: false
+hidden: true
 ---
 
