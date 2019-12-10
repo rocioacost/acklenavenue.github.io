@@ -714,6 +714,19 @@
       "location": "Nashville, United States",
       "linkedin": "https://www.linkedin.com/in/ronaldbwebbjr/",
       "quote": "He has favored our undertakings."
+    },
+    {
+      "name": "Luis",
+      "lastName": "Espinoza",
+      "gravatarEmail": "luis.espinoza@acklenavenue.com",
+      "position": "DevOps,
+      "department": [
+        "All Ackleners",
+        "DevOps"
+      ],
+      "location": "San Pedro Sula, United Honduras",
+      "linkedin": "https://www.linkedin.com/in/luis-espinoza-62358b10a/",
+      "quote": "If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!<br> - Richard Branson"
     }
   ]
 }
