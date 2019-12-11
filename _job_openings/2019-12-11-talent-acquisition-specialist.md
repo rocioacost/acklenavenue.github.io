@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: 'Talent Acquisition Specialist '
-location: Remote - Honduras
+location: Remote - San Pedro Sula / Tegucigalpa
 time: Full Time
 description: >-
   Help Acklen Avenue and Hero Unit (sister companies) discover and acquire new
