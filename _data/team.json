@@ -714,6 +714,19 @@
       "location": "Nashville, United States",
       "linkedin": "https://www.linkedin.com/in/ronaldbwebbjr/",
       "quote": "He has favored our undertakings."
+    },
+    {
+      "name": "Nestor",
+      "lastName": "Escoto",
+      "gravatarEmail": "nestor.escoto@acklenavenue.com",
+      "position": "Tribal Technical Lead",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "linkedin": "https://www.linkedin.com/in/nescoto/",
+      "quote": "Never stop learning"
     }
   ]
 }
