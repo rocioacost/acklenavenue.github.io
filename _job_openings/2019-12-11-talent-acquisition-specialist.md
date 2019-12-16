@@ -8,7 +8,7 @@ description: >-
   talent by using your excellent skills in communication, marketing and
   relationship-building to join and build communities around technology in
   Central America. 
-salaryRange: '$12,000 - $14,000 USD anually.'
+salaryRange: '$12,000 - $14,400 USD anually.'
 responsibilities:
   - Understand the different roles at Acklen Avenue and Hero Unit
   - Maintain job descriptions with help from appropriate HU or Acklen employees
