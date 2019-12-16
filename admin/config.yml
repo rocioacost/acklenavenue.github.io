@@ -57,7 +57,7 @@ collections:
           options: ['Full Time', 'Half-Time / Hourly'],
         }
       - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Salary range', name: 'salaryRange', widget: 'text', required: false }
+      - { label: 'Salary range', name: 'salaryRange', widget: 'string', required: false }
       - label: 'Responsibilities'
         name: 'responsibilities'
         widget: 'list'
