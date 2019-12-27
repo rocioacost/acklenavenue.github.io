@@ -29,6 +29,6 @@ requirements:
   - Attention to detail.
   - Desire to be proactive and create a positive experience for others.
   - Proficient in spoken and written English.
-hidden: true
+hidden: false
 ---
 
