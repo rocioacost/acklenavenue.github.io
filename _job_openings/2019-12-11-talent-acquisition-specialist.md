@@ -41,6 +41,6 @@ requirements:
   - 'Experience in customer service and sales '
   - Experience organizing events
   - Experience with marketing
-hidden: false
+hidden: true
 ---
 
