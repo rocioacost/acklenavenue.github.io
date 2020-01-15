@@ -30,7 +30,7 @@ exclude: ['badges']
 collections:
   job_openings:
     output: true
-    permalink: jobs/:title
+    permalink: careers/:title
   posts:
     output: true
     permalink: blog/:title
