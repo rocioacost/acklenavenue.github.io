@@ -738,6 +738,19 @@
 			"location": "Tegucigalpa, Honduras",
 			"linkedin": "https://www.linkedin.com/in/nescoto/",
 			"quote": "Never stop learning"
+		},
+		{
+			"name": "Carlos",
+			"lastName": "Valle",
+			"gravatarEmail": "carlos.valle@acklenavenue.com",
+			"position": "Junior Designer",
+			"department": [
+				"All Ackleners",
+				"Designers"
+			],
+			"location": "San Pedro Sula, Honduras",
+			"linkedin": "htttps://www.linkedin.com/in/carlosjvalle22",
+			"quote": "Always believe that the impossible is always possible.."
 		}
 	]
 }
