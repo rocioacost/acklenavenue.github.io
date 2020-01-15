@@ -289,21 +289,6 @@
       "linkedin": "https://www.linkedin.com/in/wvargas/"
     },
     {
-      "lastName": "Murillo",
-      "facebook": "https://facebook.com/wilmermurillo",
-      "position": "Senior Designer",
-      "name": "Wilmer",
-      "department": [
-        "All Ackleners",
-        "Designers"
-      ],
-      "twitter": "https://twitter.com/wilmermurillo",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "wilmermurillo@acklenavenue.com",
-      "quote": "What we think, we become.",
-      "linkedin": "https://linkedin.com/in/wilmermurillo/"
-    },
-    {
       "name": "Yamil",
       "lastName": "Gonzales",
       "gravatarEmail": "yamil@acklenavenue.com",
@@ -716,15 +701,29 @@
       "quote": "He has favored our undertakings."
     },
     {
+      "name": "Nicolas",
+      "lastName": "Jalil",
+      "gravatarEmail": "nicolas.jalil@acklenavenue.com",
+      "position": "Developer",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "linkedin": "https://www.linkedin.com/in/nicol%C3%A1s-jalil-8925a3164/",
+      "quote": "Truth is found in death!"
+
+    },
+    {
       "name": "Luis",
       "lastName": "Espinoza",
       "gravatarEmail": "luis.espinoza@acklenavenue.com",
-      "position": "DevOps,
+      "position": "DevOps",
       "department": [
         "All Ackleners",
         "DevOps"
       ],
-      "location": "San Pedro Sula, United Honduras",
+      "location": "San Pedro Sula, Honduras",
       "linkedin": "https://www.linkedin.com/in/luis-espinoza-62358b10a/",
       "quote": "If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!<br> - Richard Branson"
     }
