@@ -712,6 +712,20 @@
       "location": "Tegucigalpa, Honduras",
       "linkedin": "https://www.linkedin.com/in/nicol%C3%A1s-jalil-8925a3164/",
       "quote": "Truth is found in death!"
+
+    },
+    {
+      "name": "Luis",
+      "lastName": "Espinoza",
+      "gravatarEmail": "luis.espinoza@acklenavenue.com",
+      "position": "DevOps",
+      "department": [
+        "All Ackleners",
+        "DevOps"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "linkedin": "https://www.linkedin.com/in/luis-espinoza-62358b10a/",
+      "quote": "If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!<br> - Richard Branson"
     }
   ]
 }
