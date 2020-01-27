@@ -1,0 +1,274 @@
+.page-header.green
+	background: $apple-green
+
+.ad-testimonials-wrapper
+	max-width: 1120px
+	padding: 0 5%
+	margin: -60px auto 60px auto
+	display: flex
+	justify-content: space-between
+	flex-direction: column
+
+
+.ad-testimonial-item
+	box-sizing: border-box
+	width: 100%
+	margin-bottom: 60px
+	background: white
+	border-radius: 8px
+	box-shadow: $shadow-one
+	display: flex
+	flex-direction: column
+	position: relative
+
+	header
+		min-height: initial
+		background: $apple-green
+		background-image: linear-gradient(198deg, #94D039 0%, #72C02C 73%)
+		
+		padding: 40px 40px 100px 40px
+		height: initial
+		border-top-left-radius: 8px
+		border-top-right-radius: 8px
+		clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%)
+		z-index: 1
+
+		h2
+			color: white
+			font-size: 180%
+	.author
+		display: flex
+		
+		.title
+			display: flex
+			flex: 0 1 100%
+			flex-direction: column
+			justify-content: flex-end
+
+		.company
+			flex: 0 1 100px
+			img
+				max-width: 100px
+				max-height: 72px
+				height: auto
+				width: auto
+
+	main
+		margin-top: -110px
+		padding: 0 40px 30px 40px
+		color: $greyish-brown
+		font-family: Montserrat-Light;
+		color: rgba(0,0,0,0.50)
+		z-index: 2
+
+		h3
+			font-weight: normal
+		h4
+			font-weight: normal
+			font-size: 110%
+			color: rgba(0,0,0,0.30)
+
+	.headshot
+		height: 128px
+		width: 128px
+		box-shadow: $shadow-one
+		border-radius: 200px
+		margin: 40px 0
+		img
+			object-fit: cover
+			height: 100%
+			width: 100%
+			border-radius: 200px
+
+	cite
+		font-style: normal
+		font-size: 115%
+		line-height: 1.8
+		padding: 20px 0
+
+
+	.pain-points
+		padding: 40px 0
+		display: block
+		font-size: 110%
+		
+		.green-check
+			height: 22px
+			width: auto
+			vertical-align: sub
+
+		.points-label
+			text-transform: uppercase
+			font-size: 13px
+			font-weight: bold
+			display: block
+			padding-bottom: 4px
+			color: rgba(0,0,0,0.30);
+
+@media (min-width: $screen-md-min)
+	.ad-testimonials-wrapper
+		flex-direction: row
+	.ad-testimonial-item
+		width: 48%
+		max-width: 520px
+
+#our-expertise
+	h3
+		text-transform: uppercase
+		text-align: center
+		font-size: 220%
+	ul
+		margin: 80px auto
+		padding: 0 10%
+		max-width: 960px
+		list-style: none
+		display: flex
+		flex-direction: column
+		
+		li
+			display: flex
+			margin-bottom: 40px
+			
+			figure
+				flex: 0 1 96px
+				img
+					width: auto
+					height: auto
+					max-height: 96px
+			.title
+				flex: 0 1 100%
+				padding-left: 48px
+				display: flex
+				align-items: center
+				h4
+					font-weight: 400
+					font-size: 140%
+
+@media (min-width: $screen-sm-min)
+	#our-expertise
+		ul
+			flex-direction: row
+			flex-wrap: wrap
+			justify-content: center
+			padding: 0
+			li
+				width: 50%
+				max-width: 400px
+
+#industry-experience
+	.wrapper
+		display: flex
+		justify-content: center
+		flex-direction: column
+		margin: 190px auto 60px auto
+		padding: 0 5%
+		max-width: 960px
+
+	.section-title
+		text-align: center
+		h3
+			font-size: 260%
+			font-weight: normal
+		p
+			color: $black-50
+			font-weight: 400
+			letter-spacing: 0
+			padding-top: 16px
+			font-size: 120%
+		.big
+			text-transform: uppercase
+			font-weight: bold
+
+	ul
+		margin: 80px auto
+		padding: 0 5%
+		max-width: 960px
+		list-style: none
+		display: flex
+		flex-direction: row
+		flex-wrap: wrap
+		
+		li
+			display: flex
+			flex-direction: column
+			width: 33%
+			margin-bottom: 40px
+			
+			figure
+				padding-bottom: 16px
+				img
+					width: auto
+					height: auto
+					max-height: 72px
+					display: block
+					margin: 0 auto
+			.title
+				
+				h4
+					font-weight: bold
+					font-size: 80%
+					text-transform: uppercase
+					text-align: center
+
+@media (min-width: $screen-sm-min)
+	#industry-experience
+		.wrapper 
+			flex-direction: row
+			align-items: center
+
+		.section-title
+			text-align: right
+			padding-right: 10%
+			padding-bottom: 60px
+		ul
+			justify-content: center
+			padding: 0
+			li
+				width: 33%
+				max-width: 400px
+
+.landing-tech-stack
+	#factsAndTech:after
+		min-height: initial
+		height: 130vh
+		top: -40px
+
+#landing-cta
+	background: #F8F9FB
+	padding: 120px 5% 80px 5%
+	clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%)
+
+	.section-title
+		text-align: center
+		margin-bottom: 40px
+		h3
+			font-size: 260%
+			font-weight: normal
+		p
+			color: $black-50
+			font-weight: 400
+			letter-spacing: 0
+			padding-top: 16px
+			font-size: 120%
+		.big
+			text-transform: uppercase
+			font-weight: bold
+	form
+		max-width: 520px
+		margin: 0 auto
+
+@media (min-width: $screen-sm-min)
+	#landing-cta .wrapper
+		max-width: 960px
+		margin: 0 auto
+		display: flex
+		justify-content: center
+		padding: 120px 5% 80px 5%
+
+		.section-title
+			box-sizing: border-box
+			width: 50%
+			padding-right: 10%
+			text-align: right
+		.form-column
+			width: 50%
