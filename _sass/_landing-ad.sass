@@ -1,5 +1,29 @@
-.page-header.green
-	background: $apple-green
+.page-header.landing	
+	height: initial
+	min-height: 90vh
+
+	h1
+		font-size: 48px
+		text-transform: initial
+		margin: 10vh 5% 0px 5%
+	h2
+		font-size: 36px
+		margin-top: 0
+		padding: 0
+		margin-bottom: 0px
+		letter-spacing: -1px
+		line-height: 1.6
+	.cta
+		text-align: center
+
+@media (max-width: $screen-sm-min)
+	.page-header.landing
+		min-height: 100vh
+		padding-bottom: 120px
+		h1
+			font-size: 36px
+		h2
+			font-size: 30px
 
 .ad-testimonials-wrapper
 	max-width: 1120px
@@ -35,7 +59,10 @@
 
 		h2
 			color: white
-			font-size: 180%
+			font-size: 220%
+			font-weight: 300
+			span.big
+				font-weight: bold
 	.author
 		display: flex
 		
@@ -59,6 +86,7 @@
 		color: $greyish-brown
 		color: rgba(0,0,0,0.50)
 		z-index: 2
+		
 
 		h3
 			font-weight: normal
@@ -84,6 +112,10 @@
 		font-size: 115%
 		line-height: 1.8
 		padding: 20px 0
+		font-weight: 400
+		margin-top: 40px
+		display: block
+		-webkit-font-smoothing: antialiased
 
 
 	.pain-points
@@ -219,22 +251,35 @@
 			text-align: right
 			padding-right: 10%
 			padding-bottom: 60px
+			width: 60%
 		ul
 			justify-content: center
 			padding: 0
+			width: 40%
 			li
 				width: 33%
 				max-width: 400px
 
 .landing-tech-stack
+	clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%)
+	background: #F8F9FB
+	padding: 40px 0
+
 	#factsAndTech:after
 		min-height: initial
 		height: 130vh
 		top: -40px
+		content: none
+		
+
+@media (max-width: $screen-sm-min)
+	.landing-tech-stack
+		#factsAndTech:after
+			height: 160vh
 
 #landing-cta
 	background: #F8F9FB
-	padding: 120px 5% 80px 5%
+	padding: 160px 5% 80px 5%
 	clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%)
 
 	.section-title
