@@ -238,13 +238,19 @@ description: Acklen Avenue teams spin up seamlessly, partner collaboratively, an
 		</div><!--WRAPPER-->
 	</section>
 	<section id="landing-cta">
-		<div class="wrapper">
+		<div class="cta-cue">
+			<img src="img/continuous.svg" alt="Continuous Delivery">
+			<p>Looking for consistent delivery of quality software?</p>
+		</div><!--CUE CTA -->
+		
+		<div class="wrapper">		
 			<div class="section-title">
-				<p>Looking for consistent delivery of quality software?</p>
+				
 				<h3>You came to the   
 					<span class="big">Right Place</span>
 				</h3>
 				
+			
 			</div><!-- SECTION TITLE-->
 			<div class="form-column">
 				<div id="form-container" class="contact-form">
@@ -267,11 +273,19 @@ description: Acklen Avenue teams spin up seamlessly, partner collaboratively, an
 							<div class="g-recaptcha" data-sitekey="6Lfu-IwUAAAAACVD4AVFXgZLfwKZWHdupxAwDiSH" data-callback="recapchaCallback"></div>
 						</div>
 			
-						<div class="">
+						<div style="display: flex; justify-content: center;">
 							<input id="button-form" type="submit" value="Contact Us" class="btn btn--apple hvr-ripple-out"/>
 						</div>
 					</form>
 				</div><!-- FORM CONTAINER-->
+				<div class="form-success">
+					<div class="success-art">
+						<img src="img/high-five.svg" alt="High Five Hands">
+						<span class="title">High Five!</span>
+						<p>We got your message, <br> 
+						you'll hear from us soon!</p>
+					</div><!-- HIGH FIVE-->
+				</div><!-- SUCCESS-->
 			</div><!-- FORM COL-->
 		</div><!--WRAPPER-->
 		<script>
@@ -287,7 +301,7 @@ description: Acklen Avenue teams spin up seamlessly, partner collaboratively, an
 					contentType: "application/json; charset=utf-8",
 					dataType: "json",
 				});
-				$('.form-success').show(1000);
+				$('.form-success').slideDown(1000);
 			}
 		</script>
 		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
