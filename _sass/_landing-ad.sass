@@ -241,7 +241,7 @@
 				img
 					width: auto
 					height: auto
-					max-height: 96px
+					max-height: 84px
 					display: block
 					margin: 0 auto
 			.title	
@@ -290,12 +290,29 @@
 
 #landing-cta
 	background: #F8F9FB
-	padding: 160px 5% 80px 5%
+	padding: 200px 5% 80px 5%
 	clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%)
+	
+	.cta-cue
+		text-align: center
+		font-size: 160%
+		margin-bottom: 60px
+		flex: 0 1 100%
+		letter-spacing: 0
+		p
+			max-width: 420px
+			margin: 0 auto
+			line-height: 1.7
+			letter-spacing: 0
+		img
+			max-height: 96px
+			width: auto
+			margin: 20px auto
 
 	.section-title
 		text-align: center
 		margin-bottom: 40px
+		width: 100%
 		h3
 			font-size: 260%
 			font-weight: normal
@@ -308,6 +325,7 @@
 		.big
 			text-transform: uppercase
 			font-weight: bold
+			display: block
 	form
 		max-width: 520px
 		margin: 0 auto
@@ -317,13 +335,38 @@
 		max-width: 960px
 		margin: 0 auto
 		display: flex
+		flex-wrap: wrap
 		justify-content: center
-		padding: 120px 5% 80px 5%
+		padding: 60px 0 80px 0
 
 		.section-title
 			box-sizing: border-box
-			width: 50%
-			padding-right: 10%
-			text-align: right
+			width: 100%
+			text-align: center
 		.form-column
 			width: 50%
+
+.form-success
+	display: none
+	.success-art
+		display: flex
+		flex-direction: column
+		justify-content: center
+		text-align: center
+		img
+			display: block
+			margin: 20px auto
+			width: auto
+			height: 148px
+			max-height: 100%
+    		
+		.title
+			color: $apple-green
+			font-size: 180%
+			font-weight: bold
+			
+		p
+			margin-top: 10px
+			font-size: 140%
+			letter-spacing: 0
+			line-height: 1.6

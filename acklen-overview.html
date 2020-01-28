@@ -238,17 +238,23 @@ description: Acklen Avenue teams spin up seamlessly, partner collaboratively, an
 		</div><!--WRAPPER-->
 	</section>
 	<section id="landing-cta">
-		<div class="wrapper">
+		<div class="cta-cue">
+			<img src="img/continuous.svg" alt="Continuous Delivery">
+			<p>Looking for consistent delivery of quality software?</p>
+		</div><!--CUE CTA -->
+		
+		<div class="wrapper">		
 			<div class="section-title">
-				<p>Looking for consistent delivery of quality software?</p>
+				
 				<h3>You came to the   
 					<span class="big">Right Place</span>
 				</h3>
 				
+			
 			</div><!-- SECTION TITLE-->
 			<div class="form-column">
 				<div id="form-container" class="contact-form">
-					<form id="contact-form">
+					<form id="contact-form" onsubmit="sendEmail(); return false;">
 						<div class="flex-direction">
 							<input class="form-modal-input flex-100" type="text" id="contact-name" placeholder="Name" />	
 						</div>
@@ -267,12 +273,40 @@ description: Acklen Avenue teams spin up seamlessly, partner collaboratively, an
 							<div class="g-recaptcha" data-sitekey="6Lfu-IwUAAAAACVD4AVFXgZLfwKZWHdupxAwDiSH" data-callback="recapchaCallback"></div>
 						</div>
 			
-						<div class="">
+						<div style="display: flex; justify-content: center;">
 							<input id="button-form" type="submit" value="Contact Us" class="btn btn--apple hvr-ripple-out"/>
 						</div>
 					</form>
 				</div><!-- FORM CONTAINER-->
+				<div class="form-success">
+					<div class="success-art">
+						<img src="img/high-five.svg" alt="High Five Hands">
+						<span class="title">High Five!</span>
+						<p>We got your message, <br> 
+						you'll hear from us soon!</p>
+					</div><!-- HIGH FIVE-->
+				</div><!-- SUCCESS-->
 			</div><!-- FORM COL-->
 		</div><!--WRAPPER-->
+		<script>
+			var sendEmail = function() {
+				var contactName = $('#contact-name').val();
+				var contactEmail = $('#contact-email').val();
+				var telephone = $('#telephone').val();
+				var contactMessage = $('#contact-message').val();
+				$.ajax({
+					type: "POST",
+					url: "https://u2fh5qg9k7.execute-api.us-east-1.amazonaws.com/production/send-email",
+					data: JSON.stringify({message: `Name: ${contactName}, Email: ${contactEmail}, Phone: ${telephone}, Project Details: ${contactMessage}`}),
+					contentType: "application/json; charset=utf-8",
+					dataType: "json",
+				});
+				$('.form-success').slideDown(1000);
+			}
+		</script>
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+		<script>
+			window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')
+		</script>
 	</section>
 </main>
