@@ -751,6 +751,19 @@
 			"location": "San Pedro Sula, Honduras",
 			"linkedin": "htttps://www.linkedin.com/in/carlosjvalle22",
 			"quote": "Always believe that the impossible is always possible.."
+		},
+		{
+			"name": "Susan",
+			"lastName": "Breedlove",
+			"gravatarEmail": "susan.breedlove@acklenavenue.com",
+			"position": "Engagement Manager",
+			"department": [
+				"All Ackleners", 
+				"Engagement Managers"
+			],
+			"location": "Franklin, TN",
+			"linkedin": "https://www.linkedin.com/in/susanmbreedlove/",
+			"quote": "Life is tough my darling, but so are you"
 		}
 	]
 }
