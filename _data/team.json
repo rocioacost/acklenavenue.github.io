@@ -764,6 +764,33 @@
       "location": "Franklin, TN",
       "linkedin": "https://www.linkedin.com/in/susanmbreedlove/",
       "quote": "Life is tough my darling, but so are you"
+    },
+    {
+      "name": "Vito",
+      "lastName": "Scara",
+      "gravatarEmail": "vito.scara@acklenavenue.com",
+      "position": "Director Of Business Development",
+      "department": [
+        "All Ackleners",
+        "Leadership & Operations"
+      ],
+      "location": "Nashville, United States",
+      "linkedin": "www.linkedin.com/in/vito-scara-0912",
+      "facebook": "https://www.facebook.com/vito.scara",
+      "quote": "Director Of Business Development"
+    },
+    {
+      "name": "Ruthie",
+      "lastName": "Ingram",
+      "gravatarEmail": "ruthie.ingram@acklenavenue.com",
+      "position": "New Business Coordinator",
+      "department": [
+        "All Ackleners",
+        "Leadership & Operations"
+      ],
+      "location": "Nashville, United States",
+      "linkedin": "https://www.linkedin.com/in/ruthie-ingram-469b82a3/",
+      "quote": "Whatever you do, do it with all your strength"
     }
   ]
 }
