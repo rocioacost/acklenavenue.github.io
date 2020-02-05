@@ -4,12 +4,12 @@ header
   min-height: 700px
 
   .hero-header
-    max-width: 900px
+    max-width: 1100px
     margin: 0 auto
     padding-top: 70px
     color: #ffffff
     &__phrase
-      font-weight: 800
+      font-weight: 600
     & h1
       font-weight: 300
       color: $white
@@ -24,15 +24,17 @@ header
 
   .first-sentence
     padding: 0 0 20px 0
-    font-weight: 800
+    font-weight: 600
     text-transform: uppercase
 
   .last-sentence
-    padding: 100px 0 20px 0
+    padding: 20px 0 20px 0
     & span
-      font-weight: 800
+      font-weight: 600
       text-transform: uppercase
 
+  .header-secondary-title
+    margin-top: 60px;
 
   .down-arrow
     position: absolute
@@ -56,7 +58,7 @@ header
     overflow: hidden
     text-transform: uppercase
     font-size: $banner
-    animation: heroAnimation 34s ease-in infinite 0s
+    animation: heroAnimation 9s ease-in infinite 0s
 
   .hero-words
     display: inline
@@ -65,43 +67,27 @@ header
         animation-delay: 3s
       &:nth-child(3)
         animation-delay: 6s
-      &:nth-child(4)
-        animation-delay: 9s
-      &:nth-child(5)
-        animation-delay: 12s
-      &:nth-child(6)
-        animation-delay: 15s
-      &:nth-child(7)
-        animation-delay: 18s
-      &:nth-child(8)
-        animation-delay: 21s
-      &:nth-child(9)
-        animation-delay: 24s
-      &:nth-child(10)
-        animation-delay: 27s
-      &:nth-child(11)
-        animation-delay: 30s
 
   @keyframes heroAnimation
     0%
       opacity: 0
       transform: translateY(10%)
 
-    1%
-      transform: translateY(0%)
-
-    2%
-      opacity: 1
-
-    4%
-      opacity: 1
-      transform: translateY(0%)
-
     5%
+      transform: translateY(0%)
+
+    10%
+      opacity: 1
+
+    25%
+      opacity: 1
+      transform: translateY(0%)
+
+    35%
       opacity: 0
 
 
-    6%
+    40%
       transform: translateY(-20%)
 
 #StressFreeWizardry
@@ -512,8 +498,8 @@ header
     padding: 20px
 
   header .last-sentence
-    padding: 110px 20px 20px 20px
-    line-height: 45px
+    padding: 20px 20px 20px 20px
+    line-height: 20px
 
   header .down-arrow
     display: none
@@ -598,7 +584,7 @@ header
 
   header .last-sentence
     line-height: 65px
-    padding: 120px 0px 20px
+    padding: 20px 0px 20px
 
   #testimonialSingle:before
     min-height: 600px
