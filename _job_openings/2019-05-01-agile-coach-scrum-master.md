@@ -35,6 +35,6 @@ requirements:
     resolution, group dynamics, and coaching
   - You have experience working with remote teams
   - You care about learning new things and applying them in a practical way
-hidden: true
+hidden: false
 ---
 
