@@ -1,6 +1,39 @@
+.pager.intro
+	display: flex
+	align-items: center
+	padding: 0 5%
+	
+	.sticker
+		width: 30%
+		img
+			max-width: 100%
+			height: auto
+			max-height: 220px
+	.headline
+		width: 70%
+		color: white
+		
+		h1
+			font-size: 280%
+			text-align: left
+			margin: 0
+		h2
+			font-size: 20px
+			text-align: left
+			letter-spacing: 0rem
+			margin: 0
+			padding: 1rem 5% 0 5%
+
 .page-header.landing	
 	height: 90vh
 	max-height: 600px
+	&.b-side
+		height: 100vh
+		max-height: initial
+		display: flex
+		flex-direction: column
+		align-items: center
+		justify-content: space-between
 	h1
 		font-size: 42px
 		text-transform: initial
@@ -17,16 +50,39 @@
 		line-height: 1.6
 	.cta
 		text-align: center
+		&.b-side
+			padding-bottom: 3rem
 
 @media (max-width: $screen-sm-min)
 	.page-header.landing
 		min-height: 100vh
 		max-height: initial
 		padding-bottom: 120px
+		&.b-side
+			height: initial
 		h1
 			font-size: 36px
 		h2
 			font-size: 30px
+		.cta.b-side
+			padding-bottom: 0rem
+			padding-top: 1rem
+	
+	.pager.intro
+		flex-wrap: wrap
+		.sticker
+			padding: 2rem 0
+			width: 100%
+			img
+				max-height: 20vh
+		.headline
+			width: 100%
+			h1
+				font-size: 200%
+				text-align: center
+			h2
+				text-align: center
+	
 
 .ad-testimonials-wrapper
 	max-width: 1120px
@@ -35,6 +91,15 @@
 	display: flex
 	justify-content: space-between
 	flex-direction: column
+	&.b-side
+		flex-wrap: wrap
+		margin-top: 5vh
+		h3
+			text-transform: uppercase
+			text-align: center
+			font-size: 220%
+			flex: 100%
+			margin-bottom: 10vh
 
 
 .ad-testimonial-item
@@ -159,6 +224,17 @@
 		max-width: 520px
 
 #our-expertise
+	&.b-side
+		margin-top: 15vh
+	p
+		max-width: 720px
+		margin: 2rem auto
+		padding: 0 5%
+		text-align: center
+		letter-spacing: 0
+		font-size: 120%
+		font-weight: 500
+
 	h3
 		text-transform: uppercase
 		text-align: center
@@ -310,14 +386,18 @@
 			letter-spacing: 0
 			font-weight: 300
 		img
-			max-height: 96px
+			max-height: 148px
 			width: auto
-			margin: 20px auto
+			margin: 4rem auto
 
 	.section-title
 		text-align: center
 		margin-bottom: 40px
 		width: 100%
+		margin: 1rem auto
+		display: flex
+		flex-direction: column
+		justify-content: center
 		h3
 			font-size: 260%
 			font-weight: normal
@@ -325,8 +405,9 @@
 			color: $black-50
 			font-weight: 400
 			letter-spacing: 0
-			padding-top: 16px
+			padding-top: 1rem
 			font-size: 120%
+			
 		.big
 			text-transform: uppercase
 			font-weight: bold
@@ -346,10 +427,15 @@
 
 		.section-title
 			box-sizing: border-box
-			width: 100%
-			text-align: center
+			width: 50%
+			padding-right: 5%
+			text-align: right
+			p
+				margin-top: -7rem
 		.form-column
 			width: 50%
+
+			
 
 .form-success
 	display: none
@@ -363,7 +449,7 @@
 			margin: 20px auto
 			width: auto
 			height: 148px
-			max-height: 100%
+			
     		
 		.title
 			color: $apple-green
