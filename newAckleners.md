@@ -14,27 +14,6 @@ In order to complete this task you need to have a GitHub account, If you have on
 
 ![For the Repository](./img/add-team-member/2.png?raw=true)
 
-**NOTE:** if you see a message saying *"You already have a fork of this repository"* (like in the image above) you'll have to delete that fork and comeback to this step later.
-<br/>
-
-In order to delete the forked repository, follow next steps **(this is just in case you already forked Acklen Avenue repository before. If this is your first time forking Acklen Avenue repository ignore this steps and follow from step 3):**
-<br/>
-2.1 Inside **Your Forked** version of Acklen Avenue repository, click on the **Settings** tab, as shown on image:
-
-![Settings Tab](./img/add-team-member/12.png?raw=true)
-
-<br/>
-2.2 Now, scroll down tho the bottom of the repository to **Danger zone** area, and click to the button **Delete this repository**:
-
-![Danger zone](./img/add-team-member/13.png?raw=true)
-
-<br/>
-2.3 Follow the steps in order to confirm the delete of your forked version of Acklen Avenue repository:
-
-![Danger zone](./img/add-team-member/14.png?raw=true)
-
-<br/>
-<br/>
 3. Once inside the forked repository click on **_data** folder
 
 ![Data Folder](./img/add-team-member/3.png)
@@ -67,9 +46,14 @@ Here's an example of the code you have to copy, just replace your information an
   "quote": "<-Your information->!"
 }
 ```
+
 <br/>
 <br/>
-6. Once you have _Copied/Pasted_ the info, you need to replace it with your own information. Replace the text **–Add Your Name—** with your personal information and so on.
+6. Once you have _Copied/Pasted_ the info, you need to replace it with your own information. Replace the text **–Add Your Name—** with your personal information and so on. 
+<br/>
+<br/>
+
+**Note:** Keep in mind not to exceed 120 characters for your personal quote.
 
 **Note:** List of Departments inside Acklen Avenue (you MUST have to specify ONE from the list): Leadership and Operations, Developers, Quality Assurances, Designers, DevOps, Product Owners, Scrum Masters, Engagement Managers, Human Resources, Architects.
 

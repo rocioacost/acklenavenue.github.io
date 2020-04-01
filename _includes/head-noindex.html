@@ -1,0 +1,35 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ "Acklen Avenue - Custom software development" }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="keywords" content="{{ page.keywords }}" />
+    <meta name="author" content="Acklen Avenue" />
+
+    <!-- Facebook -->
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:type" content="{{ page.type }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="{{ page.thumbnail }}" />
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="720" />
+    {% if page.is_post %}
+    <meta property="og:site_name" content="{{ site.title }}" />
+    {% endif %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <!-- Twitter -->
+    <meta name="twitter:card"         content="summary" />
+    <meta name="twitter:site"         content="@acklenavenue" />
+    <meta name="twitter:creator"      content="@acklenavenue" />
+    <meta name="twitter:image"        content="{{ page.thumbnail }}" />
+    <!-- Icons -->
+    <link rel="icon" href="/img/favicon.ico" type="image/x-icon"/>
+    <meta name="theme-color" content="#72C02C">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,800&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/css/modal.css" />
+	<meta name="robots" content="noindex">
+</head>

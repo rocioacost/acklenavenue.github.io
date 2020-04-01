@@ -1,12 +1,24 @@
 ---
 layout: post
-title:  Why Agile Adoption Fails So Often
-date:   2017-06-28
+title: Why Agile Adoption Fails So Often
+date: 2017-06-28T00:00:00.000Z
+description: >-
+  Is agile software development a failing concept? Why does agile adoption fails
+  so often? There is a fundamental misunderstanding of what agile actually is. 
 author: Matthew Phillip
-excerpt: Why do so many companies fail to fully adopt agile? Because they have a misunderstanding of what agile really is.
-image: /img/posts/agile-adoption-failure-1.jpg
+excerpt: >-
+  Is agile software development a failing concept? Why does agile adoption fails
+  so often? There is a fundamental misunderstanding of what agile actually is. 
+image: 'https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg'
+thumbnail: 'https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg'
+type: article
+keywords: >-
+  Agile, Acklen Avenue, company, Start-up, Custom software, development, agile
+  software, Scrum Master, product manager
 tags: agile
+hidden: false
 ---
+
 > Agile is not **what** you do. Agility is **how** you do it - Dave Thomas
 
 Agile devotees tend to insist that agile is the cure to all of your problems. When you have seen it fail, as it often does 
@@ -71,7 +83,7 @@ development is all about](https://www.visualstudio.com/learn/agile-culture/).
 Want a truly agile development team to help bring your awesome idea to life?
 
 <div style="text-align:center; padding:50px 30px;">
-  <a href="http://acklenavenue.com/" class="btn btn--apple hvr-ripple-out" >Contact Us</a>
+  <a href="http://acklenavenue.com/" class="btn btn--apple hvr-ripple-out md-trigger" >Contact Us</a>
 </div>
 
 

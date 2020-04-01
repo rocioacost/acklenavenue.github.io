@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  An Experiment Gone Very Right
-date:   2016-01-29
+title: What we learned about hiring a few Honduran developers
+date: 2016-01-29
+description: Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment.
 author: Byron Sommardahl
-excerpt: Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment.
-image: /img/posts/coding-developer.jpg
+excerpt: Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment...
+image: https://acklenavenue.com/img/posts/coding-developer.jpg
+thumbnail: https://acklenavenue.com/img/posts/coding-developer.jpg
+type: article
+keywords: software, Certified Scrum Master, SOLID principles, Test-Driven Development, Acklen Avenue, Agile
 tags: news
+hidden: false
 ---
+
 _This blog is about one of our first Honduran hires, Camilo Aguilar. He has since moved from Acklen Avenue to continue saving the world from another company. However, he strongly helped set the tone for our Honduran team to grow by leaps and bounds. Currently, Acklen Avenue employs 67 full-time Honduran developers, designers, QA-ers, architects and product owners!_
 
 Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment. You see, I had recently sold everything and moved to Honduras after marrying the girl of my dreams. After finding the quiet tech community in Honduras and getting as involved as they would allow, I started to realize just how much incredible talent there is in Central America. My eyes were also opened to how many english speakers there are in the tech community. WOW! Then I started to notice certain characteristics of the culture in Honduras that seemed to lend itself to a strong work ethic and a healthy respect for learning and growing. I don’t know about you, but all that sounded to me like a recipe for success! Our risky experiment was to hire a few Honduran developers and build some software together.

@@ -1,46 +1,36 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
-    <title>{{ page.title }}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ "Acklen Avenue - Custom software development" }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="{{ page.description }}" /> 
-    <meta name="keywords" content="{{ page.keywords }}" />
+    <meta name="keywords" content="{{ page.keywords }}" /> 
     <meta name="author" content="Acklen Avenue" />
-    <title>Acklen Avenue | Software Development Company</title>
 
     <!-- Facebook -->
-    <meta property="og:url"           content="http://acklenavenue.com/" />
-    <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Acklen Avenue" />
-    <meta property="og:description"   content="Software Development Company" />
-    <meta property="og:image"         content="img/thumbnail.jpg" />
-    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:type" content="{{ page.type }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="{{ page.thumbnail }}" />
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="720" />
+    {% if page.is_post %}
+    <meta property="og:site_name" content="{{ site.title }}" />
+    {% endif %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+
     <!-- Twitter -->
     <meta name="twitter:card"         content="summary" />
     <meta name="twitter:site"         content="@acklenavenue" />
     <meta name="twitter:creator"      content="@acklenavenue" />
-    <meta name="twitter:image"        content=“/img/thumbnail.jpg” />
+    <meta name="twitter:image"        content="{{ page.thumbnail }}" />
     <!-- Icons -->
     <link rel="icon" href="img/favicon.ico" type="image/x-icon"/>
     <meta name="theme-color" content="#72C02C">
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="{{ "css/main.css" | prepend: full_base_url }}">
-	<link rel="stylesheet" type="text/css" href="{{ "css/modal.css" | prepend: full_base_url }}" />
-    <!-- Google analitycs -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-42413832-1', 'auto');
-      ga('send', 'pageview');
-
-    </script>
-
-    <!-- JS -->
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script>
-        window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
-    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ "css/modal.css" | prepend: full_base_url }}" />
+    
 </head>

@@ -1,0 +1,463 @@
+.pager.intro
+	display: flex
+	align-items: center
+	padding: 0 5%
+	
+	.sticker
+		width: 30%
+		img
+			max-width: 100%
+			height: auto
+			max-height: 220px
+	.headline
+		width: 70%
+		color: white
+		
+		h1
+			font-size: 280%
+			text-align: left
+			margin: 0
+		h2
+			font-size: 20px
+			text-align: left
+			letter-spacing: 0rem
+			margin: 0
+			padding: 1rem 5% 0 5%
+
+.page-header.landing	
+	height: 90vh
+	max-height: 600px
+	&.b-side
+		height: 100vh
+		max-height: initial
+		display: flex
+		flex-direction: column
+		align-items: center
+		justify-content: space-between
+	h1
+		font-size: 42px
+		text-transform: initial
+		margin: 10vh auto 0px auto
+		padding: 0 5%
+		font-weight: 400
+		max-width: 1280px
+	h2
+		font-size: 36px
+		margin-top: 0
+		padding: 0
+		margin-bottom: 0px
+		letter-spacing: -1px
+		line-height: 1.6
+	.cta
+		text-align: center
+		&.b-side
+			padding-bottom: 3rem
+
+@media (max-width: $screen-sm-min)
+	.page-header.landing
+		min-height: 100vh
+		max-height: initial
+		padding-bottom: 120px
+		&.b-side
+			height: initial
+		h1
+			font-size: 36px
+		h2
+			font-size: 30px
+		.cta.b-side
+			padding-bottom: 0rem
+			padding-top: 1rem
+	
+	.pager.intro
+		flex-wrap: wrap
+		.sticker
+			padding: 2rem 0
+			width: 100%
+			img
+				max-height: 20vh
+		.headline
+			width: 100%
+			h1
+				font-size: 200%
+				text-align: center
+			h2
+				text-align: center
+	
+
+.ad-testimonials-wrapper
+	max-width: 1120px
+	padding: 0 5%
+	margin: -60px auto 60px auto
+	display: flex
+	justify-content: space-between
+	flex-direction: column
+	&.b-side
+		flex-wrap: wrap
+		margin-top: 5vh
+		> h3
+			text-transform: uppercase
+			text-align: center
+			font-size: 220%
+			flex: 100%
+			margin-bottom: 10vh
+
+
+.ad-testimonial-item
+	box-sizing: border-box
+	width: 100%
+	margin-bottom: 60px
+	background: white
+	border-radius: 8px
+	box-shadow: $shadow-one
+	display: flex
+	flex-direction: column
+	position: relative
+
+	header
+		min-height: initial
+		background: $apple-green
+		background-image: linear-gradient(198deg, #94D039 0%, #72C02C 73%)
+		
+		padding: 40px 40px 100px 40px
+		height: initial
+		border-top-left-radius: 8px
+		border-top-right-radius: 8px
+		clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%)
+		z-index: 1
+
+		h2
+			color: white
+			font-size: 180%
+			font-weight: 300
+			span.big
+				font-weight: bold
+	.author
+		display: flex
+		
+		.title
+			display: flex
+			flex: 0 1 100%
+			flex-direction: column
+			justify-content: flex-end
+
+		.company
+			flex: 0 1 100px
+			img
+				max-width: 100px
+				max-height: 72px
+				width: auto
+			a
+				display: block
+				text-decoration: none
+				transition: 0.2s
+			a:hover
+				transform: translateY(-3px)
+
+	main
+		margin-top: -110px
+		padding: 0 40px 30px 40px
+		color: $greyish-brown
+		color: rgba(0,0,0,0.50)
+		z-index: 2
+		h3
+			font-weight: normal
+		h4
+			font-weight: normal
+			font-size: 110%
+			color: rgba(0,0,0,0.30)
+
+	.headshot
+		height: 128px
+		width: 128px
+		box-shadow: $shadow-one
+		border-radius: 200px
+		margin: 40px 0
+		img
+			object-fit: cover
+			height: 100%
+			width: 100%
+			border-radius: 200px
+
+	cite
+		font-style: normal
+		font-size: 115%
+		line-height: 1.8
+		padding: 20px 0
+		font-weight: 400
+		margin-top: 40px
+		display: block
+		-webkit-font-smoothing: antialiased
+
+	.project-feats
+		padding: 40px 0
+		display: block
+		font-size: 110%
+		
+		.green-check
+			height: 22px
+			width: auto
+			vertical-align: sub
+
+		.label
+			text-transform: uppercase
+			font-size: 13px
+			font-weight: bold
+			display: block
+			padding-bottom: 4px
+			color: rgba(0,0,0,0.30)
+	ul
+		list-style: none
+		margin: 0
+		line-height: 1.6
+		li
+			img
+				max-height: 20px
+				width: auto
+				margin-right: 16px
+				vertical-align: sub
+
+@media (min-width: $screen-md-min)
+	.ad-testimonials-wrapper
+		flex-direction: row
+	.ad-testimonial-item
+		width: 48%
+		max-width: 520px
+
+#our-expertise
+	&.b-side
+		margin-top: 15vh
+	p
+		max-width: 720px
+		margin: 2rem auto
+		padding: 0 5%
+		text-align: center
+		letter-spacing: 0
+		font-size: 120%
+		font-weight: 500
+
+	h3
+		text-transform: uppercase
+		text-align: center
+		font-size: 220%
+	ul
+		margin: 80px auto
+		padding: 0 10%
+		max-width: 960px
+		list-style: none
+		display: flex
+		flex-direction: column
+		
+		li
+			display: flex
+			margin-bottom: 40px
+			
+			figure
+				flex: 0 1 96px
+				img
+					width: auto
+					height: auto
+					max-height: 72px
+			.title
+				flex: 0 1 100%
+				padding-left: 48px
+				display: flex
+				align-items: center
+				h4
+					font-weight: 400
+					font-size: 140%
+
+@media (min-width: $screen-sm-min)
+	#our-expertise
+		ul
+			flex-direction: row
+			flex-wrap: wrap
+			justify-content: center
+			padding: 0
+			li
+				width: 50%
+				max-width: 400px
+
+#industry-experience
+	.wrapper
+		display: flex
+		justify-content: center
+		flex-direction: column
+		margin: 15vh auto 15vh auto
+		padding: 0 5%
+		max-width: 1100px
+
+	.section-title
+		text-align: center
+		h3
+			font-size: 260%
+			font-weight: normal
+		p
+			color: $black-50
+			font-weight: 400
+			letter-spacing: 0
+			padding-top: 16px
+			font-size: 120%
+		.big
+			text-transform: uppercase
+			font-weight: bold
+
+	ul
+		margin: 40px auto
+		padding: 0 5%
+		max-width: 960px
+		list-style: none
+		display: flex
+		flex-direction: row
+		flex-wrap: wrap
+		
+		li
+			display: flex
+			flex-direction: column
+			width: 33%
+			margin-bottom: 40px
+			
+			figure
+				padding-bottom: 16px
+				img
+					width: auto
+					height: auto
+					max-height: 84px
+					display: block
+					margin: 0 auto
+			.title	
+				h4
+					font-weight: bold
+					font-size: 80%
+					text-transform: uppercase
+					text-align: center
+					color: $black-80
+
+@media (min-width: $screen-md-min)
+	#industry-experience
+		.wrapper 
+			flex-direction: row
+			align-items: center
+
+		.section-title
+			text-align: right
+			padding-right: 5%
+			padding-bottom: 60px
+			width: 45%
+		ul
+			justify-content: center
+			padding: 0
+			width: 55%
+			li
+				width: 33%
+				max-width: 400px
+
+.landing-tech-stack
+	clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%)
+	background: #F8F9FB
+	padding: 40px 0
+
+	#factsAndTech:after
+		min-height: initial
+		height: 130vh
+		top: -40px
+		content: none
+		
+
+@media (max-width: $screen-sm-min)
+	.landing-tech-stack
+		#factsAndTech:after
+			height: 160vh
+
+#landing-cta
+	background: #F8F9FB
+	padding: 200px 5% 80px 5%
+	clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%)
+	
+	.cta-cue
+		text-align: center
+		font-size: 160%
+		margin-bottom: 0px
+		flex: 0 1 100%
+		letter-spacing: 0
+		p
+			max-width: 420px
+			margin: 0 auto
+			line-height: 1.7
+			letter-spacing: 0
+			font-weight: 300
+		img
+			max-height: 148px
+			width: auto
+			margin: 4rem auto
+
+	.section-title
+		text-align: center
+		margin-bottom: 40px
+		width: 100%
+		margin: 1rem auto
+		display: flex
+		flex-direction: column
+		justify-content: center
+		h3
+			font-size: 260%
+			font-weight: normal
+		p
+			color: $black-50
+			font-weight: 400
+			letter-spacing: 0
+			padding-top: 1rem
+			font-size: 120%
+			
+		.big
+			text-transform: uppercase
+			font-weight: bold
+			display: block
+	form
+		max-width: 520px
+		margin: 0 auto
+
+@media (min-width: $screen-sm-min)
+	#landing-cta .wrapper
+		max-width: 960px
+		margin: 0 auto
+		display: flex
+		flex-wrap: wrap
+		justify-content: center
+		padding: 10px 0 80px 0
+
+		.section-title
+			box-sizing: border-box
+			width: 50%
+			padding-right: 5%
+			text-align: right
+			p
+				margin-top: -7rem
+		.form-column
+			width: 50%
+
+			
+
+.form-success
+	display: none
+	.success-art
+		display: flex
+		flex-direction: column
+		justify-content: center
+		text-align: center
+		img
+			display: block
+			margin: 20px auto
+			width: auto
+			height: 148px
+			
+    		
+		.title
+			color: $apple-green
+			font-size: 180%
+			font-weight: bold
+			
+		p
+			margin-top: 10px
+			font-size: 140%
+			letter-spacing: 0
+			line-height: 1.6

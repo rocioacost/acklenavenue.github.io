@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat:300,800)
+
 
 html
   box-sizing: border-box
@@ -280,7 +280,7 @@ ul.check
 nav
   max-width: 1200px
   margin: 0 auto
-  height: 120px
+  min-height: 120px
   justify-content: space-between
   display: flex
   align-items: center
@@ -289,6 +289,8 @@ nav
 
 .nav-bullets
   display: flex
+  align-items: center
+  justify-content: center
 
 .nav-bullets li
   padding: 12px 0 12px 28px
@@ -307,6 +309,13 @@ nav
 .nav-bullets li:last-child a:hover
   background: rgba(255,255,255,0.5)
   color: $white
+input[type="submit"]
+  cursor: pointer
+  appearance: none
+  
+input[type="submit"]:disabled 
+  background: $black-30
+  cursor: not-allowed
 
 @media (min-width: $screen-xm-min) and (max-width: $screen-sm-min)
   header
@@ -319,6 +328,13 @@ nav
     display: inline-block
     font-size: 16px
 
+@media (max-width: $screen-sm-min)
+  .nav-bullets
+    width: 100%
+
+::-webkit-input-placeholder
+  color: $black-30
+
 @import _home
 @import _contact
 @import _blogfeed
@@ -326,5 +342,7 @@ nav
 @import _ourwork
 @import _casestudies
 @import _courses
+@import _jobs
 @import _404
 @import _team
+@import _landing-ad

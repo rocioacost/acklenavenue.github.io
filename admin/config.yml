@@ -1,0 +1,154 @@
+---
+---
+{% assign departments = site.data.departments.data | map: "name" %}
+
+backend:
+  name: github
+  repo: AcklenAvenue/acklenavenue.github.io
+  branch: master
+  site_domain: acklenavenue.com
+
+logo_url: /img/aa-logo.png
+
+display_url: https://acklenavenue.com
+
+media_folder: 'img/posts'
+
+collections:
+  - name: 'blog'
+    label: 'Posts'
+    folder: '_posts'
+    create: true
+    slug: '{{"{{year"}}}}-{{"{{month"}}}}-{{"{{day"}}}}-{{"{{slug"}}}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date', format: 'YYYY-MM-DD' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
+      - {
+          label: 'Image credit',
+          name: 'imageCredit',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Type', name: 'type', widget: 'hidden', default: 'article' }
+      - { label: 'Keywords', name: 'keywords', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'job_openings'
+    label: 'Job Openings'
+    folder: '_job_openings'
+    create: true
+    slug: '{{"{{year"}}}}-{{"{{month"}}}}-{{"{{day"}}}}-{{"{{slug"}}}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'job-opening' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string', default: 'Remote' }
+      - {
+          label: 'Time',
+          name: 'time',
+          widget: 'select',
+          options: ['Full Time', 'Half-Time / Hourly'],
+        }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Salary range', name: 'salaryRange', widget: 'string', required: false }
+      - label: 'Responsibilities'
+        name: 'responsibilities'
+        widget: 'list'
+        field: {label: 'Responsibility', name: 'responsibility', widget: 'string'}
+      - label: 'Requirements'
+        name: 'requirements'
+        widget: 'list'
+        field: {label: 'Requirement', name: 'requirement', widget: 'string'}
+      - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false }
+
+  - name: 'data'
+    label: 'Data'
+    editor:
+      preview: false
+    files:
+      - name: 'departments'
+        label: 'Departments'
+        file: '_data/departments.json'
+        fields:
+          - name: 'data'
+            label: 'Departments'
+            widget: 'list'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - {
+                  label: 'Avatar',
+                  name: 'avatar',
+                  widget: 'image',
+                  required: false,
+                }
+
+      - name: 'team'
+        label: 'Team'
+        file: '_data/team.json'
+        fields:
+          - name: 'data'
+            label: 'Members'
+            widget: 'list'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'Last name', name: 'lastName', widget: 'string' }
+              - {
+                  label: 'Gravatar Email',
+                  name: 'gravatarEmail',
+                  widget: 'string',
+                }
+              - { label: 'Position', name: 'position', widget: 'string' }
+              - {
+                  label: 'Department',
+                  name: 'department',
+                  widget: 'select',
+                  options: [{%- for department in departments -%}
+                                "{{ department }}",
+                            {%- endfor -%}],
+                  multiple: true
+                }
+              - { label: 'Location', name: 'location', widget: 'string' }
+              - {
+                  label: 'Facebook',
+                  name: 'facebook',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Github',
+                  name: 'github',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Linkedin',
+                  name: 'linkedin',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Twitter',
+                  name: 'twitter',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Blog',
+                  name: 'blog',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Stack Overflow',
+                  name: 'stackoverflow',
+                  widget: 'string',
+                  required: false,
+                }
+              - { label: 'Quote', name: 'quote', widget: 'string' }

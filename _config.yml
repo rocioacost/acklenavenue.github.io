@@ -3,7 +3,7 @@ github: [metadata]
 title: AcklenAvenue-Website
 email: info@acklenavenue.com
 description: >
- Your partner in building powerful apps users love, Acklen Avenue offers agile software development teams as a service.
+  Your partner in building powerful apps users love, Acklen Avenue offers agile software development teams as a service.
 
 url: "http://acklenavenue.com"
 twitter_username: acklenavenue
@@ -11,8 +11,9 @@ exclude: ['README.md']
 
 # Build settings
 environment: production
-gems:
+plugins:
   - jekyll-gist
+  - jekyll-redirect-from
 markdown: kramdown
 permalink: /articles/:title
 source: .
@@ -22,4 +23,13 @@ permalink: /:title
 development:
   app_url: "http://localhost:4000/"
 
+exclude: ['badges']
 
+# Collections settings
+collections:
+  job_openings:
+    output: true
+    permalink: careers/:title
+  posts:
+    output: true
+    permalink: blog/:title

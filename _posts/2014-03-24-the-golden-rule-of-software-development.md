@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  The Golden Rule of Software Development
-date:   2014-01-19 10:52:48
-author: Byron Sommardahl
-excerpt: I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler “
-image: /img/posts/steve-jobs.jpg
+title: The Golden Rule of Software Development
+date: 2014-01-19 10:52:48
+description: Six suggestions to revisit the Golden Rule of Software Development. 
+author: Byron Sommardahl 
+excerpt: Six suggestions to revisit the Golden Rule of Software Development.
+image: https://acklenavenue.com/img/posts/golden-rule-software-development.png
+thumbnail: https://acklenavenue.com/img/posts/golden-rule-software-development.png
+ImageCredit: Thumbnail Photo by [Gustas Brazaitis](https://unsplash.com/@amrvle) on [Unsplash](https://unsplash.com/)
+type: article
+keywords: Software Development, Acklen Avenue, Agile, Golden Rule, developers, programmers, Architecture, SOLID  
 tags: software_development
+hidden: false
 ---
 
 I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler: “Do to others as you would have them do to you.” That’s Jesus talking in Matthew 7:12, by the way. Now, I’m not going to preach, so don’t navigate away too quickly… Well, I’m not going to preach about the Bible anyhow. I guess I am going to preach a little about how I think software developers should change their evil ways.
@@ -26,7 +32,9 @@ Are you ready to repent and turn from your evils ways? Here are some suggestions
 
 **Use Documented Architecture** – Don’t try to reinvent the wheel. Architecture has been done and done and done. Learn one that fits your project and stick to it. Creating your own will probably get you into trouble and will rob your future readers of the ability to understand your architectural decisions apart from a ton of documentation that you shouldn’t have to waste time writing.
 
-**Names Matter** – Name your variables, classes, methods, everything with care. Who cares if names get long. If they communicate what’s going on, let it go! This will go a long way in helping your future readers understand your code. It will also cut down or eliminate the need for code comments. **Use Patterns** – Like anybody who makes things for a living, patterns and templates are essential to reproducing similar types of products or work. Same goes for software development. There are tons of great “pre-thought-out” patterns for programmers to pick up and use. And, later on, other developers, who are also aware of those patterns, can look at your use of this or that pattern and know EXACTLY what is going on. Or you can ignore the patterns out there and do everything your way, alienating and confusing your future readers, making them hate you. Your choice.
+**Names Matter** – Name your variables, classes, methods, everything with care. Who cares if names get long. If they communicate what’s going on, let it go! This will go a long way in helping your future readers understand your code. It will also cut down or eliminate the need for code comments. 
+
+**Use Patterns** – Like anybody who makes things for a living, patterns and templates are essential to reproducing similar types of products or work. Same goes for software development. There are tons of great “pre-thought-out” patterns for programmers to pick up and use. And, later on, other developers, who are also aware of those patterns, can look at your use of this or that pattern and know EXACTLY what is going on. Or you can ignore the patterns out there and do everything your way, alienating and confusing your future readers, making them hate you. Your choice.
 
 **SOLID, Know it, Love it, Use it** – If your haven’t heard of the “SOLID Principles of Software Engineering” by Robert Martin, you should Google it. It is five software engineering principles that, when used together, tend to guide software developers to creating better, more maintainable code. There are tons of principles like these out there, but the nice thing about these five is that most any professional software developer can follow them closely if not to the letter in their day-to-day. So, if a future reader must maintain your code, and you follow SOLID, all they have to do is familiarize themselves with those five principles and they are almost as good as the original dev because they will understand what guides and motivates your decisions. Following a popular set of principles like SOLID sets future readers and maintainers up for success months and years in advance.
 
@@ -35,3 +43,5 @@ Are you ready to repent and turn from your evils ways? Here are some suggestions
 Will you follow the REAL “Golden Rule” in your day-to-day programming, taking the necessary steps to leave future developers with code that can be maintained and extended? For your clients’ sake, for your fellow developers’ sake, for your own soul’s sake, I sincerely hope so.
 
 On the other hand, if you want to keep putting crappy, unintelligible code out there, be my guest. I’m actually making a pretty good living by cleaning up your messes. I just feel bad for your clients who have to pay for your blunders. Your call.
+
+

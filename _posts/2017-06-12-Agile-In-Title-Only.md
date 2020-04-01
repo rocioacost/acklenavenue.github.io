@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  Are you a AITO (Agile in Title Only) Company?
-date:   2017-06-12
-author: Byron Sommardahl
-excerpt: Many businesses claim to be agile. Few actually practice what they preach.
-image: /img/posts/agile-in-title-only.png
+title: 6 Questions That Tell You Are an AITO (Agile in Title Only) Company.
+date: 2017-06-12
+description: You aren’t agile. You’ve got yourself an AITO (Agile In Title Only) company and you’ve got a problem.
+author: Byron Sommardahl 
+excerpt: You aren’t agile. You’ve got yourself an AITO (Agile In Title Only) company and you’ve got a problem.
+image: https://acklenavenue.com/img/posts/agile-title.png
+thumbnail: https://acklenavenue.com/img/posts/agile-title.png
+ImageCredit: Photo by [Braydon Anderson](https://unsplash.com/@braydona) on [Unsplash](https://unsplash.com/)
+type: article
+keywords: Acklen Avenue, Agile, start-up, company, company leaders, development, Sprint planning, Burndown charts, Scrum/Kanban boards, Product backlog, Daily meeting, retrospectives
 tags: agile
+hidden: false
 ---
 
 _This is the second post in our Agile Development blog series._
@@ -35,7 +41,7 @@ Let’s briefly discuss what agile is not before we dive into how to figure out 
 
 ## What agile is not
 
-If you want to learn more about what agile is, we wrote about it [here](http://acklenavenue.com/agile/development/2017/04/19/Agile-Development-A-10000-Foot-View.html).
+If you want to learn more about what agile is, we wrote about it [here](http://acklenavenue.com/Agile-Development-A-10000-Foot-View).
 
 Here is what agile is not:
   *Sprint planning

@@ -1,0 +1,62 @@
+---
+layout: acklen-subfolder
+---
+{% assign salaryRange = page.salaryRange | strip %}
+
+<header class="page-header">
+    {% include menu.html %}
+    <h1>{{ page.title | replace: "| Acklen Avenue", "" }}</h1>
+</header>
+<div id="job-description">
+    <section class="text-block">
+        <div class="jobPost__description flex-25">
+            <div class="flex-25 jobPost__description__column">
+                <span><img alt="" class="jobPost__description__icon" src="/img/remote-job.svg"/></span>
+                <span>{{ page.location }}</span>
+            </div>
+            <div class="flex-25 jobPost__description__column">
+                <span>
+                    <img alt="" class="jobPost__description__icon" src="/img/{% if page.time == 'Full Time' %}full{% else %}half{% endif %}-time-job.svg"/>
+                </span>
+                <span>{{ page.time }}</span>
+            </div>
+            {% if salaryRange != '' %}
+              <div class="flex-25 jobPost__description__column">
+                  <span>
+                      <img alt="" class="jobPost__description__icon" src="/img/salary-range.svg"/>
+                  </span>
+                  <span>{{salaryRange}}</span>
+              </div>
+              <div class="flex-25"></div>
+            {% endif %}
+        </div>
+    </section>
+    <section class="text-block">
+        <h2>Description</h2>
+        <p class="text-block">
+            {{ page.description }}
+        </p>
+    </section>
+    <section class="text-block">
+        <h3>Responsibilities:</h3>
+        <ul class="check">
+            {% for responsibility in page.responsibilities %}
+                <li>
+                    <span>{{ responsibility }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="text-block">
+        <h3>Requirements:</h3>
+        <ul class="check">
+            {% for requirement in page.requirements %}
+                <li>
+                    <span>{{ requirement }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+</div>
+{% include callToAction__jobDescription.html %}
+{% include ContactUs.html %}

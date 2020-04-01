@@ -7,10 +7,10 @@ var container = document.querySelector('.my-shuffle-container');
 var sizer = container.querySelector('.member-card');
 var containerHeight = container.clientHeight;
 
-var membersObjArray = {{ site.data.team | jsonify }};
+var membersObjArray = {{ site.data.team.data | jsonify }};
 
 var shuffle = new Shuffle(container, {
-  itemSelector: '.picture-item', 
+  itemSelector: '.picture-item',
   sizer: null,
   isCentered: true,
   buffer: 0,
@@ -29,7 +29,7 @@ function filterTeam(tag) {
   history.pushState(null, null, '?filter='+tag);
 
   setActiveCategorie(tag);
-  
+
   setCategoryTitle(tag);
 
   shuffle.filter(tag);
@@ -69,7 +69,7 @@ function addMemberDataToHTMLString(member){
       </div>
       <img class="member-card__img" alt="${member.gravatarEmail}">
     </div>
-  
+
     <div class="member-card__info">
       <p class="member-card__name">
         ${ member.name  } ${ member.lastName }
@@ -92,11 +92,11 @@ function addMemberDataToHTMLString(member){
         {% unless member.linkedin == ''  %}
           <a href="${member.linkedin}"><svg class="icon icon-linkedingreen"><use xlink:href="img/external-links.svg#icon-linkedingreen"></use></svg></a>
         {% endunless %}
-    
+
         {% unless member.github == ''  %}
           <a href="${member.github}"><svg class="icon icon-githubgreen"><use xlink:href="img/external-links.svg#icon-githubgreen"></use></svg></a>
         {% endunless %}
-      </div>    
+      </div>
     </div>
 
   </div>`
@@ -145,7 +145,7 @@ function getURLParam(){
 }
 
 
-/* When the user clicks on the button, 
+/* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
@@ -174,7 +174,3 @@ if (param === "undefined"){
 } else {
   filterTeam(param);
 }
-
-  
-
-

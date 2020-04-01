@@ -132,9 +132,6 @@ perspective effects (not including the modals and the overlay).
     margin-top: 22%;
 }
 
-#button-form {
-    cursor: pointer;
-}
 
 .md-show~.md-overlay {
     opacity: 1;
