@@ -265,6 +265,9 @@ description: Agile development teams that partner seamlessly, and deliver value 
 							<input class="form-modal-input flex-100" type="tel" id="telephone" placeholder="Phone Number" required />
 						</div>
 						<div class="flex-direction">
+							<input class="form-modal-input flex-100" type="text" id="contact-company" placeholder="Company" required />
+						</div>
+						<div class="flex-direction">
 							<textarea class="form-modal-input flex-100" rows="3" id="contact-message" placeholder="Any details on the work you wish to share? (Optional)"></textarea>
 						</div>
 						
@@ -274,7 +277,7 @@ description: Agile development teams that partner seamlessly, and deliver value 
 						</div>
 			
 						<div style="display: flex; justify-content: center;">
-							<input id="button-form" class="btn hvr-ripple-out btn--apple" type="submit" value="Contact Us" class="btn btn--apple hvr-ripple-out"/>
+							<input id="button-form" class="btn hvr-ripple-out btn--apple" type="submit" value="Contact Us" class="btn btn--apple hvr-ripple-out" disabled/>
 						</div>
 					</form>
 				</div><!-- FORM CONTAINER-->
@@ -297,7 +300,7 @@ description: Agile development teams that partner seamlessly, and deliver value 
 				$.ajax({
 					type: "POST",
 					url: "https://u2fh5qg9k7.execute-api.us-east-1.amazonaws.com/production/send-email",
-					data: JSON.stringify({message: `Name: ${contactName}, Email: ${contactEmail}, Phone: ${telephone}, Project Details: ${contactMessage}`}),
+					data: JSON.stringify({message: `Name: ${contactName}, Email: ${contactEmail}, Phone: ${telephone}, Project Details: ${contactMessage}, Company: ${company}`}),
 					contentType: "application/json; charset=utf-8",
 					dataType: "json",
 				});
@@ -305,6 +308,7 @@ description: Agile development teams that partner seamlessly, and deliver value 
 			}
 		</script>
 		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script>
 			window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')
 		</script>
