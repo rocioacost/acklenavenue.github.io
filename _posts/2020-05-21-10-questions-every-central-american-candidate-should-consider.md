@@ -16,7 +16,6 @@ keywords: recruiting
 tags: "recruiting "
 hidden: false
 ---
-<!--StartFragment-->\
 Recently we posted a job announcement in one of our favorite Facebook pages and received some outstanding questions in feedback.
 
 In fact, we thought they were so great we decided to write a blog article about them. If our responses seem a bit more detailed than you'd expect in a blog article, it's probably because we are answering a specific person's questions. If you have your own questions, feel free to shoot us an email at [jobs@acklenavenue.com](mailto:jobs@acklenavenue.com) and we will do our very best to answer.
@@ -62,5 +61,3 @@ I wouldn’t say “absolutely nothing of math.” I mean, our accounting depart
 Every team member is technically an independent contractor and proprietor of his or her own company, providing services to our company in a B2B relationship. This might sound really legalistic, but please be assured that we do not treat our team members like contractors are often treated. This does mean that everyone brings his or her own equipment and provides his or her own internet and office. Depreciation is not something our company considers at all. That’s something you would handle in your own “company”. On the other hand, we do provide a way for our team members to get some assistance with upgrades to equipment when needed.
 
 *Got more great questions? Why not apply for a job with Acklen Avenue or Hero Unit and ask us in person?*
-
-<!--EndFragment-->
