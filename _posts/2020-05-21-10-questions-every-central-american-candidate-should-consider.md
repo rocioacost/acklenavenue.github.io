@@ -48,7 +48,7 @@ The company is based in the USA even though the majority of our people are in Ce
 
 We try to keep the same hours our clients keep. From project to project, your day would normally start around 8 or 9 am. It should end around 4 or 5 pm. We shoot for about 8 hours a day since it’s a full-time job. Want or need to disconnect? Of course! In most cases, our teams log off and enjoy their non-work lives after work. There are some rare exceptions where we need to meet earlier or later in the day to accommodate a client in another time zone, but even that is something the team works together to sort out by sharing the load.
 
-## 8 ) Do you make contributions to different national regimes to access home loans?
+## 8. Do you make contributions to different national regimes to access home loans?
 
 I guess this is talking about getting bank loans to buy or build a house? If so, we’re not a bank and we don’t have any influence over banks to help you get a loan. On the other hand, many of our team members have been able to get the credit they need for houses, cars, bigger TV’s, etc. We even care enough about our team members to give some good motherly advice: be careful with credit, because it’s not always the smartest thing to get mixed up in.
 
