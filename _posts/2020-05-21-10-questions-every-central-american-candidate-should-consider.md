@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Questions Every Central American Candidate Should Consider
-date: 2020-05-21
+date: 2020-05-21T00:00:00.000Z
 description: Recently we posted a job announcement in one of our favorite
   Facebook pages and received some outstanding questions in feedback.  In fact,
   we thought they were so great we decided to write a blog article about them.
@@ -16,9 +16,7 @@ keywords: recruiting
 tags: "recruiting "
 hidden: false
 ---
-<!--StartFragment-->
-
-\
+<!--StartFragment-->\
 Recently we posted a job announcement in one of our favorite Facebook pages and received some outstanding questions in feedback.
 
 In fact, we thought they were so great we decided to write a blog article about them. If our responses seem a bit more detailed than you'd expect in a blog article, it's probably because we are answering a specific person's questions. If you have your own questions, feel free to shoot us an email at [jobs@acklenavenue.com](mailto:jobs@acklenavenue.com) and we will do our very best to answer.
