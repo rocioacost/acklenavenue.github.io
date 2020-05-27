@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acklen Avenue’s early insights from Deno 1.0 "
-date: 2020-05-27
+date: 2020-05-27T00:00:00.000Z
 description: "Deno 1.0 is out! We took this new runtime for JavaScript and
   TypeScript for a test drive, this is how it went.  "
 author: Byron Sommardahl, Cesar Bonilla & Nestor Escoto
@@ -11,7 +11,7 @@ image: /img/posts/blogpost-deno.jpg
 thumbnail: /img/posts/blogpost-deno.jpg
 type: article
 keywords: deno, software development, javascript, typescript
-tags: software development
+tags: softwaredevelopment
 hidden: false
 ---
 *Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.*
