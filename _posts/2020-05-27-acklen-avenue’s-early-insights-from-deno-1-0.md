@@ -14,7 +14,10 @@ keywords: deno, software development, javascript, typescript
 tags: software development
 hidden: false
 ---
-*Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.*  *While I’m at it, I also want to tip my hat to Microsoft for making so many massive contributions to open-source software and redeeming the JavaScript language by giving us TypeScript.* \
+*Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.* 
+
+*While I’m at it, I also want to tip my hat to Microsoft for making so many massive contributions to open-source software and redeeming the JavaScript language by giving us TypeScript.*
+
 *\- Byron Sommardahl*
 
 ## What is Deno?
@@ -32,7 +35,6 @@ It's built on V8, Rust, and Tokyo.
 Deno is for any adventurous developer out there that doesn’t need anything overly complex. At this point, we would not recommend Deno for production applications, instead, stick with Node.js at least until Deno matures enough.
 
 ## How does it compare to Node.js?
-
 
 ### Similarities:
 
@@ -67,7 +69,7 @@ Deno aims to be a productive and secure scripting environment for the modern pro
 
 ## Good Ole Hello World Example:
 
-\`\``
+`\``
 
 Import { bgBlue, red, bold } from “<https://deno.land/std/colors/mod.ts>";
 
@@ -81,7 +83,7 @@ sayHello();
 
 sayHello("Acklen Avenue");
 
-\`\``
+`\``
 
 ## What cool things can we use it for?
 
