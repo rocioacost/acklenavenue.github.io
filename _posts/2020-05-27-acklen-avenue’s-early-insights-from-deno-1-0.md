@@ -31,7 +31,7 @@ It's built on V8, Rust, and Tokyo.
 
 Deno is for any adventurous developer out there that doesn’t need anything overly complex. At this point, we would not recommend Deno for production applications, instead, stick with Node.js at least until Deno matures enough.
 
-## How does it compare to Node.js
+## How does it compare to Node.js?
 
 ### Similarities:
 
