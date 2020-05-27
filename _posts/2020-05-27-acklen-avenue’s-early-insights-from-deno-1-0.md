@@ -14,9 +14,8 @@ keywords: deno, software development, javascript, typescript
 tags: softwaredevelopment
 hidden: false
 ---
-*Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.*
-
-*While I’m at it, I also want to tip my hat to Microsoft for making so many massive contributions to open-source software and redeeming the JavaScript language by giving us TypeScript.* *\- Byron Sommardahl*
+*Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.*  *While I’m at it, I also want to tip my hat to Microsoft for making so many massive contributions to open-source software and redeeming the JavaScript language by giving us TypeScript.* \
+*\- Byron Sommardahl*
 
 ## What is Deno?
 
