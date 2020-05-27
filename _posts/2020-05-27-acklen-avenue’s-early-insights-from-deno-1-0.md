@@ -46,10 +46,7 @@ Deno is for any adventurous developer out there that doesn’t need anything ove
 * There is no package manager for Deno (No npm), instead, it uses modules reference as URLs or file paths
 * There is no package.json file
 * Deno will always die on uncaught errors (unlike Node.js)
-* There is no \`require()\` support, instead third party modules are imported via URLs:
-
-import*aslogfrom"https://deno.land/std/log/mod.ts";
-
+* There is no \`require()\` support, instead third party modules are imported via URLs: `import*aslogfrom"https://deno.land/std/log/mod.ts`
 * It aims to be browser-compatible as much as it can, for example by providing a built-in fetch and the global window object
 * Since no require is support, modules use ES module syntax, which means just goodimport x from "y"syntax
 
@@ -69,21 +66,21 @@ Deno aims to be a productive and secure scripting environment for the modern pro
 
 ## Good Ole Hello World Example:
 
-`\``
 
-Import { bgBlue, red, bold } from “<https://deno.land/std/colors/mod.ts>";
 
-const sayHello = (name: string = "world") => {
+`Import { bgBlue, red, bold } from “`[`https://deno.land/std/colors/mod.ts`](https://deno.land/std/colors/mod.ts)`";`
 
-console.log(bgBlue(red(bold(\`Hello ${name}!\`))));
+`const sayHello = (name: string = "world") => {`
 
-}
+``console.log(bgBlue(red(bold(`Hello ${name}!`))));``
 
-sayHello();
+`}`
 
-sayHello("Acklen Avenue");
+`sayHello();`
 
-`\``
+`sayHello("Acklen Avenue");`
+
+
 
 ## What cool things can we use it for?
 
