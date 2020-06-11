@@ -1,21 +1,19 @@
 ---
-layout: post
-title: "Tech Decisions & Business Acumen: Speaking both languages to drive
+title: "Technical Decisions & Business Acumen: Speaking both languages to drive
   business value"
 date: 2020-06-11
 description: "In technology-related projects or companies, many business
   decisions affect how technology is implemented. "
-author: By Byron Sommardahl
+author: "By Byron Sommardahl "
 excerpt: "In technology-related projects or companies, many business decisions
   affect how technology is implemented. "
 image: /img/posts/blog-post.png
 thumbnail: /img/posts/blog-post.png
-type: article
-keywords: "software development, agile, business decisions "
-tags: agile, software development
-hidden: false
+keywords: business value, technology decisions, software development
+tags: "software development, agile "
+hidden: true
 ---
-In technology-related projects or companies, many business decisions affect how technology is implemented. Conversely, many technical decisions affect the business’s bottom line. In both cases, the business should be the decision maker, not the technical team. Scary right?
+Conversely, many technical decisions affect the business’s bottom line. In both cases, the business should be the decision maker, not the technical team. Scary right?
 
 
 
@@ -35,10 +33,10 @@ One side of the house or the other needs to begin speaking both languages. I bel
 
 
 
-When I coach non-technical leaders who find themselves at the helm of a very technical ship, I work with them to, first, establish clear expectations on roles and responsibilities, especially in this realm of decision making. I encourage them to take back control of their products but maintain very open lines of communication between business and technical teams. Then, it’s important that business people slow down decision making processes just long enough to seek advice from the massively knowledgeable tech team to get a full picture of the problem that needs to be solved. Leaders should not stop probing and listening until they have heard how technical decisions map to some effect on revenue of cost.
+When I coach non-technical leaders who find themselves at the helm of a very technical ship, I work with them to, first, establish clear expectations on roles and responsibilities, especially in this realm of decision making. I encourage them to take back control of their products but maintain very open lines of communication between business and technical teams. Then, it’s important that business people slow down decision making processes just long enough to seek advice from the massively knowledgeable tech team to get a full picture of the problem that needs to be solved. In technology-related projects or companies, many business decisions affect how technology is implemented. Leaders should not stop probing and listening until they have heard how technical decisions map to some effect on revenue of cost.
 
 
 
-If the technical team can begin speaking the language of the business, and the business can listen and demand true understanding, I believe that team could succeed in creating well-built and profitable technical solutions. 
+If the technical team can begin speaking the language of the business, and the business can listen and demand true understanding, I believe that team could succeed in creating well-built and profitable technical solutions.
 
-Are you wondering how Acklen Avenue uses business acumen to drive technical decisions? Let us know!
+Curious as to how Acklen Avenue uses business acumen to drive technical decision making? Let's chat.
