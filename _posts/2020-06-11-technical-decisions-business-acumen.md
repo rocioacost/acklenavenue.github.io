@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technical Decisions & Business Acumen
-date: 2020-06-11
+date: 2020-06-11T00:00:00.000Z
 description: In technology-related projects or companies, many business
   decisions affect how technology is implemented.
 author: Byron Sommardahl
@@ -12,7 +12,7 @@ thumbnail: /img/posts/blog-post.png
 type: article
 keywords: agile software development
 tags: "agile software development "
-hidden: true
+hidden: false
 ---
 In technology-related projects or companies, many business decisions affect how technology is implemented. Conversely, many technical decisions affect the business’s bottom line. In both cases, the business should be the decision maker, not the technical team. Scary right?
 
