@@ -1,34 +1,22 @@
 ---
 layout: job-opening
-title: Administrative Assistant
+title: Marketing Internship
 location: Remote - Honduras
-time: Half-Time / Hourly
-description: >-
-  We are looking for a master multi-tasker with excellent communication skills
-  and an upbeat attitude. Candidates should be able to assist management
-  providing polite and professional assistance generally being a helpful and
-  positive presence in the workplace.
+time: Full Time
+description: >
+  Supports a large portion of Acklen Avenue and Hero Units's online presence
+  including, but not limited to, social media channels, website content, and
+  networking events.
 responsibilities:
-  - >-
-    Handling office tasks, such as filing, generating reports and presentations,
-    setting up for meetings.
-  - >-
-    Providing real-time scheduling support by booking appointments and
-    preventing conflicts.
-  - >-
-    Generate reports, transcribe minutes from meetings, create presentations,
-    and conduct research.
-  - 'Maintain polite and professional communication through different tools. '
-  - >-
-    Anticipate the needs of others in order to ensure their seamless and
-    positive experience.
+  - "Mantain Digital Dashboards "
+  - Monitor key online marketing metrics to track success
+  - "Maintain a polite and professional communication through different tools. "
+  - "Anticipate relevant topics for content creation. "
 requirements:
-  - Bachelor’s Degree in related field.
-  - Prior administrative experience.
-  - Excellent computer skills.
+  - Bachelor’s Degree in Marketing or related field.
+  - Digital marketing experience preferred.
+  - "Medium technological skills. "
   - Attention to detail.
-  - Desire to be proactive and create a positive experience for others.
   - Proficient in spoken and written English.
-hidden: true
+hidden: false
 ---
-
