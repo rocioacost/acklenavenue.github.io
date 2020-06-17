@@ -24,5 +24,5 @@ requirements:
   - Team player
   - Self-Learner
   - Medium tech knowledge
-hidden: false
+hidden: true
 ---
