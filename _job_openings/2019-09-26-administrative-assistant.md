@@ -18,5 +18,5 @@ requirements:
   - "Medium technological skills. "
   - Attention to detail.
   - Proficient in spoken and written English.
-hidden: false
+hidden: true
 ---
