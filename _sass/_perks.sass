@@ -1,0 +1,146 @@
+#perks
+  max-width: 1100px
+  margin: 0 auto
+  text-align: center
+  padding: 40px 0
+  & h2
+    padding: 20px 0 40px
+  h1, p
+    color: white
+
+  .p-backcard
+    color: $slate-purple  
+
+  .img-icon
+    max-width: 112px
+    max-height: 112px 
+  
+  .card-container
+    display: inline-block
+    margin: 0 auto
+    padding: 15px
+    perspective: 900px
+    text-align: center
+
+  .card
+    position: relative
+    width: 300px
+    height: 365px
+    transition: all 0.6s ease
+    transform-style: preserve-3d
+    -webkit-transform-style: preserve-3d
+    -moz-transform-style: preserve-3d
+    -ms-transform-style: preserve-3d
+  
+
+
+  .front, .back
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    border-radius: 8px
+    color: white
+    background: white
+    box-shadow: $shadow-one
+    backface-visibility: hidden
+    -webkit-backface-visibility: hidden
+    -moz-backface-visibility: hidden
+    -ms-backface-visibilitys: hidden
+    z-index: 2000
+
+  .front .card-img
+    -webkit-border-top-left-radius: 8px
+    -webkit-border-top-right-radius: 8px
+    -moz-border-radius-topleft: 8px
+    -moz-border-radius-topright: 8px
+    border-top-left-radius: 8px
+    border-top-right-radius: 8px
+    background: $apple-green
+    height: 170px
+    margin-bottom: 50px
+    overflow: hidden
+    &::after
+      content: ""
+      position: absolute
+      background: $apple-green
+      top: 159px
+      left: 0
+      transform: skewY(4deg)
+      height: 22px
+      width: 100%
+      overflow: hidden
+
+    & img
+      padding-top: 25px
+
+  .card-body
+    padding: 1em
+    width: 100%
+    height: 150px
+    color: #4F4F4F
+    h3
+      font-weight: 300
+      font-size: $title
+
+  .back
+    background: white
+    transform: rotateY(180deg)
+    -webkit-transform: rotateY(180deg)
+    -moz-transform: rotateY(180deg)
+    -ms-transform: rotateY(180deg)
+    color: rgba(0, 0, 0, 0.8)
+    padding: 25px
+    display: flex
+    justify-content: center
+    align-items: center
+
+  .card-container:hover .card
+    transform: rotateY(180deg)
+    -webkit-transform: rotateY(180deg)
+    -moz-transform: rotateY(180deg)
+    -ms-transform: rotateY(180deg)
+  
+  .holidayinn-text
+    
+    color: $slate-purple
+    text-align: left  
+
+
+
+#perkstitles
+  max-width: 1100px
+  margin: 0 auto
+  padding: 60px 5% 30px
+  text-align: center
+  color: $black-80
+  p
+    line-height: 1.7em
+    font-size: $title
+    max-width: 660px
+    margin: 0 auto 40px auto
+    span
+      color: $apple-green
+  h2
+    font-size: $title
+    color: $apple-green
+
+.card-icon
+  max-height: 132px
+  max-width:  238px
+
+img
+  width: 80%
+
+.nh-img
+  max-width: 168px
+  max-height: 97px
+
+.docs-icon
+  max-width: 54px
+  max-height: 54px
+
+.h3-download
+  padding: 2rem
+

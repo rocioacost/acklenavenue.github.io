@@ -1,0 +1,82 @@
+I"�<p><em>Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.</em></p>
+
+<p><em>While I’m at it, I also want to tip my hat to Microsoft for making so many massive contributions to open-source software and redeeming the JavaScript language by giving us TypeScript.</em></p>
+
+<p><em>- Byron Sommardahl</em></p>
+
+<h2 id="what-is-deno">What is Deno?</h2>
+
+<p>Deno is a JavaScript/TypeScript runtime withsecuredefaults and great developer experience. It was created by <a href="https://en.wikipedia.org/wiki/Ryan_Dahl">Ryan Dahl</a>, the original creator of <a href="https://nodejs.org/en/">Node.js</a></p>
+
+<p>It’s built on V8, Rust, and Tokyo.</p>
+
+<h2 id="what-is-typescript">What is TypeScript?</h2>
+
+<p><a href="https://www.typescriptlang.org/">TypeScript</a> is an open-source language that builds on JavaScript, one of the world’s most used tools, by adding static type definitions.</p>
+
+<h2 id="who-is-deno-for">Who is Deno for?</h2>
+
+<p>Deno is for any adventurous developer out there that doesn’t need anything overly complex. At this point, we would not recommend Deno for production applications, instead, stick with Node.js at least until Deno matures enough.</p>
+
+<h2 id="how-does-it-compare-to-nodejs">How does it compare to Node.js?</h2>
+
+<h3 id="similarities">Similarities:</h3>
+
+<ul>
+  <li>Both are developed upon the<a href="https://flaviocopes.com/v8/">V8 Engine</a></li>
+  <li>Both are great for developing server-side applications with JavaScript</li>
+</ul>
+
+<h3 id="differences">Differences:</h3>
+
+<ul>
+  <li>There is no package manager for Deno (No npm), instead, it uses modules reference as URLs or file paths</li>
+  <li>There is no package.json file</li>
+  <li>Deno will always die on uncaught errors (unlike Node.js)</li>
+  <li>There is no `require()` support, instead third party modules are imported via URLs: <code class="language-plaintext highlighter-rouge">import*aslogfrom"https://deno.land/std/log/mod.ts</code></li>
+  <li>It aims to be browser-compatible as much as it can, for example by providing a built-in fetch and the global window object</li>
+  <li>Since no require is support, modules use ES module syntax, which means just goodimport x from “y”syntax</li>
+</ul>
+
+<h2 id="what-is-deno-solving">What is Deno solving?</h2>
+
+<p>Deno aims to be a productive and secure scripting environment for the modern programmer, by default Deno has no file, network, or environment access (unless explicitly enabled). Also, Ryan Dahl wanted to fix/solve his design regrets fo Node.js (He talked about those regrets on the 2018 JSConf EU where he also first introduced Deno,<a href="https://www.youtube.com/watch?v=M3BM9TB-8yA">Youtube Video</a>)</p>
+
+<h2 id="pros">Pros?</h2>
+
+<ul>
+  <li>Deno integrates Promises natively (Node doesn’t) which allows for better standardization of async APIs</li>
+  <li>It has a really nice Standard library that is easy to import and use. You can check the standard (“std”) library <a href="https://deno.land/std/">here</a>.</li>
+</ul>
+
+<h2 id="cons">Cons?</h2>
+
+<ul>
+  <li>Deno does not have a package.json file, if you liked that from Node.js you will miss that feature.</li>
+  <li>Currently, Deno does not support npm packages at all and the number of Deno “native” packages is very small.</li>
+</ul>
+
+<h2 id="good-ole-hello-world-example">Good Ole Hello World Example:</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Import { bgBlue, red, bold } from “</code><a href="https://deno.land/std/colors/mod.ts"><code class="language-plaintext highlighter-rouge">https://deno.land/std/colors/mod.ts</code></a><code class="language-plaintext highlighter-rouge">";</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">const sayHello = (name: string = "world") =&gt; {</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">console.log(bgBlue(red(bold(`Hello ${name}!`))));</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">}</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">sayHello();</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">sayHello("Acklen Avenue");</code></p>
+
+<h2 id="what-cool-things-can-we-use-it-for">What cool things can we use it for?</h2>
+
+<p>We can use Deno for any type of server-side scripting since with Deno you can bundle everything in a single file, no need to do more npm install before running your code.</p>
+
+<p>We can use Deno to create REST APIs using the standard<a href="https://github.com/denoland/deno_std/tree/master/http#http">http library</a>and if you want route handling for your API then<a href="https://github.com/oakserver/oak">oak</a>is a middleware framework for Deno’s http server that includes a router middleware. Also you might want to take a look at<a href="https://drash.land/docs/#/">Drash</a>.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Deno isn’t a replacement for Node.js (At least not for now), Deno will probably continue to grow and evolve and will for sure start taking more momentum in the software industry. We can see it being used a lot in the future and we at Acklen Avenue are looking forward to seeing how it grows and evolves.</p>
+:ET
