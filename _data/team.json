@@ -749,6 +749,19 @@
       "location": "Nashville, United States",
       "linkedin": "https://www.linkedin.com/in/ruthie-ingram-469b82a3/",
       "quote": "Whatever you do, do it with all your strength"
+    },
+    {
+      "name": "Gaby",
+      "lastName": "Portillo",
+      "gravatarEmail": "gaby.portillo@acklenavenue.com",
+      "position": "Vetting Admin",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "instagram": "https://www.instagram.com/livingtoimprove/?hl=es-la",
+      "quote": "Live to improve!"
     }
   ]
 }
