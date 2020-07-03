@@ -424,20 +424,6 @@
       "linkedin": "https://www.linkedin.com/in/hndoss"
     },
     {
-      "lastName": "Flores",
-      "github": "https://github.com/afloresmorales",
-      "position": "Developer",
-      "name": "Andrés",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "andres.flores@acklenavenue.com",
-      "quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator",
-      "linkedin": "https://www.linkedin.com/in/andres-flores-309679144/"
-    },
-    {
       "lastName": "Ramos",
       "github": "https://github.com/jimmybanegas93",
       "position": "Developer",
