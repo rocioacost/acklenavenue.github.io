@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Engagement Manager Job Description
+title: Engagement Manager
 location: Remote
 time: Full Time
 description: >
