@@ -11,7 +11,7 @@ image: /img/posts/blogpost-deno.jpg
 thumbnail: /img/posts/blogpost-deno.jpg
 type: article
 keywords: deno, software development, javascript, typescript
-tags: software development
+tags: software_development
 hidden: false
 ---
 *Before starting, I’d like to send out a huge thank you to Ryan Dahl on behalf of my company and the rest of the developer world for giving us NodeJS.* 
