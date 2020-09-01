@@ -663,6 +663,22 @@
       "location": "San Pedro Sula, Honduras",
       "instagram": "https://www.instagram.com/livingtoimprove/?hl=es-la",
       "quote": "Live to improve!"
+    },
+    {
+      "lastName": "Fernandez",
+      "github": "https://github.com/damasofc",
+      "facebook": "https://www.facebook.com/damasofc",
+      "position": "Quality Assurance",
+      "name": "Damaso",
+      "department": [
+        "All Ackleners",
+        "Quality Assurance"
+      ],
+      "twitter": "https://twitter.com/damasofc",
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "damaso.fernandez@acklenavenue.com",
+      "quote": "...Forgetting what is behind and straining toward what is ahead.<br> — Paul of Tarsus",
+      "linkedin": "https://www.linkedin.com/in/damasofc/"
     }
   ]
 }
