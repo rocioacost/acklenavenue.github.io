@@ -11,8 +11,8 @@ excerpt: In technology-related projects or companies, many business decisions
 image: /img/posts/blog-post.png
 thumbnail: /img/posts/blog-post.png
 type: article
-keywords: agile software development
-tags: "agile, software development "
+keywords: 'Pair Programming, Agile, Software Development, Custom, Nashville, development'
+tags: software_development
 hidden: false
 ---
 In technology-related projects or companies, many business decisions affect how technology is implemented. Conversely, many technical decisions affect the business’s bottom line. In both cases, the business should be the decision maker, not the technical team. Scary right?

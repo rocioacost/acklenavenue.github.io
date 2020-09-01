@@ -82,28 +82,14 @@
       "name": "Ronald",
       "lastName": "Doblado",
       "gravatarEmail": "ronald@acklenavenue.com",
-      "position": "Business Analyst",
+      "position": "Quality Assurance",
       "department": [
         "All Ackleners",
-        "Business Analyst"
+        "Quality Assurance"
       ],
       "location": "Tegucigalpa, Honduras",
       "linkedin": "https://www.linkedin.com/in/ronald-doblado-195a5254/“",
       "quote": "Acklen Avenue rocks!"
-    },
-    {
-      "lastName": "Chappell",
-      "position": "Senior Engagement Manager",
-      "name": "Josh",
-      "department": [
-        "All Ackleners",
-        "Engagement Managers"
-      ],
-      "twitter": "https://twitter.com/joshchapp",
-      "location": "Nashville, United States",
-      "gravatarEmail": "josh@acklenavenue.com",
-      "quote": "Improve everything, all the time; including yourself.",
-      "linkedin": "https://www.linkedin.com/in/joshua-chappell-b585034/"
     },
     {
       "lastName": "Fields",
@@ -131,18 +117,6 @@
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "paulette@acklenavenue.com",
       "quote": "It is better to know how to learn than to know.<br> — Dr Seuss"
-    },
-    {
-      "name": "Fabio",
-      "lastName": "Castillo",
-      "gravatarEmail": "fabio@acklenavenue.com",
-      "position": "Scrum Master",
-      "department": [
-        "All Ackleners",
-        "Scrum Masters"
-      ],
-      "location": "Comayagua Honduras",
-      "quote": "Fight the machine!"
     },
     {
       "name": "Juan Carlos",
@@ -181,21 +155,6 @@
       "location": "Tegucigalpa, Honduras",
       "github": "https://github.com/Cristian1977",
       "quote": "Live what you haven't!"
-    },
-    {
-      "lastName": "Cordova",
-      "github": "https://github.com/ArthurC07",
-      "facebook": "https://www.facebook.com/arthur.cordova.54“",
-      "position": "Developer",
-      "name": "Arturo",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "jose.arturocordova@acklenavenue.com",
-      "quote": "We Become What We Think About",
-      "linkedin": "https://www.linkedin.com/in/arthur-cordova-b198bb103/"
     },
     {
       "lastName": "Siwady",
@@ -346,22 +305,6 @@
       "linkedin": "https://www.linkedin.com/in/elder-cerrato-36293b76/"
     },
     {
-      "lastName": "Zúniga",
-      "github": "https://github.com/fernandoznga",
-      "facebook": "https://www.facebook.com/fernandoznga",
-      "position": "Quality Assurance",
-      "name": "Fernando",
-      "department": [
-        "All Ackleners",
-        "Quality Assurance"
-      ],
-      "twitter": "https://twitter.com/FernandoZnga",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "fernando.zuniga@acklenavenue.com",
-      "quote": "Quality is not an act, it is a habit.<br> — Aristotle",
-      "linkedin": "https://www.linkedin.com/in/fernandoznga/"
-    },
-    {
       "lastName": "Bustillo",
       "github": "https://github.com/kerlynbustillo",
       "facebook": "https://www.facebook.com/kerlyn.bustillo",
@@ -449,20 +392,6 @@
       "gravatarEmail": "hector.rosales@acklenavenue.com",
       "quote": "There's always a way.<br>",
       "linkedin": "https://www.linkedin.com/in/hndoss"
-    },
-    {
-      "lastName": "Flores",
-      "github": "https://github.com/afloresmorales",
-      "position": "Developer",
-      "name": "Andrés",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "andres.flores@acklenavenue.com",
-      "quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator",
-      "linkedin": "https://www.linkedin.com/in/andres-flores-309679144/"
     },
     {
       "lastName": "Ramos",
@@ -577,37 +506,9 @@
       "linkedin": "https://www.linkedin.com/in/intivelasquez/"
     },
     {
-      "lastName": "Rendón",
-      "github": "https://github.com/RDRR7",
-      "facebook": "https://www.facebook.com/rene.d.rendon",
-      "position": "Developer",
-      "name": "René",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "renerivera@acklenavenue.com",
-      "quote": "Real living is living for others.<br> - Bruce Lee"
-    },
-    {
-      "lastName": "Ciliezar",
-      "github": "https://github.com/anibalciliezar-acklenavenue",
-      "position": "Quality Assurance",
-      "name": "Anibal",
-      "department": [
-        "All Ackleners",
-        "Quality Assurances"
-      ],
-      "location": "Tegucigalpa, HN",
-      "gravatarEmail": "anibal.ciliezar@acklenavenue.com",
-      "quote": "Quality means doing it right when no one is looking!",
-      "linkedin": "https://www.linkedin.com/in/anibal-ciliezar-63689555/"
-    },
-    {
       "lastName": "Casasola",
       "github": "https://github.com/dcasasola",
-      "position": "Talent Acquisition Specialist",
+      "position": "Recruiter and Community Coordinator",
       "name": "Diana",
       "department": [
         "All Ackleners",
@@ -762,6 +663,35 @@
       "location": "Nashville, United States",
       "linkedin": "https://www.linkedin.com/in/ruthie-ingram-469b82a3/",
       "quote": "Whatever you do, do it with all your strength"
+    },
+    {
+      "name": "Gaby",
+      "lastName": "Portillo",
+      "gravatarEmail": "gaby.portillo@acklenavenue.com",
+      "position": "Vetting Admin",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "instagram": "https://www.instagram.com/livingtoimprove/?hl=es-la",
+      "quote": "Live to improve!"
+    },
+    {
+      "lastName": "Fernandez",
+      "github": "https://github.com/damasofc",
+      "facebook": "https://www.facebook.com/damasofc",
+      "position": "Quality Assurance",
+      "name": "Damaso",
+      "department": [
+        "All Ackleners",
+        "Quality Assurance"
+      ],
+      "twitter": "https://twitter.com/damasofc",
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "damaso.fernandez@acklenavenue.com",
+      "quote": "...Forgetting what is behind and straining toward what is ahead.<br> — Paul of Tarsus",
+      "linkedin": "https://www.linkedin.com/in/damasofc/"
     }
   ]
 }
