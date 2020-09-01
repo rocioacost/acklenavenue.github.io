@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: Engagement Manager
-location: Remote
+location: Remote - Nashville, TN
 time: Full Time
 description: >
   As an Acklen Avenue Engagement Manager, you are the voice of our client and a
