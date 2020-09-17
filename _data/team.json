@@ -692,6 +692,16 @@
       "gravatarEmail": "damaso.fernandez@acklenavenue.com",
       "quote": "...Forgetting what is behind and straining toward what is ahead.<br> — Paul of Tarsus",
       "linkedin": "https://www.linkedin.com/in/damasofc/"
+    },
+    {
+      "name": "Anthony",
+      "lastName": "Rodríguez",
+      "gravatarEmail": "anthony.rodriguez@acklenavenue.com",
+      "position": "Developer",
+      "location": "Tegucigalpa, Honduras",
+      "department": ["All Ackleners", " Developers"],
+      "github": "https://github.com/AnthonyWRodriguez",
+      "quote": "A delayed game is eventually good, but a rushed game is forever bad.<br> -Shigeru Miyamoto"
     }
   ]
 }
