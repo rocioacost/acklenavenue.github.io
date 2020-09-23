@@ -702,6 +702,22 @@
       "department": ["All Ackleners", " Developers"],
       "github": "https://github.com/AnthonyWRodriguez",
       "quote": "A delayed game is eventually good, but a rushed game is forever bad.<br> -Shigeru Miyamoto"
+    },
+    {
+      "lastName": "Solorzano",
+      "github": "https://github.com/csolorzanof",
+      "facebook": "https://www.facebook.com/illgamer",
+      "position": "Tribal Tech Lead",
+      "name": "Carlos",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "twitter": "https://twitter.com/illgamer",
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "carlos.solorzano@acklenavenue.com",
+      "quote": "Insanity is doing the same thing over and over again and expecting a different result",
+      "linkedin": "https://www.linkedin.com/in/csolorzanof/"
     }
   ]
 }
