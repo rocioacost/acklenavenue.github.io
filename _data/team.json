@@ -422,20 +422,6 @@
       "quote": "The past cannot be changed. The future is yet in your power."
     },
     {
-      "lastName": "Molina",
-      "github": "https://github.com/DennisMG",
-      "position": "Developer",
-      "name": "Dennis",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "dennis.molina@acklenavenue.com",
-      "quote": "Think twice, code once.",
-      "linkedin": "https://www.linkedin.com/in/dennismolinadev/"
-    },
-    {
       "name": "Oscar",
       "lastName": "Carranza",
       "gravatarEmail": "oscar.carranza@acklenavenue.com",
@@ -694,6 +680,7 @@
       "linkedin": "https://www.linkedin.com/in/damasofc/"
     },
     {
+
       "lastName": "Vidaur",
       "github": "https://github.com/JosueVidaur",
       "facebook": "https://www.facebook.com/josueomar.vidaursalinas/",
@@ -706,6 +693,16 @@
       ],
       "location": "Tegucigalpa, Honduras",
       "quote": "A dream is not only about never giving up, but about sacrificing yourself for what you want to achieve"
+    },
+    {
+      "name": "Anthony",
+      "lastName": "Rodríguez",
+      "gravatarEmail": "anthony.rodriguez@acklenavenue.com",
+      "position": "Developer",
+      "location": "Tegucigalpa, Honduras",
+      "department": ["All Ackleners", " Developers"],
+      "github": "https://github.com/AnthonyWRodriguez",
+      "quote": "A delayed game is eventually good, but a rushed game is forever bad.<br> -Shigeru Miyamoto"
     }
   ]
 }

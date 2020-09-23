@@ -1,76 +1,60 @@
 ---
 layout: job-opening
-title: QA Engineer
+title: QA Software Engineer
 location: Remote - Honduras
 time: Full Time
 description: >
-  We are looking for a Quality Assurance (QA) engineer who will manage 
-  exploratory and automated tests to ensure product quality. 
-  
-  Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
-
+  We are looking for a Quality Assurance (QA) software engineer, who will manage
+  different functional, non-functional testing techniques and automated tests to
+  ensure product quality, also, will be responsible for the creation and
+  maintenance of test cases to prevent bugs with software before the product
+  launch. Your duties will include but are not limited to, identifying and
+  analyzing any bugs and errors found during the test phase.
 responsibilities:
-  - >-
-    Prepare detailed, comprehensive and well-structured test plans and test
-    cases.
-  - >-
-    Review requirements, specifications and technical design documents to
-    provide timely and meaningful feedback.
-  - >-
-    Plan and coordinate testing activities, thoroughly identifying and
-    documenting bugs.
-  - Build and execute automation scripts using open source tools.
-  - >-
-    Organize testing processes for new and existing products to meet client
+  - Perform manual testing by using functional testing techniques
+  - Perform Cross-browser and mobile testing
+  - Creation and maintenance of detailed and comprehensive test cases
+  - Prepare detailed, comprehensive and well-structured test plans
+  - Collaborate with QA Team to develop effective strategies and test plans
+  - Organize testing processes for new and existing products to meet client
     needs.
-  - >-
-    Collaborate with internal teams (e.g. developers and product owners) to
-    identify system requirements.
-  - Review the debugging process results.
-  - >-
-    Track quality assurance metrics, like defect densities and open defect
-    counts.
-  - >-
-    Analyze the causes of non-conforming software and train users to implement
-    solutions.
-  - Maintain relevant knowledge about new testing tools and test strategies.
-  - Review and analyze system specifications.
-  - Collaborate with QA Team to develop effective strategies and test plans.
-  - Write and Execute test cases (manual/automated) and analyze results.
-  - Evaluate product code according to specifications.
-  - Create logs to document testing phases and defects.
-  - Help troubleshoot issues.
-  - 'Join team and guild meetings. '
-  - Test plan elaboration.
-  - Test Automation implementation and maintenance.
-  - Defects tracking.
-  - Manual testing.
-  - Cross browser testing.
-  - Full and target regression testing.
-  - Search balance in requirements.
-  - Estimating features from QA perspective.
-  - >-
-    Continuous communication with all team members (e.g developers
-    /designers/po).
-  - Conduct post-release/ post-implementation testing
-  - >-
-    Work with cross-functional teams to ensure quality throughout the software
+  - Plan, prioritize, and coordinate QA testing activities, thoroughly
+    identifying and documenting bugs.
+  - Identify, record and track bugs
+  - Reporting and documenting technical issues and help troubleshoot issues
+  - "Review the debugging process results "
+  - Perform full and target regression testing
+  - Perform non-functional testing according to the project’s needs
+  - Write and Execute test cases (manual/automated) and analyze results
+  - Test automation implementation and maintenance using open source tools
+  - Collaborate with internal teams (e.g. developers and product owners) to
+    identify system requirements, review and analyze system specifications
+  - Work together with the software developers to enhance and improve programs
+  - Estimating features from QA’s perspective
+  - Review requirements, specifications and technical design documents to
+    provide timely and meaningful feedback
+  - Recommend improvements in software to enhance user experience
+  - Motivate the development process for efficiency and performance
+  - Work with cross-functional teams to ensure quality throughout the software
     development lifecycle.
-  - Reviewing and analyzing system specifications.
-  - Reporting and documenting technical issues.
-  - Collaborate daily with an agile remote team.
-  - Develop test strategies.
+  - Continuous communication with all team members (e.g developers /designers/BA)
+  - Collaborate daily with Designers, Developers, Product owner, Ops to test and
+    deliver an intuitive, highly visible web/mobile app
+  - Participates in feature card showcases to the client if needed.
+  - Track quality assurance metrics, like defect densities and open defect counts
+  - Maintain relevant knowledge about new testing tools and test strategies
+  - Join team and guild meetings and collaborate daily with an agile remote team.
+  - Conduct post-release/ post-implementation testing.
   - Train clients on new tools and the system if needed.
-  - >-
-    Collaborate daily with Designers , Developers , Product owner, Ops to test
-    and deliver an intuitive, highly visible web/mobile app.
 requirements:
-  - >-
-    Solid experience in writing clear, concise and comprehensive test plans and
+  - BS or MS degree in Computer Science, Engineering or other related areas
+  - Knowledge of Agile/Scrum development principles
+  - Solid experience in manual testing software techniques
+  - Solid experience in creation and maintenance of automated test
+  - Solid experience in writing clear, concise, and comprehensive test plans and
     test cases.
-  - Excellent communication skills.
-  - Understanding of Agile/Scrum development principles.
-  - 'BS or MS degree in Computer Science, Engineering or other related areas.'
+  - Excellent communication skills
+  - Analytical and problem-solving skills.
+  - Team player.
 hidden: false
 ---
-
