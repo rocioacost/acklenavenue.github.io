@@ -694,6 +694,19 @@
       "facebook": "https://www.facebook.com/maai.ham",
       "linkedin": "https://www.linkedin.com/in/maaiham/",
       "quote": "Time and chance happen to them all!",
+    },
+    {
+      "name": "Monique",
+      "lastName": "Stigter",
+      "gravatarEmail": "monique@acklenavenue.com",
+      "position": "Developer",
+      "location": "San Pedro Sula, Honduras",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "linkedin": "https://www.linkedin.com/in/monique-stigter",
+      "quote": "All you need in this life is ignorance and confidence; then success is sure.<br> - Mark Twain",
     }
   ]
 }
