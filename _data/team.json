@@ -65,8 +65,6 @@
     },
     {
       "lastName": "Mezquita",
-      "github": "",
-      "facebook": "",
       "position": "Director of Business Operations and Marketing",
       "name": "Fernanda",
       "department": [
@@ -180,7 +178,6 @@
         "All Ackleners",
         "Developers"
       ],
-      "twitter": "",
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "erick@acklenavenue.com",
       "quote": "Just better than I was yesterday.",
@@ -202,19 +199,15 @@
     },
     {
       "lastName": "Chinchilla",
-      "github": "",
-      "facebook": "",
       "position": "Senior Designer",
       "name": "Daniel",
       "department": [
         "All Ackleners",
         "Designers"
       ],
-      "twitter": "",
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "dchinchilla@acklenavenue.com",
-      "quote": "Take me back to Jeni's Splendid Ice Cream",
-      "linkedin": ""
+      "quote": "Take me back to Jeni's Splendid Ice Cream"
     },
     {
       "lastName": "Guevara",
@@ -271,22 +264,6 @@
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "ambarsuarez@acklenavenue.com",
       "quote": "Everybody wants to rule the world."
-    },
-    {
-      "lastName": "Welchez",
-      "github": "https://github.com/cesarwelch",
-      "facebook": "https://www.facebook.com/cesarwelch",
-      "position": "Developer",
-      "name": "César",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "twitter": "https://twitter.com/cesarwelch",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "cesarwelchez@acklenavenue.com",
-      "quote": "Acklen Avenue Rocks so Much!",
-      "linkedin": "https://www.linkedin.com/in/cesar-welchez-20b45a125/"
     },
     {
       "lastName": "Cerrato",
@@ -508,7 +485,7 @@
     {
       "lastName": "Cardona",
       "github": "https://github.com/rcart",
-      "position": "Developer",
+      "position": "Tribal Tech Lead",
       "name": "Ronny",
       "department": [
         "All Ackleners",
@@ -660,24 +637,8 @@
         "People Operations"
       ],
       "location": "San Pedro Sula, Honduras",
-      "instagram": "https://www.instagram.com/livingtoimprove/?hl=es-la",
+      "instagram": "https://www.instagram.com/livingtoimprove/",
       "quote": "Live to improve!"
-    },
-    {
-      "lastName": "Fernandez",
-      "github": "https://github.com/damasofc",
-      "facebook": "https://www.facebook.com/damasofc",
-      "position": "Quality Assurance",
-      "name": "Damaso",
-      "department": [
-        "All Ackleners",
-        "Quality Assurance"
-      ],
-      "twitter": "https://twitter.com/damasofc",
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "damaso.fernandez@acklenavenue.com",
-      "quote": "...Forgetting what is behind and straining toward what is ahead.<br> — Paul of Tarsus",
-      "linkedin": "https://www.linkedin.com/in/damasofc/"
     },
     {
       "lastName": "Vidaur",
@@ -731,7 +692,7 @@
       ],
       "github": "https://github.com/mahamtr",
       "facebook": "https://www.facebook.com/maai.ham",
-      "linkedin": "https://www.linkedin.com/in/maaiham/"
+      "linkedin": "https://www.linkedin.com/in/maaiham/",
       "quote": "Time and chance happen to them all!",
     }
   ]
