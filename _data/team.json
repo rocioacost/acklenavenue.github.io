@@ -735,4 +735,18 @@
       "linkedin": "https://www.linkedin.com/in/evanhensley/"
      }
     ]
+         {
+      "lastName": "Araque",
+      "position": "Scrum Master",
+      "name": "Yazmin",
+      "department": [
+        "All Ackleners",
+        "Scrum Masters"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "yazmin.araque@acklenavenue.com",
+      "quote": "It is the questions we can't answer that teach us the most. They teach us how to think.<br> — Patrick Rothfuss",
+      "linkedin": "https://www.linkedin.com/in/yazmin-araque-0bb525121/"
+    }
+  ]
 }
