@@ -721,6 +721,20 @@
       "linkedin": "https://www.linkedin.com/in/elder-david/",
       "quote": "Work Smarter not Harder",
     },
+    {
+      "lastName": "Hensley",
+      "position": "Engagement Manager",
+      "name": "Evan",
+      "department": [
+        "All Ackleners",
+        "Engagement Managers"
+      ],
+      "location": "Nashville, Tennessee",
+      "gravatarEmail": "evan.hensley@acklenavenue.com",
+      "quote": "If you choose not to decide, you still have made a choice.",
+      "linkedin": "https://www.linkedin.com/in/evanhensley/"
+     }
+    ]
          {
       "lastName": "Araque",
       "position": "Scrum Master",
