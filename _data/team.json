@@ -746,6 +746,19 @@
       "gravatarEmail": "yazmin.araque@acklenavenue.com",
       "quote": "It is the questions we can't answer that teach us the most. They teach us how to think.<br> — Patrick Rothfuss",
       "linkedin": "https://www.linkedin.com/in/yazmin-araque-0bb525121/"
+    },
+         {
+      "lastName": "Velasquez",
+      "name": "Angela",
+      "gravatarEmail": "angela.v@acklenavenue.com",
+      "position": "Designer",
+      "location": "Tegucigalpa, Honduras",
+      "department": [
+        "All Ackleners",
+        "Designers"
+      ],
+      "linkedin": "https://www.linkedin.com/in/angelavelasquez/",
+      "quote": "Prepare for trouble! And make it double!",
     }
   ]
 }
