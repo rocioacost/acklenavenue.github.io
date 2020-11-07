@@ -46,9 +46,16 @@ footer
     text-align: center
     padding: 12px
     opacity: 0.5
-    & p
-      color: white
+    
+    ul 
+      display: flex
+      justify-content: space-around
 
+    ul li
+      list-style: none
+
+    p,a
+      color: white
 @media (min-width: $screen-xm-min) and (max-width: $screen-sm-min)
   footer
     .footer__container
