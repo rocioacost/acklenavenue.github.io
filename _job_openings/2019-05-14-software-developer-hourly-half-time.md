@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: "Full Stack Software Developers"
+title: Full Stack Software Developer
 location: Remote - Honduras
 time: Half-Time / Hourly
 description: >-
