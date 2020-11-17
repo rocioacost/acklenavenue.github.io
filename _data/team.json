@@ -759,6 +759,19 @@
       ],
       "linkedin": "https://www.linkedin.com/in/angelavelasquez/",
       "quote": "Prepare for trouble! And make it double!",
-    }
+    },
+    {
+      "lastName": "Martinez",
+      "position": "Developer",
+      "name": "Lucia",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "lucia.martinez@acklenavenue.com",
+      "quote": "If you can dream it, you can achieve it.",
+      "linkedin": "https://www.linkedin.com/in/lucia-martinez-8545b867/"
+     }
   ]
 }
