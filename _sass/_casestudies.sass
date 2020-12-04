@@ -5,19 +5,40 @@ header.page-header
     background: $slate-purple url(../img/bg-tafs-case-study.png) no-repeat center bottom
   &--drillnomics
     background: $slate-purple url(../img/bg-drillnomics-case-study.png) no-repeat center bottom
+  &--fortune500partnership
+    background: $slate-purple url(../img/bg-fortune500partnership-case-study.png) no-repeat center bottom
+    min-height: 600px
+    display: flex
+    justify-content: center
+    align-items: center
+
+.title-center--fortune500partnership
+    display: flex
+    flex-direction: column
+    justify-content: space-around
+    height: 500px
+    max-width: 900px
+    margin-bottom: 80px
+    align-items: center
+
+.aa-logo
+  &--fortune500partnership
+    width: 250px
+    text-align: center
 
 
 .text-block
   max-width: 1100px
   margin: 0 auto
   text-align: center
-  padding: 80px 25px
+  padding: 60px 25px
   text-align: left
   & h2
     padding: 30px
     text-align: center
   & p
     line-height: 40px
+    padding: 0px 0px 15px
   &--small
     max-width: 650px
   &--centered
@@ -157,6 +178,44 @@ header.page-header
       top: 80px
       left: 200px
       padding: 20px
+  
+  &--fortune500partnership
+    max-width: 900px
+    margin: 0 auto
+    padding: 30px 0
+    &__caption
+      padding: 80px 0
+      color: $white
+      max-width: 450px
+      color: white
+      margin: 0 auto
+    & p
+      color: white
+  &--fortune500partnership:before
+    content: ""
+    position: absolute
+    z-index: -1
+    width: 100%
+    min-height: 900px
+    top: 460px
+    left: 0
+    transform: skewY(6deg)
+    transform-origin: 0
+    background: $slate-purple
+    border-top: 1px solid $black-12
+    border-bottom: 1px solid $black-12
+  &--fortune500partnership__twoScreens
+    position: relative
+    &__one
+      position: relative
+      top: 0
+      right: 200px
+      padding: 20px
+    &__two
+      position: absolute
+      top: 80px
+      left: 200px
+      padding: 20px
    
 .iconHurdl
   width: 90px
@@ -234,7 +293,9 @@ header.page-header
     border: 1px solid $black-12
     margin: 10px
     border-radius: $radius
-  	
+  &--fortune500partnership h4
+    padding: 25px 15px 10px
+
 .theResults
   text-align: center
   position: relative
@@ -246,7 +307,7 @@ header.page-header
     margin: 0 auto
     padding: 60px
     & h2
-      padding: 30px
+      padding: 0px 20px 30px
   &--hurdl
     padding: 120px 20px 250px
     &:before
@@ -296,6 +357,80 @@ header.page-header
       background-size: cover
       background-repeat: no-repeat
       background-position: center
+  &--fortune500partnership
+    padding: 170px 20px 30px
+    &:before
+      content: ""
+      position: absolute
+      z-index: -1
+      width: 100%
+      min-height: 750px
+      top: -389px
+      left: 0
+      transform: skewY(6deg)
+      transform-origin: 0
+      background: $slate-purple url(../img/bg-fortune500partnership.jpg)
+      background-size: cover
+      background-repeat: no-repeat
+      background-position: center
+    & h5
+      padding: 40px 0 0px
+
+.fortune500partnership-footer
+  background: $slate-purple
+  color: white
+  display: flex
+  align-items: center
+  justify-content: center
+  flex-direction: column
+  padding: 170px 20px
+  position: relative
+  background: $slate-purple url(../img/bg-fortune500partnership-footer.jpg)
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin: 70px 0px 0px
+  
+  & h3
+    font-family: Montserrat
+    font-size: 42px
+    font-weight: 300
+    line-height: 51px
+    letter-spacing: 0.65625px
+    text-align: center
+    color: white
+    max-width: 600px
+   
+
+  &__avatar
+    padding: 50px 0
+    text-align: center
+    & h3
+      font-size: 1.7em
+      font-weight: 800
+      padding: 25px 0 10px
+    & h4
+      font-style: italic
+      color: white
+      font-weight: 300
+      text-align: center
+  
+  &__avatar__img
+    width: 150px
+    border-radius: 100em
+  &__contact
+    display: flex
+    justify-content: center
+    flex-direction: column
+    color: white
+    text-align: center
+    & p
+      color: white
+      padding: 15px 0 10px
+    & a
+      color: white
+      padding: 10px 0
+      font-size: 1.5em
 
 .callToAction
   max-width: 700px
@@ -477,6 +612,20 @@ header.page-header
         top: 0px
         left: 0px
         padding: 0px
+    &--fortune500partnership__twoScreens
+      position: relative
+      &__one
+        position: relative
+        top: -180px
+        right: 0px
+        padding: 0px
+      &__two
+        position: absolute
+        top: 0px
+        left: 0px
+        padding: 0px
+    &--fortune500partnership:before
+      top: 110px
 
   .tecnologiesUsed
     & ul li
