@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Technical Decisions & Business Acumen: Speaking both languages to drive
-  business value"
+title: "Technical Decisions & Business Acumen: How speaking both languages can
+  drive business value"
 date: 2020-06-11T00:00:00.000Z
 description: In technology-related projects or companies, many business
   decisions affect how technology is implemented.
@@ -11,7 +11,7 @@ excerpt: In technology-related projects or companies, many business decisions
 image: /img/posts/blog-post.png
 thumbnail: /img/posts/blog-post.png
 type: article
-keywords: 'Pair Programming, Agile, Software Development, Custom, Nashville, development'
+keywords: Pair Programming, Agile, Software Development, Custom, Nashville, development
 tags: software_development
 hidden: false
 ---
