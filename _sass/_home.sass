@@ -208,7 +208,7 @@ header
     -ms-transform: rotateY(180deg)
 
 
-#testimonialSingle
+#testimonialSingle, #testimonialSlider
   padding: 40px
   position: relative
 
@@ -579,7 +579,7 @@ header
     p
       font-size: $normal
 
-  #testimonialSingle:before
+  #testimonialSingle:before, #testimonialSlider:before
     min-height: 620px
     top: 80px
   
@@ -655,7 +655,7 @@ header
   header .last-sentence
     line-height: 40px
     padding: 10px 0px 20px 0px
-  #testimonialSingle:before
+  #testimonialSingle:before, #testimonialSlider:before
     min-height: 600px
     top: 50px
 
@@ -709,7 +709,7 @@ header
       font-size: 1.6em
       padding: 100px 40px 70px 40px
 
-  #testimonialSingle
+  #testimonialSingle, #testimonialSlider
     p
       font-size: 1em
       line-height: 1.68em
@@ -754,3 +754,61 @@ header
       font-size: 2.9vw
     & p
       font-size: 2.9vw
+
+@media (min-width: $screen-sm-min) and (max-width: $screen-md-min)
+  .slideshow-container 
+    .prev, .next 
+      visibility: hidden
+
+.slideshow-container 
+  position: relative
+  max-width: 80%
+  margin: 0 auto
+  min-height: 600px
+
+  .testimonialSlides
+    display: none;
+    padding: 2rem 5rem 0 5rem
+    text-align: center
+  .prev, .next
+    cursor: pointer
+    position: absolute
+    top: 55%;
+    width: auto;
+    margin-top: -1.875rem
+    padding: 1rem;
+    background: #71BF2C no-repeat
+    border-radius: 100%
+    user-select: none
+    transition: 0.4s
+    height: 60px
+    visibility: visible
+  .next 
+    position: absolute
+    right: 0
+  .prev img {
+    transform: rotate(90deg)
+    margin-top: 5px
+    margin-left: -2px
+  .next img 
+    transform: rotate(-90deg)
+    margin-top: 5px
+    margin-right: -2px
+  .prev:hover, .next:hover
+    background-color: rgba(0, 0, 0, 0.8)
+
+  .dot-container
+    text-align: center;
+    padding: 0 1.25rem;
+
+  .dot
+    height: 0.9375rem
+    width: 0.9375rem
+    margin: 0 2px
+    background-color: #f6eac1
+    border-radius: 50%
+    display: inline-block
+    transition: background-color 0.4s ease
+
+  .dot.active
+    background-color: #232323
