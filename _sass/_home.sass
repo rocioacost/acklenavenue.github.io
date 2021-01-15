@@ -218,7 +218,7 @@ header
     z-index: -1
     width: 100%
     min-height: 600px
-    top: 30px
+    top: 60px
     left: 0
     transform: skewY(6deg)
     transform-origin: 0
@@ -331,6 +331,60 @@ header
     font-weight: 300
     color: $black-80
     margin: -53px 0px 30px
+
+.slideshow-container 
+  position: relative
+  max-width: 90%
+  margin: 0 auto
+  min-height: 600px
+
+  .testimonialSlides
+    display: none
+    padding: 2rem 5rem 0 5rem
+    text-align: center
+  .prev, .next
+    cursor: pointer
+    position: absolute
+    top: 55%
+    width: auto
+    margin-top: -1.875rem
+    padding: 1rem
+    background: #71BF2C no-repeat
+    border-radius: 100%
+    user-select: none
+    transition: 0.4s
+    height: 60px
+    visibility: visible
+  .next 
+    position: absolute
+    right: 0
+  .prev img 
+    transform: rotate(90deg)
+    margin-top: 5px
+    margin-left: -2px
+  .next img 
+    transform: rotate(-90deg)
+    margin-top: 5px
+    margin-right: -2px
+  .prev:hover, .next:hover
+    background-color: $apple-green
+
+  .dot-container
+    text-align: center
+    padding: 0 1.25rem
+
+  .dot
+    height: 0.9375rem
+    width: 0.9375rem
+    margin: 0 2px
+    background-color: rgba(0, 0, 0, 0.12)
+    border-radius: 50%
+    display: inline-block
+    transition: background-color 0.4s ease
+
+  .dot.active
+    background-color: $apple-green
+
 
 #workForYou
   text-align: center
@@ -578,11 +632,21 @@ header
   #StressFreeWizardry
     p
       font-size: $normal
-
+  #testimonialSlider
+    padding: 40px 0
   #testimonialSingle:before, #testimonialSlider:before
     min-height: 620px
-    top: 80px
-  
+    top: 100px
+  #testimonialSingle p, #testimonialSlider p
+    font-size: 1.1em
+    line-height: 35px
+  .slideshow-container .prev, .slideshow-container .next
+    transform: scale(0.5)
+  .slideshow-container .testimonialSlides
+    padding: 2rem 3.5rem 0 3.5rem
+  .slideshow-container 
+    max-width: 100%
+
   #testimonialText
     padding: 200px 0px
     &:before
@@ -657,8 +721,12 @@ header
     padding: 10px 0px 20px 0px
   #testimonialSingle:before, #testimonialSlider:before
     min-height: 600px
-    top: 50px
-
+    top: 90px
+  #testimonialSingle p, #testimonialSlider p
+    font-size: 1.3em
+    line-height: 39px
+  .slideshow-container 
+    max-width: 100%
   #factsAndTech
     & .facts__content
       padding: 40px 20px
@@ -713,7 +781,6 @@ header
     p
       font-size: 1em
       line-height: 1.68em
-
   #teamStructure
     h2
       font-size: 1.6em
@@ -755,60 +822,4 @@ header
     & p
       font-size: 2.9vw
 
-@media (min-width: $screen-sm-min) and (max-width: $screen-md-min)
-  .slideshow-container 
-    .prev, .next 
-      visibility: hidden
 
-.slideshow-container 
-  position: relative
-  max-width: 80%
-  margin: 0 auto
-  min-height: 600px
-
-  .testimonialSlides
-    display: none;
-    padding: 2rem 5rem 0 5rem
-    text-align: center
-  .prev, .next
-    cursor: pointer
-    position: absolute
-    top: 55%;
-    width: auto;
-    margin-top: -1.875rem
-    padding: 1rem;
-    background: #71BF2C no-repeat
-    border-radius: 100%
-    user-select: none
-    transition: 0.4s
-    height: 60px
-    visibility: visible
-  .next 
-    position: absolute
-    right: 0
-  .prev img {
-    transform: rotate(90deg)
-    margin-top: 5px
-    margin-left: -2px
-  .next img 
-    transform: rotate(-90deg)
-    margin-top: 5px
-    margin-right: -2px
-  .prev:hover, .next:hover
-    background-color: rgba(0, 0, 0, 0.8)
-
-  .dot-container
-    text-align: center;
-    padding: 0 1.25rem;
-
-  .dot
-    height: 0.9375rem
-    width: 0.9375rem
-    margin: 0 2px
-    background-color: #f6eac1
-    border-radius: 50%
-    display: inline-block
-    transition: background-color 0.4s ease
-
-  .dot.active
-    background-color: #232323
