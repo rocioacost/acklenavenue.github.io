@@ -15,6 +15,7 @@ display_url: https://acklenavenue.com
 media_folder: 'img/posts'
 
 collections:
+
   - name: 'blog'
     label: 'Posts'
     folder: '_posts'
@@ -67,6 +68,7 @@ collections:
         widget: 'list'
         field: {label: 'Requirement', name: 'requirement', widget: 'string'}
       - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false }
+  
 
   - name: 'data'
     label: 'Data'

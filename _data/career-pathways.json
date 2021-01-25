@@ -1,0 +1,48 @@
+{
+    "guilds":[
+        {
+            "Software Development Engineer":[
+                {
+                    "title": "Full Stack Developer 1",
+                    "type": "Open"
+                },
+                {
+                    "title": "Full Stack Developer 2",
+                    "type": "Open"
+                },
+                {
+                    "title": "Full Stack Developer 3",
+                    "type": "Open"
+                },
+                {
+                    "title": "Full Stack Developer 4",
+                    "type": "Locked"
+                },
+                {
+                    "title": "Full Stack Developer 5",
+                    "type": "Locked"
+                },
+                {
+                    "title": "Full Stack Developer 6",
+                    "type": "Locked"
+                },
+                {
+                    "title": "Full Stack Developer 7",
+                    "type": "Locked"
+                },
+                {
+                    "title": "Full Stack Developer 8",
+                    "type": "Locked"
+                },
+                {
+                    "title": "Full Stack Developer 9",
+                    "type": "Locked"
+                },
+                {
+                    "title": "Full Stack Developer 10",
+                    "type": "Locked"
+                }
+            ]
+        }
+    ]
+}

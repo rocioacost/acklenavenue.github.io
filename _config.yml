@@ -33,3 +33,6 @@ collections:
   posts:
     output: true
     permalink: blog/:title
+  pathways:
+    output: true
+    permalink:  career-pathways/:title

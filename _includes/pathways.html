@@ -1,0 +1,67 @@
+{% assign pathways_list = site.pathways_list | where:"hidden", false %}
+
+
+<section id="pathways">
+    <div class="topRectangle">
+        <h6>Career Pathways</h6>
+    </div>
+
+    <div class="bottomContainer">
+        <div class="guilds">
+            <h6>Guilds</h6>
+            <hr class="solid" />
+
+            <div class="pathwayContainer">
+                {% for pathway in pathways_list %}
+                    <div class="accordion">
+                        <div class="contentBox">
+                            <div class="accordion-label"><p>{{ pathway.title }}</p></div>
+
+                            <div class="accordion-content">
+                                
+                                <div class="pathwayRow">
+                                    <div class="nameColumn">
+                                        <div class="playButton">
+                                            <img src="../img/OpenPathway.png" class="pathwayIcon" alt="">
+                                        </div>
+        
+                                        <div class="pLabel">
+                                            <p>Full Stack Developer 1</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="buttonColumn">
+                                            <a href="" class="viewBtn"> View Pathway</a>
+                                    </div>
+                                    
+                                </div>
+
+                                <div class="pathwayRow">
+                                    <div class="nameColumn">
+                                        <div class="playButton" style="background-color:  #4f4959;">
+                                            <img src="../img/LockedPathway.png" class="pathwayIcon" alt="">
+                                        </div>
+        
+                                        <div class="pLabel">
+                                            <p>Full Stack Developer 2</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="buttonColumn">
+                                        
+                                    </div>
+                                    
+                                </div>
+
+                                
+                            </div>
+                        </div>
+
+                        
+                    </div>
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+</section>
