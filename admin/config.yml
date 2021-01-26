@@ -90,6 +90,25 @@ collections:
                   widget: 'image',
                   required: false,
                 }
+      
+      -name: 'career-pathways'          
+        label: 'Pathways'
+        file: '_data/career-pathways.json'
+        fields:
+          -name: 'data'
+            label: 'Guilds'
+            widget: 'list'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              -name: 'levels'
+                label: 'Levels'
+                widget: 'list'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - { label: 'Type', name: 'type', widget: 'string' }
+
+                  
+
 
       - name: 'team'
         label: 'Team'

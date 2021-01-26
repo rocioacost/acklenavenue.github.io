@@ -1,4 +1,4 @@
-{% assign pathways_list = site.pathways_list | where:"hidden", false %}
+{% assign pathways = site.data.career-pathways.data %}
 
 
 <section id="pathways">
@@ -12,48 +12,34 @@
             <hr class="solid" />
 
             <div class="pathwayContainer">
-                {% for pathway in pathways_list %}
+                {% for pathway in pathways %}
                     <div class="accordion">
                         <div class="contentBox">
-                            <div class="accordion-label"><p>{{ pathway.title }}</p></div>
+                            <div class="accordion-label"><p>{{ pathway.name }}</p></div>
 
                             <div class="accordion-content">
                                 
-                                <div class="pathwayRow">
-                                    <div class="nameColumn">
-                                        <div class="playButton">
-                                            <img src="../img/OpenPathway.png" class="pathwayIcon" alt="">
-                                        </div>
-        
-                                        <div class="pLabel">
-                                            <p>Full Stack Developer 1</p>
-                                        </div>
-                                    </div>
+                                {% for level in pathway.levels %}
 
-                                    <div class="buttonColumn">
+                                    <div class="pathwayRow">
+                                        <div class="nameColumn">
+                                            <div class="playButton" {% if level.type == 'Locked' %} style="background-color:  #4F4959;" {% endif %}>
+                                                <img src="../img/{% if level.type == 'Open' %}Open{% else %}Locked{% endif %}Pathway.png" class="pathwayIcon" alt="">
+                                            </div>
+            
+                                            <div class="pLabel">
+                                                <p>{{ level.title }}</p>
+                                            </div>
+                                        </div>
+
+                                        <div class="buttonColumn">
                                             <a href="" class="viewBtn"> View Pathway</a>
-                                    </div>
-                                    
-                                </div>
-
-                                <div class="pathwayRow">
-                                    <div class="nameColumn">
-                                        <div class="playButton" style="background-color:  #4f4959;">
-                                            <img src="../img/LockedPathway.png" class="pathwayIcon" alt="">
                                         </div>
-        
-                                        <div class="pLabel">
-                                            <p>Full Stack Developer 2</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="buttonColumn">
                                         
                                     </div>
-                                    
-                                </div>
 
-                                
+                                {% endfor %}
+
                             </div>
                         </div>
 
