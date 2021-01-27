@@ -39,5 +39,5 @@ requirements:
     reaching across functional borders.
   - Experience with Amazon AWS is a HUGE plus!
   - Linux experience is required
-hidden: false
+hidden: true
 ---
