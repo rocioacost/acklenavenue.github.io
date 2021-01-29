@@ -3,7 +3,11 @@
 
 <section id="pathways">
     <div class="topRectangle">
-        <h6>Career Pathways</h6>
+        <div class="pathwaysTitle">
+            <h6>Career Pathways</h6>
+        </div>
+        <div class="dummyDiv" style="height: 0;"></div>
+        
     </div>
 
     <div class="bottomContainer">
@@ -33,8 +37,12 @@
                                         </div>
 
                                         <div class="buttonColumn">
-                                            <a href="" class="viewBtn"> View Pathway</a>
+                                            <a id="modal-close'{{level.title}}'" href="#img'{{level.title}}'" class="viewBtn"> View Pathway</a>
                                         </div>
+
+                                        <a href="#modal-close'{{level.title}}'" class="lightbox" id="img'{{level.title}}'">
+                                            <img src={{ level.image }} alt={{ level.title }}>
+                                        </a>
                                         
                                     </div>
 
@@ -58,9 +66,7 @@
         <h2 class="italicH2">Your career</h2>
         <h2>the boost it needs?</h2>
     </div>
-    <div class="buttonC">
-        <a class="btnStarted btn" href="https://acklen-avenue.breezy.hr/p/69c795a18db7-future-acklener/apply">Let’s get started</a>
-    </div>
+    
 </section>
 
 

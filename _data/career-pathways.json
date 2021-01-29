@@ -5,43 +5,53 @@
             "levels": [
                 {
                     "title": "Full Stack Developer 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_FullStackDev.jpg"
                 },
                 {
                     "title": "Full Stack Developer 2",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_FullStackDev2-05.jpg"
                 },
                 {
                     "title": "Full Stack Developer 3",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_FullStackDev3.jpg"
                 },
                 {
                     "title": "Full Stack Developer 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Full Stack Developer 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Full Stack Developer 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Full Stack Developer 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Full Stack Developer 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Full Stack Developer 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Full Stack Developer 10",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 }
             ]
         },
@@ -50,43 +60,53 @@
             "levels": [
                 {
                     "title": "Quality Assurance Associate 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_QA.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 2",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 3",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Quality Assurance Associate 10",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 }
                 
             ]
@@ -96,43 +116,53 @@
             "levels": [
                 {
                     "title": "UX/UI Designer 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_UXUI.jpg"
                 },
                 {
                     "title": "UX/UI Designer 2",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_UXUI2.jpg"
                 },
                 {
                     "title": "UX/UI Designer 3",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "UX/UI Designer 10",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 }
                 
             ]
@@ -142,44 +172,54 @@
             "levels": [
                 {
                     "title": "Operation Engineer 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_OperationEng.jpg"
                 },
                 {
                     "title": "Operation Engineer 2",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 3",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Operation Engineer 10",
-                    "type": "Locked"
-                },
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
                 
             ]
         },
@@ -188,44 +228,54 @@
             "levels": [
                 {
                     "title": "Scrum Master 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 2",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 3",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Scrum Master 10",
-                    "type": "Locked"
-                },
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
                 
             ]
         },
@@ -234,43 +284,53 @@
             "levels": [
                 {
                     "title": "Business Analyst 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 2",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 3",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Business Analyst 10",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 }
                 
             ]
@@ -280,43 +340,53 @@
             "levels": [
                 {
                     "title": "Engagement Manager 1",
-                    "type": "Open"
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 2",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 3",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 4",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 5",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 6",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 7",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 8",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 9",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 },
                 {
                     "title": "Engagement Manager 10",
-                    "type": "Locked"
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
                 }
                 
             ]
