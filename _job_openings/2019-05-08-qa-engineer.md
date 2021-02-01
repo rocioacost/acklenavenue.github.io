@@ -56,5 +56,5 @@ requirements:
   - Excellent communication skills
   - Analytical and problem-solving skills.
   - Team player.
-hidden: true
+hidden: false
 ---
