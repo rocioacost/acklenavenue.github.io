@@ -718,6 +718,16 @@
       "github": "https://github.com/eversonzs",
       "linkedin": "https://www.linkedin.com/in/eversonzs/",
       "quote": "If you do something, do it great!"
+    },
+    {
+      "name": "Jorge",
+      "lastName": "Crisanto",
+      "gravatarEmail": "jorge.crisanto@acklenavenue.com",
+      "position": "Developer",
+      "location": "La Lima, Honduras",
+      "department": ["All Ackleners", "Developers"],
+      "github": "https://github.com/jcrisanto",
+      "quote": "Fail often so you can succeed sooner"
     }
   ]
 }
