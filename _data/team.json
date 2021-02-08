@@ -707,6 +707,32 @@
       ],
       "github": "https://github.com/jcrisanto",
       "quote": "Fail often so you can succeed sooner"
+    },
+    {
+      "lastName": "Galdámez",
+      "github": "https://github.com/RGaldamez",
+      "position": "Quality Assurance",
+      "name": "Ricardo",
+      "department": [
+        "Quality Assurance"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "ricardo.galdamez@acklenavenue.com",
+      "quote": "Associate with people who are likely to improve you.<br> — Seneca",
+      "linkedin": "https://www.linkedin.com/in/ricardo-galdámez-6889a3191"
+    },
+    {
+      "lastName": "Rodríguez",
+      "github": "https://github.com/Josue-Rodriguez-98",
+      "position": "Software Developer",
+      "name": "Josue",
+      "department": [
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "david.rodriguez@acklenavenue.com",
+      "quote": "Die with memories, not dreams.",
+      "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
     }
   ]
 }
