@@ -328,20 +328,6 @@
       "linkedin": "https://www.linkedin.com/in/hndoss"
     },
     {
-      "lastName": "Ramos",
-      "github": "https://github.com/jimmybanegas93",
-      "position": "Developer",
-      "name": "Jimmy",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "jimmyramos@acklenavenue.com",
-      "quote": "I have not failed. I've just found 10,000 ways that won't work.<br> - Thomas Alva Edison",
-      "linkedin": "https://www.linkedin.com/in/jimmybanegas93"
-    },
-    {
       "name": "Oscar",
       "lastName": "Carranza",
       "gravatarEmail": "oscar.carranza@acklenavenue.com",
