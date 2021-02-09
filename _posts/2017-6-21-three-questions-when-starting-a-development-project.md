@@ -67,8 +67,3 @@ The above process, done well, will save you money.
 ## Conclusion
 
 In case you couldn’t tell, we’re fans of agile development; we use it ourselves. And while it isn’t applicable to every project, most software projects absolutely benefit from an agile development approach.
-
-\
-<div style="text-align:center; padding:50px 30px;">
-  <a href="/img/posts/agile-scrum.png" class="btn btn--apple hvr-ripple-out" >Download the Infographic</a>
-</div>
