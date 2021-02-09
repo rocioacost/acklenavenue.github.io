@@ -733,6 +733,17 @@
       "gravatarEmail": "david.rodriguez@acklenavenue.com",
       "quote": "Keep moving forward! <br> - Walt Disney",
       "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
-    }
+    },
+    {
+      "lastName": "Solórzano",
+      "github": "https://github.com/edsolo47",
+      "position": "Quality Assurance",
+      "name": "Eduardo",
+      "department": [
+        "Quality Assurance"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "eduardo.solorzano@acklenavenue.com",
+      "quote": "Judge a man by his questions rather than by his answers <br> - Voltaire",
   ]
 }
