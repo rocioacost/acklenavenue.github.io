@@ -733,6 +733,17 @@
       "gravatarEmail": "david.rodriguez@acklenavenue.com",
       "quote": "Keep moving forward! <br> - Walt Disney",
       "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
-    }
+    },
+    {
+  "name": "Marcelo",
+  "lastName": "Garcia",
+  "gravatarEmail": "marcelo.garcia@acklenavenue.com",
+  "position": "Software Developer",
+  "location": "San Pedro Sula, Honduras",
+  "department": ["All DAckleners", "Developers"], 
+  "github": "https://github.com/andresmarcelo99",
+  "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206",
+  "quote": "I keep moving forward."
+}
   ]
 }
