@@ -744,6 +744,18 @@
   "github": "https://github.com/andresmarcelo99",
   "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206",
   "quote": "I keep moving forward."
+},
+{
+      "name": "Mario",
+      "lastName": "Rubio",
+      "gravatarEmail": "mario.rubio@acklenavenue.com",
+      "position": "Quality Assurance",
+      "department": [ "All Ackleners", "Quality Assurance"],
+      "location": "San José de Copán, Honduras",
+      "github": "https://github.com/MarioRub",
+      "quote": "Talk is cheap. Show me the code.",
+      "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/",
+      "facebook": "https://www.facebook.com/mario.rub.1/"
 }
   ]
 }
