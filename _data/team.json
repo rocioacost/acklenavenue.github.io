@@ -718,6 +718,16 @@
       "github": "https://github.com/eversonzs",
       "linkedin": "https://www.linkedin.com/in/eversonzs/",
       "quote": "If you do something, do it great!"
-    }
-  ]
-}
+    },
+ {
+      "name": "Emilia",
+      "lastName": "Solorzano",
+      "gravatarEmail": "emilia.solorzano@acklenavenue.com",
+      "position": "People Ops Assistant",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Choloma, Honduras",
+      "quote": "Don't be afraid to fail, Be afraid not to try."
+    },
