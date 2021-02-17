@@ -744,6 +744,17 @@
   "github": "https://github.com/andresmarcelo99",
   "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206",
   "quote": "I keep moving forward."
-}
+},
+     {
+    	"name": "Andres",
+		"lastName": "Flores",
+		"gravatarEmail": "andres.flores@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/afloresmorales",
+		"linkedin": "https://www.linkedin.com/in/andres-flores-309679144/",
+		"quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator"
+  }
   ]
 }
