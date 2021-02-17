@@ -286,22 +286,6 @@
       "linkedin": "https://www.linkedin.com/in/diego-turcios-lara-b9a9448/"
     },
     {
-      "lastName": "Carrasco",
-      "github": "https://github.com/wecarrasco",
-      "facebook": "https://www.facebook.com/walecarrascom",
-      "position": "Developer",
-      "name": "Walther",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "twitter": "https://twitter.com/wecarrasco",
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "walther.carrasco@acklenavenue.com",
-      "quote": "The obstacle is the path.",
-      "linkedin": "https://www.linkedin.com/in/walthercarrasco/"
-    },
-    {
       "lastName": "Ferrera",
       "github": "https://github.com/AleKiller21",
       "position": "Developer",
@@ -342,20 +326,6 @@
       "gravatarEmail": "hector.rosales@acklenavenue.com",
       "quote": "There's always a way.<br>",
       "linkedin": "https://www.linkedin.com/in/hndoss"
-    },
-    {
-      "lastName": "Ramos",
-      "github": "https://github.com/jimmybanegas93",
-      "position": "Developer",
-      "name": "Jimmy",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "jimmyramos@acklenavenue.com",
-      "quote": "I have not failed. I've just found 10,000 ways that won't work.<br> - Thomas Alva Edison",
-      "linkedin": "https://www.linkedin.com/in/jimmybanegas93"
     },
     {
       "name": "Oscar",
@@ -578,13 +548,13 @@
       "github": "https://github.com/JosueVidaur",
       "facebook": "https://www.facebook.com/josueomar.vidaursalinas/",
       "position": "Developer",
-      "gravatarEmail": "josue.vidaur@acklenavenue.com",
       "name": "Josue",
       "department": [
         "All Ackleners",
         "Developers"
       ],
       "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "josue.vidaur@acklenavenue.com",
       "quote": "A dream is not only about never giving up, but about sacrificing yourself for what you want to achieve"
     },
     {
@@ -593,7 +563,10 @@
       "gravatarEmail": "anthony.rodriguez@acklenavenue.com",
       "position": "Developer",
       "location": "Tegucigalpa, Honduras",
-      "department": ["All Ackleners", " Developers"],
+      "department": [
+        "All Ackleners",
+        " Developers"
+      ],
       "github": "https://github.com/AnthonyWRodriguez",
       "quote": "A delayed game is eventually good, but a rushed game is forever bad.<br> -Shigeru Miyamoto"
     },
@@ -614,19 +587,19 @@
       "linkedin": "https://www.linkedin.com/in/csolorzanof/"
     },
     {
-      "name": "Maai",
       "lastName": "Ham",
-      "gravatarEmail": "maai.ham@acklenavenue.com",
+      "github": "https://github.com/mahamtr",
+      "facebook": "https://www.facebook.com/maai.ham",
       "position": "Developer",
-      "location": "San Pedro Sula, Honduras",
+      "name": "Maai",
       "department": [
         "All Ackleners",
         "Developers"
       ],
-      "github": "https://github.com/mahamtr",
-      "facebook": "https://www.facebook.com/maai.ham",
-      "linkedin": "https://www.linkedin.com/in/maaiham/",
-      "quote": "Time and chance happen to them all!"
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "maai.ham@acklenavenue.com",
+      "quote": "Time and chance happen to them all!",
+      "linkedin": "https://www.linkedin.com/in/maaiham/"
     },
     {
       "name": "Monique",
@@ -666,8 +639,8 @@
       "gravatarEmail": "evan.hensley@acklenavenue.com",
       "quote": "If you choose not to decide, you still have made a choice.",
       "linkedin": "https://www.linkedin.com/in/evanhensley/"
-     },
-         {
+    },
+    {
       "lastName": "Araque",
       "position": "Scrum Master",
       "name": "Yazmin",
@@ -705,29 +678,98 @@
       "gravatarEmail": "lucia.martinez@acklenavenue.com",
       "quote": "If you can dream it, you can achieve it.",
       "linkedin": "https://www.linkedin.com/in/lucia-martinez-8545b867/"
-     },
-    {
-      "name": "Everson",
-      "lastName": "Zelaya Sanchez",
-      "gravatarEmail": "everson.zelaya@acklenavenue.com",
-      "position": "Software Developer",
-      "location": "Tegucigalpa, Honduras",
-      "department": ["All Ackleners", "Developers"],
-      "facebook": "https://www.facebook.com/eversonzs",
-      "twitter": "https://twitter.com/EversonZS",
-      "github": "https://github.com/eversonzs",
-      "linkedin": "https://www.linkedin.com/in/eversonzs/",
-      "quote": "If you do something, do it great!"
     },
- {
+    {
+      "lastName": "Zelaya Sanchez",
+      "github": "https://github.com/eversonzs",
+      "facebook": "https://www.facebook.com/eversonzs",
+      "position": "Software Developer",
+      "name": "Everson",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "twitter": "https://twitter.com/EversonZS",
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "everson.zelaya@acklenavenue.com",
+      "quote": "If you do something, do it great!",
+      "linkedin": "https://www.linkedin.com/in/eversonzs/"
+    },
+    {
+      "name": "Jorge",
+      "lastName": "Crisanto",
+      "gravatarEmail": "jorge.crisanto@acklenavenue.com",
+      "position": "Developer",
+      "location": "La Lima, Honduras",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "github": "https://github.com/jcrisanto",
+      "quote": "Fail often so you can succeed sooner"
+    },
+    {
+      "lastName": "Galdámez",
+      "github": "https://github.com/RGaldamez",
+      "position": "Quality Assurance",
+      "name": "Ricardo",
+      "department": [
+        "Quality Assurance"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "ricardo.galdamez@acklenavenue.com",
+      "quote": "Associate with people who are likely to improve you.<br> — Seneca",
+      "linkedin": "https://www.linkedin.com/in/ricardo-galdámez-6889a3191"
+    },
+    {
+      "lastName": "Rodríguez",
+      "github": "https://github.com/Josue-Rodriguez-98",
+      "position": "Software Developer",
+      "name": "Josue",
+      "department": [ "All Ackleners",
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+
+      "gravatarEmail": "david.rodriguez@acklenavenue.com",
+      "quote": "Keep moving forward! <br> - Walt Disney",
+      "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
+    },
+    {
       "name": "Emilia",
       "lastName": "Solorzano",
       "gravatarEmail": "emilia.solorzano@acklenavenue.com",
       "position": "People Ops Assistant",
-      "department": [
+      "department":
         "All Ackleners",
         "People Operations"
       ],
       "location": "Choloma, Honduras",
       "quote": "Don't be afraid to fail, Be afraid not to try."
     },
+    {
+  "name": "Marcelo",
+  "lastName": "Garcia",
+  "gravatarEmail": "marcelo.garcia@acklenavenue.com",
+  "position": "Software Developer",
+  "location": "San Pedro Sula, Honduras",
+  "department": ["All Ackleners", "Developers"], 
+  "github": "https://github.com/andresmarcelo99",
+  "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206",
+  "quote": "I keep moving forward."
+},
+{
+      "name": "Mario",
+      "lastName": "Rubio",
+      "gravatarEmail": "mario.rubio@acklenavenue.com",
+      "position": "Quality Assurance",
+      "department": [ "All Ackleners", "Quality Assurance"],
+      "location": "San José de Copán, Honduras",
+      "github": "https://github.com/MarioRub",
+      "quote": "Talk is cheap. Show me the code.",
+      "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/",
+      "facebook": "https://www.facebook.com/mario.rub.1/"
+}
+  ]
+}
+

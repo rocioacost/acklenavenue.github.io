@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "name": "Software Development Engineer",
+            "levels": [
+                {
+                    "title": "Full Stack Developer 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_FullStackDev.jpg"
+                },
+                {
+                    "title": "Full Stack Developer 2",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_FullStackDev2-05.jpg"
+                },
+                {
+                    "title": "Full Stack Developer 3",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_FullStackDev3.jpg"
+                },
+                {
+                    "title": "Full Stack Developer 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Full Stack Developer 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Quality Assurance Associate",
+            "levels": [
+                {
+                    "title": "Quality Assurance Associate 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_QA.jpg"
+                },
+                {
+                    "title": "Quality Assurance Associate 2",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_QA2.jpg"
+                },
+                {
+                    "title": "Quality Assurance Associate 3",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Quality Assurance Associate 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Quality Assurance Associate 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+                
+            ]
+        },
+        {
+            "name": "UX/UI Designer",
+            "levels": [
+                {
+                    "title": "UX/UI Designer 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_UXUI.jpg"
+                },
+                {
+                    "title": "UX/UI Designer 2",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_UXUI2.jpg"
+                },
+                {
+                    "title": "UX/UI Designer 3",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "UX/UI Designer 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "UX/UI Designer 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+                
+            ]
+        },
+        {
+            "name": "Operation Engineer",
+            "levels": [
+                {
+                    "title": "Operation Engineer 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_OperationEng.jpg"
+                },
+                {
+                    "title": "Operation Engineer 2",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Operation Engineer 3",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Operation Engineer 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Operation Engineer 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+                
+            ]
+        },
+        {
+            "name":"Scrum Master",
+            "levels": [
+                {
+                    "title": "Scrum Master 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_ScrumMaster1.jpg"
+                },
+                {
+                    "title": "Scrum Master 2",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Scrum Master 3",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Scrum Master 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Scrum Master 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+                
+            ]
+        },
+        {
+            "name":"Business Analyst",
+            "levels": [
+                {
+                    "title": "Business Analyst 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/CareerPathways_BA1.jpg"
+                },
+                {
+                    "title": "Business Analyst 2",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Business Analyst 3",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Business Analyst 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Business Analyst 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+                
+            ]
+        },
+        {
+            "name":"Engagement Manager",
+            "levels": [
+                {
+                    "title": "Engagement Manager 1",
+                    "type": "Open",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Engagement Manager 2",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Engagement Manager 3",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Engagement Manager 4",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                },
+                {
+                    "title": "Engagement Manager 5",
+                    "type": "Locked",
+                    "image": "../img/careerpathwaysflowcharts/coming-soon.jpg"
+                }
+                
+            ]
+        }
+    ]
+}

@@ -68,6 +68,8 @@
 
 <!-- JS -->
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+
 <script>
     window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 </script>
@@ -89,3 +91,14 @@
         $(".md-trigger").click(function(){ Intercom('show'); });  
     })();
 </script>  
+
+<!--Accordion Script-->
+<script type="text/javascript">
+    const accordion = document.getElementsByClassName('contentBox')
+
+    for(i = 0; i<accordion.length; i++){
+        accordion[i].addEventListener('click', function(){
+            this.classList.toggle('active')
+        })
+    }
+</script>
