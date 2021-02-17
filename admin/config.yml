@@ -15,6 +15,7 @@ display_url: https://acklenavenue.com
 media_folder: 'img/posts'
 
 collections:
+
   - name: 'blog'
     label: 'Posts'
     folder: '_posts'
@@ -67,6 +68,7 @@ collections:
         widget: 'list'
         field: {label: 'Requirement', name: 'requirement', widget: 'string'}
       - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false }
+  
 
   - name: 'data'
     label: 'Data'
@@ -88,6 +90,25 @@ collections:
                   widget: 'image',
                   required: false,
                 }
+      
+      -name: 'career-pathways'          
+        label: 'Pathways'
+        file: '_data/career-pathways.json'
+        fields:
+          -name: 'data'
+            label: 'Guilds'
+            widget: 'list'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              -name: 'levels'
+                label: 'Levels'
+                widget: 'list'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - { label: 'Type', name: 'type', widget: 'string' }
+
+                  
+
 
       - name: 'team'
         label: 'Team'

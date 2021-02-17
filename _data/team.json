@@ -726,10 +726,11 @@
       "github": "https://github.com/Josue-Rodriguez-98",
       "position": "Software Developer",
       "name": "Josue",
-      "department": [
+      "department": [ "All Ackleners",
         "Developers"
       ],
       "location": "Tegucigalpa, Honduras",
+
       "gravatarEmail": "david.rodriguez@acklenavenue.com",
       "quote": "Keep moving forward! <br> - Walt Disney",
       "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
@@ -740,10 +741,58 @@
       "position": "Quality Assurance",
       "name": "Eduardo",
       "department": [
+        "All Ackleners",       
         "Quality Assurance"
       ],
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "eduardo.solorzano@acklenavenue.com",
       "quote": "Judge a man by his questions rather than by his answers <br> - Voltaire",
-  ]
+},
+    {
+      "name": "Emilia",
+      "lastName": "Solorzano",
+      "gravatarEmail": "emilia.solorzano@acklenavenue.com",
+      "position": "People Ops Assistant",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Choloma, Honduras",
+      "quote": "Don't be afraid to fail, Be afraid not to try."
+    },
+    {
+  "name": "Marcelo",
+  "lastName": "Garcia",
+  "gravatarEmail": "marcelo.garcia@acklenavenue.com",
+  "position": "Software Developer",
+  "location": "San Pedro Sula, Honduras",
+  "department": ["All Ackleners", "Developers"], 
+  "github": "https://github.com/andresmarcelo99",
+  "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206",
+  "quote": "I keep moving forward."
+},
+     {
+    	"name": "Andres",
+		"lastName": "Flores",
+		"gravatarEmail": "andres.flores@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/afloresmorales",
+		"linkedin": "https://www.linkedin.com/in/andres-flores-309679144/",
+		"quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator"
+  },
+{
+      "name": "Mario",
+      "lastName": "Rubio",
+      "gravatarEmail": "mario.rubio@acklenavenue.com",
+      "position": "Quality Assurance",
+      "department": [ "All Ackleners", "Quality Assurance"],
+      "location": "San José de Copán, Honduras",
+      "github": "https://github.com/MarioRub",
+      "quote": "Talk is cheap. Show me the code.",
+      "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/",
+      "facebook": "https://www.facebook.com/mario.rub.1/"
+ 
 }
+]
