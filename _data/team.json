@@ -736,11 +736,24 @@
       "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
     },
     {
+      "lastName": "Solórzano",
+      "github": "https://github.com/edsolo47",
+      "position": "Quality Assurance",
+      "name": "Eduardo",
+      "department": [
+        "All Ackleners",       
+        "Quality Assurance"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "eduardo.solorzano@acklenavenue.com",
+      "quote": "Judge a man by his questions rather than by his answers <br> - Voltaire",
+},
+    {
       "name": "Emilia",
       "lastName": "Solorzano",
       "gravatarEmail": "emilia.solorzano@acklenavenue.com",
       "position": "People Ops Assistant",
-      "department":
+      "department": [
         "All Ackleners",
         "People Operations"
       ],
@@ -780,7 +793,6 @@
       "quote": "Talk is cheap. Show me the code.",
       "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/",
       "facebook": "https://www.facebook.com/mario.rub.1/"
+ 
 }
-  ]
-}
-
+]
