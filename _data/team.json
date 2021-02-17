@@ -756,6 +756,20 @@
       "quote": "Talk is cheap. Show me the code.",
       "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/",
       "facebook": "https://www.facebook.com/mario.rub.1/"
-}
+},
+    {
+      "name": "Daniel",
+      "lastName": "Suazo",
+      "position": "Software Developer",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "daniel.suazo@acklenavenue.com",
+      "quote": "Divide and Conquer",
+      "github": "https://github.com/Suaze9",
+      "linkedin": "https://www.linkedin.com/in/daniel-suazo-897351186/"
+    }
   ]
 }
