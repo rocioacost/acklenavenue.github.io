@@ -726,13 +726,26 @@
       "github": "https://github.com/Josue-Rodriguez-98",
       "position": "Software Developer",
       "name": "Josue",
-      "department": [
+      "department": [ "All Ackleners",
         "Developers"
       ],
       "location": "Tegucigalpa, Honduras",
+
       "gravatarEmail": "david.rodriguez@acklenavenue.com",
       "quote": "Keep moving forward! <br> - Walt Disney",
       "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205"
+    },
+    {
+      "name": "Emilia",
+      "lastName": "Solorzano",
+      "gravatarEmail": "emilia.solorzano@acklenavenue.com",
+      "position": "People Ops Assistant",
+      "department":
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Choloma, Honduras",
+      "quote": "Don't be afraid to fail, Be afraid not to try."
     },
     {
   "name": "Marcelo",
@@ -759,3 +772,4 @@
 }
   ]
 }
+
