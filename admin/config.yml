@@ -2,6 +2,7 @@
 ---
 {% assign departments = site.data.departments.data | map: "name" %}
 
+
 backend:
   name: github
   repo: AcklenAvenue/acklenavenue.github.io
@@ -91,16 +92,16 @@ collections:
                   required: false,
                 }
       
-      -name: 'career-pathways'          
+      - name: 'career-pathways'          
         label: 'Pathways'
         file: '_data/career-pathways.json'
         fields:
-          -name: 'data'
+          - name: 'data'
             label: 'Guilds'
             widget: 'list'
             fields:
               - { label: 'Name', name: 'name', widget: 'string' }
-              -name: 'levels'
+              - name: 'levels'
                 label: 'Levels'
                 widget: 'list'
                 fields:
