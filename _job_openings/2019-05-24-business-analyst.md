@@ -1,12 +1,12 @@
 ---
 layout: job-opening
-title: Product Owner
+title: Business Analyst
 location: Remote-Honduras
 time: Full Time
 description: >
-  We are looking for a Product Manager who will work with our
-  cross-functional  teams to help them design, build and roll-out products that
-  deliver the  company’s vision and strategy. 
+  We are looking for a Business Analyst who will work with our cross-functional
+  teams to help them design, build, and roll-out products that deliver the
+  company’s vision and strategy. 
 
   Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
 responsibilities:
@@ -29,9 +29,9 @@ responsibilities:
   - Collaborate with engineering teams to deliver with quick time-to-market and
     optimal resources.
 requirements:
-  - As an Acklen Avenue product owner, you are the voice of our client and a
+  - As an Acklen Avenue business analyst, you are the voice of our client and a
     leading facilitator of the relationship between our development teams and
-    the product owner on the client side.
+    the business analyst on the client side.
   - Your challenge is to have a vision of what the client wishes to build and
     convey that vision to the development team. You will have the ability to
     explore business value with clients, understand users, prioritize features
@@ -42,7 +42,7 @@ requirements:
     appreciate the advantages and maximize their results.
   - CSPO or PSPO certification is a plus.
   - Knowledge of agile and scrum/kanban/scrumban.
-  - 2 - 4 years of experience as a product owner.
+  - 2 - 4 years of experience as a business analyst.
   - General business experience.
   - Above average communication skills.
 hidden: false
