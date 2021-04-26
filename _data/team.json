@@ -223,21 +223,7 @@
       "location": "Tegucigalpa, Honduras",
       "linkedin": "https://www.linkedin.com/in/yamilg",
       "quote": "Just do it!"
-    },
-    {
-      "lastName": "Suárez",
-      "github": "https://github.com/ambarsf",
-      "facebook": "https://www.facebook.com/ambar.suarez12",
-      "position": "Quality Assurance",
-      "name": "Ambar",
-      "department": [
-        "All Ackleners",
-        "Quality Assurance"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "ambarsuarez@acklenavenue.com",
-      "quote": "Everybody wants to rule the world."
-    },
+    },    
     {
       "lastName": "Cerrato",
       "github": "https://github.com/Elder-C",
@@ -578,6 +564,7 @@
       "name": "Carlos",
       "department": [
         "All Ackleners",
+        "Architects",
         "Developers"
       ],
       "twitter": "https://twitter.com/illgamer",
@@ -747,19 +734,7 @@
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "eduardo.solorzano@acklenavenue.com",
       "quote": "Judge a man by his questions rather than by his answers <br> - Voltaire"
-    },
-    {
-      "name": "Emilia",
-      "lastName": "Solorzano",
-      "gravatarEmail": "emilia.solorzano@acklenavenue.com",
-      "position": "People Ops Assistant",
-      "department": [
-        "All Ackleners",
-        "People Operations"
-      ],
-      "location": "Choloma, Honduras",
-      "quote": "Don't be afraid to fail, Be afraid not to try."
-    },
+    },    
     {
       "name": "Marcelo",
       "lastName": "Garcia",
@@ -842,7 +817,7 @@
         "Quality Assurances"
       ],
       "facebook": "https://www.facebook.com/ilichgarcia27",
-      "github": "https://github.com/alberto-zavala-aa",
+      "github": "https://github.com/ilich-garcia",
       "linkedin": "https://www.linkedin.com/in/ilich-garcia/",
       "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."
     }
