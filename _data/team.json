@@ -817,6 +817,21 @@
       "quote": "Never stop learning!"
     },
     {
+
+      "name": " Iliana",
+      "lastName": "Pinto",
+      "gravatarEmail": "iliana.pinto@acklenavenue.com",
+      "position": "Software Developer",
+      "location": "Tegucigalpa, Honduras",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "linkedin": "https://www.linkedin.com/in/iliana-pinto-b90959196/",
+      "github": "https://github.com/IlianaPinto",
+      "quote": "Make each day your masterpiece. – John Wooden"
+    },
+    {
       "name": "Ilich",
       "lastName": "García",
       "gravatarEmail": "ilich.garcia@acklenavenue.com",
