@@ -779,6 +779,17 @@
       "facebook": "https://www.facebook.com/mario.rub.1/"
     },
     {
+    "name": "Daniela",
+    "lastName": "Andino",
+    "gravatarEmail": "daniela.andino@acklenavenue.com",
+    "position": "UX Designer",
+    "location": "Tegucigalpa, Honduras",
+    "department": ["All Ackleners", "Designer"], 
+    "github": "https://github.com/Daniela-AndinoM",
+    "linkedin": "https://www.linkedin.com/in/daniela-andino-46410b121/",
+    "quote": "Unstoppable Soul"
+    },
+    {
       "name": "Daniel",
       "lastName": "Suazo",
       "gravatarEmail": "daniel.suazo@acklenavenue.com",
