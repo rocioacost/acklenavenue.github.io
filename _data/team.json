@@ -779,6 +779,20 @@
       "facebook": "https://www.facebook.com/mario.rub.1/"
     },
     {
+      "name": "Daniel",
+      "lastName": "Suazo",
+      "gravatarEmail": "daniel.suazo@acklenavenue.com",
+      "position": "Software Developer",
+      "location": "Tegucigalpa, Honduras",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "quote": "Divide and Conquer",
+      "github": "https://github.com/Suaze9",
+      "linkedin": "https://www.linkedin.com/in/daniel-suazo-897351186/"
+    },
+    {
       "name": "Alberto",
       "lastName": "Zavala",
       "gravatarEmail": "alberto.zavala@acklenavenue.com",
@@ -792,7 +806,6 @@
       "quote": "Never stop learning!"
     },
     {
-
       "name": " Iliana",
       "lastName": "Pinto",
       "gravatarEmail": "iliana.pinto@acklenavenue.com",
