@@ -817,6 +817,7 @@
       "quote": "Never stop learning!"
     },
     {
+
       "name": " Iliana",
       "lastName": "Pinto",
       "gravatarEmail": "iliana.pinto@acklenavenue.com",
@@ -829,6 +830,21 @@
       "linkedin": "https://www.linkedin.com/in/iliana-pinto-b90959196/",
       "github": "https://github.com/IlianaPinto",
       "quote": "Make each day your masterpiece. – John Wooden"
+    },
+    {
+      "name": "Ilich",
+      "lastName": "García",
+      "gravatarEmail": "ilich.garcia@acklenavenue.com",
+      "position": "Quality Assurance",
+      "location": "Tegucigalpa, Honduras",
+      "department": [
+        "All Ackleners",
+        "Quality Assurances"
+      ],
+      "facebook": "https://www.facebook.com/ilichgarcia27",
+      "github": "https://github.com/alberto-zavala-aa",
+      "linkedin": "https://www.linkedin.com/in/ilich-garcia/",
+      "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."
     }
   ]
 }
