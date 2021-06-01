@@ -37,7 +37,7 @@
     {
       "lastName": "Norman",
       "facebook": "https://www.facebook.com/tommynorman",
-      "position": "VP of Agile Operations",
+      "position": "Chief Agility Officer",
       "name": "Tommy",
       "department": [
         "All Ackleners",
@@ -223,7 +223,7 @@
       "location": "Tegucigalpa, Honduras",
       "linkedin": "https://www.linkedin.com/in/yamilg",
       "quote": "Just do it!"
-    },    
+    },
     {
       "lastName": "Cerrato",
       "github": "https://github.com/Elder-C",
@@ -735,73 +735,76 @@
       "location": "Tegucigalpa, Honduras",
       "gravatarEmail": "eduardo.solorzano@acklenavenue.com",
       "quote": "Judge a man by his questions rather than by his answers <br> - Voltaire"
-    },    
+    },
     {
-      "name": "Marcelo",
       "lastName": "Garcia",
-      "gravatarEmail": "marcelo.garcia@acklenavenue.com",
-      "position": "Software Developer",
-      "location": "San Pedro Sula, Honduras",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
       "github": "https://github.com/andresmarcelo99",
-      "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206",
-      "quote": "I keep moving forward."
-    },
-    {
-      "name": "Andres",
-      "lastName": "Flores",
-      "gravatarEmail": "andres.flores@acklenavenue.com",
-      "position": "Developer",
-      "location": "San Pedro Sula, Honduras",
+      "position": "Software Developer",
+      "name": "Marcelo",
       "department": [
         "All Ackleners",
         "Developers"
       ],
-      "github": "https://github.com/afloresmorales",
-      "linkedin": "https://www.linkedin.com/in/andres-flores-309679144/",
-      "quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator"
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "marcelo.garcia@acklenavenue.com",
+      "quote": "I keep moving forward.",
+      "linkedin": "www.linkedin.com/in/marcelo-garcia-01b5a2206"
     },
     {
-      "name": "Mario",
+      "lastName": "Flores",
+      "github": "https://github.com/afloresmorales",
+      "position": "Developer",
+      "name": "Andres",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "gravatarEmail": "andres.flores@acklenavenue.com",
+      "quote": "Whatever you do in life, echoes in eternity.<br> — Gladiator",
+      "linkedin": "https://www.linkedin.com/in/andres-flores-309679144/"
+    },
+    {
       "lastName": "Rubio",
-      "gravatarEmail": "mario.rubio@acklenavenue.com",
+      "github": "https://github.com/MarioRub",
+      "facebook": "https://www.facebook.com/mario.rub.1/",
       "position": "Quality Assurance",
+      "name": "Mario",
       "department": [
         "All Ackleners",
         "Quality Assurance"
       ],
       "location": "San José de Copán, Honduras",
-      "github": "https://github.com/MarioRub",
+      "gravatarEmail": "mario.rubio@acklenavenue.com",
       "quote": "Talk is cheap. Show me the code.",
-      "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/",
-      "facebook": "https://www.facebook.com/mario.rub.1/"
+      "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/"
     },
     {
-    "name": "Daniela",
-    "lastName": "Andino",
-    "gravatarEmail": "daniela.andino@acklenavenue.com",
-    "position": "UX Designer",
-    "location": "Tegucigalpa, Honduras",
-    "department": ["All Ackleners", "Designer"], 
-    "github": "https://github.com/Daniela-AndinoM",
-    "linkedin": "https://www.linkedin.com/in/daniela-andino-46410b121/",
-    "quote": "Unstoppable Soul"
-    },
-    {
-      "name": "Daniel",
-      "lastName": "Suazo",
-      "gravatarEmail": "daniel.suazo@acklenavenue.com",
-      "position": "Software Developer",
+      "lastName": "Andino",
+      "github": "https://github.com/Daniela-AndinoM",
+      "position": "UX Designer",
+      "name": "Daniela",
+      "department": [
+        "All Ackleners",
+        "Designer"
+      ],
       "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "daniela.andino@acklenavenue.com",
+      "quote": "Unstoppable Soul",
+      "linkedin": "https://www.linkedin.com/in/daniela-andino-46410b121/"
+    },
+    {
+      "lastName": "Suazo",
+      "github": "https://github.com/Suaze9",
+      "position": "Software Developer",
+      "name": "Daniel",
       "department": [
         "All Ackleners",
         "Developers"
       ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "daniel.suazo@acklenavenue.com",
       "quote": "Divide and Conquer",
-      "github": "https://github.com/Suaze9",
       "linkedin": "https://www.linkedin.com/in/daniel-suazo-897351186/"
     },
     {
@@ -818,33 +821,33 @@
       "quote": "Never stop learning!"
     },
     {
-      "name": " Iliana",
       "lastName": "Pinto",
-      "gravatarEmail": "iliana.pinto@acklenavenue.com",
+      "github": "https://github.com/IlianaPinto",
       "position": "Software Developer",
-      "location": "Tegucigalpa, Honduras",
+      "name": " Iliana",
       "department": [
         "All Ackleners",
         "Developers"
       ],
-      "linkedin": "https://www.linkedin.com/in/iliana-pinto-b90959196/",
-      "github": "https://github.com/IlianaPinto",
-      "quote": "Make each day your masterpiece. – John Wooden"
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "iliana.pinto@acklenavenue.com",
+      "quote": "Make each day your masterpiece. – John Wooden",
+      "linkedin": "https://www.linkedin.com/in/iliana-pinto-b90959196/"
     },
     {
-      "name": "Ilich",
       "lastName": "García",
-      "gravatarEmail": "ilich.garcia@acklenavenue.com",
+      "github": "https://github.com/ilich-garcia",
+      "facebook": "https://www.facebook.com/ilichgarcia27",
       "position": "Quality Assurance",
-      "location": "Tegucigalpa, Honduras",
+      "name": "Ilich",
       "department": [
         "All Ackleners",
         "Quality Assurances"
       ],
-      "facebook": "https://www.facebook.com/ilichgarcia27",
-      "github": "https://github.com/ilich-garcia",
-      "linkedin": "https://www.linkedin.com/in/ilich-garcia/",
-      "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "ilich.garcia@acklenavenue.com",
+      "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.",
+      "linkedin": "https://www.linkedin.com/in/ilich-garcia/"
     }
   ]
 }
