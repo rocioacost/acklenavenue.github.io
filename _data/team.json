@@ -159,18 +159,6 @@
       "quote": "Acklen Avenue Rocks!"
     },
     {
-      "lastName": "Chinchilla",
-      "position": "Senior Designer",
-      "name": "Daniel",
-      "department": [
-        "All Ackleners",
-        "Designers"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "dchinchilla@acklenavenue.com",
-      "quote": "Take me back to Jeni's Splendid Ice Cream"
-    },
-    {
       "lastName": "Guevara",
       "github": "https://github.com/fernandoguevar4",
       "facebook": "https://www.facebook.com/ferguevarai",
@@ -326,20 +314,6 @@
       "location": "San Pedro Sula, Honduras",
       "linkedin": "https://www.linkedin.com/in/carlos-vaquedano-633603a1/",
       "quote": "Together we can do more!"
-    },
-    {
-      "lastName": "Salazar",
-      "github": "https://github.com/JSalazr",
-      "position": "Developer",
-      "name": "Jonathan",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "San Pedro Sula, Honduras",
-      "gravatarEmail": "jonathan@acklenavenue.com",
-      "quote": "Happiness depends upon ourselves.<br> — Aristotle",
-      "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/"
     },
     {
       "lastName": "Velásquez",
@@ -726,20 +700,6 @@
       "gravatarEmail": "mario.rubio@acklenavenue.com",
       "quote": "Talk is cheap. Show me the code.",
       "linkedin": "https://www.linkedin.com/in/mario-rubio-337597145/"
-    },
-    {
-      "lastName": "Andino",
-      "github": "https://github.com/Daniela-AndinoM",
-      "position": "UX Designer",
-      "name": "Daniela",
-      "department": [
-        "All Ackleners",
-        "Designer"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "gravatarEmail": "daniela.andino@acklenavenue.com",
-      "quote": "Unstoppable Soul",
-      "linkedin": "https://www.linkedin.com/in/daniela-andino-46410b121/"
     },
     {
       "lastName": "Suazo",
