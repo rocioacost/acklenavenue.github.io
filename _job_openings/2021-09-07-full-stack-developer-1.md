@@ -3,9 +3,14 @@ layout: job-opening
 title: Full-Stack Developer
 location: Remote
 time: Full Time
-description: "You can check further details on this position through the
-  following link: https://acklenavenue.com/careers/software-developer"
-responsibilities: []
+description: We are looking for a Software Developer who will assist us with the
+  design, development, and implementation of software solutions.
+salaryRange: ""
+responsibilities:
+  - Write out the solution to the project’s requirements in an agile manner
+    while guiding the junior developer in the process, hold technical meetings
+    with the involved parties to determine the data flow between the application
+    being developed and the other two existing systems in place
 requirements:
   - "Required Technologies: .NET Core 5.0, Angular JS, Akita, Git, Experience
     with REST API Development and data exchange. "
