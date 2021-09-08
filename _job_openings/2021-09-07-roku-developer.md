@@ -4,7 +4,9 @@ title: Roku Developer
 location: Remote
 time: Full Time
 description: "For more information, contact us via recruiting@acklenavenue.com "
-salaryRange: "In this position you will be building a custom Roku App. "
+salaryRange: ""
+responsibilities:
+  - "In this position you will be building a custom Roku App. "
 requirements:
   - "Required Technologies: Roku, BrightScript."
   - Mid-Senior Level.
