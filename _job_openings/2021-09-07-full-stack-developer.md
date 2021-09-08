@@ -19,5 +19,5 @@ requirements:
   - "C1 Advanced English Level. "
   - Availability in CST time zone.
   - Remote work.
-hidden: false
+hidden: true
 ---
