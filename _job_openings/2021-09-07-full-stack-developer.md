@@ -6,7 +6,7 @@ time: Full Time
 description: "We are looking for a Software Developer who will assist us with
   the design, development, and implementation of software solutions. "
 responsibilities:
-  - Write out the solution to the project's requirements in an agile manner
+  - Write out the solution to the project’s requirements in an agile manner
     while guiding the junior developer in the process, hold technical meetings
     with the involved parties to determine the data flow between the application
     being developed and the other two existing systems in place.
