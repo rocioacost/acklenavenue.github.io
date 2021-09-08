@@ -10,7 +10,7 @@ responsibilities:
   - Write out the solution to the project’s requirements in an agile manner
     while guiding the junior developer in the process, hold technical meetings
     with the involved parties to determine the data flow between the application
-    being developed and the other two existing systems in place
+    being developed and the other two existing systems in place.
 requirements:
   - "Required Technologies: .NET Core 5.0, Angular JS, Akita, Git, Experience
     with REST API Development and data exchange. "
