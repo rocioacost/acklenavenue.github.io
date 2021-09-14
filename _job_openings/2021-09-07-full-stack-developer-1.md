@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Full-Stack Developer
+title: .NET Developer
 location: Remote
 time: Full Time
 description: We are looking for a Software Developer who will assist us with the
